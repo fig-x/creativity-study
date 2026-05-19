@@ -2,9 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <!-- maximum-scale and user-scalable removed so native pinch-to-zoom works on the page.
+         The canvas element uses touchAction:"none" to intercept its own touch events
+         and prevent native zoom specifically there. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>Drawing Study</title>
-    <script type="module" crossorigin src="/creativity-study/assets/index-Dk5U2kig.js"></script>
+    <script type="module" crossorigin src="/creativity-study/assets/index-DDpsfRgY.js"></script>
     <link rel="stylesheet" crossorigin href="/creativity-study/assets/index-B9_xp-aN.css">
   </head>
   <body>
