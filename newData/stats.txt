@@ -1,0 +1,96 @@
+newData Image Statistics
+============================================================
+Total images: 365
+
+TOTALS BY SHAPE
+------------------------------------------------------------
+  circle: 149
+  lines: 216
+
+TOTALS BY SHAPE × GROUP
+------------------------------------------------------------
+  circle / AI simple Anti AI: 60
+  circle / AI Many: 89
+  lines / AI simple Anti AI: 55
+  lines / AI Many: 161
+
+BY SHAPE × GROUP × CATEGORY
+============================================================
+
+CIRCLE
+  AI simple Anti AI:
+    Perfect: 47
+    Nearly Perfect: 13
+    TOTAL: 60
+  AI Many:
+    Perfect: 72
+    Nearly Perfect: 11
+    Passable: 3
+    Needs significant improvement: 3
+    TOTAL: 89
+
+LINES
+  AI simple Anti AI:
+    Perfect: 33
+    Nearly Perfect: 11
+    Passable: 6
+    Not usable: 5
+    TOTAL: 55
+  AI Many:
+    Perfect: 71
+    Nearly Perfect: 20
+    Passable: 33
+    Needs significant improvement: 16
+    Not usable: 21
+    TOTAL: 161
+
+BY SHAPE × GROUP × QUALITY
+============================================================
+
+CIRCLE
+  AI simple Anti AI:
+    high: 25
+    medium: 35
+  AI Many:
+    high: 24
+    medium: 65
+
+LINES
+  AI simple Anti AI:
+    high: 28
+    medium: 27
+  AI Many:
+    high: 94
+    medium: 67
+
+BY SHAPE × GROUP × CATEGORY × QUALITY
+============================================================
+
+CIRCLE
+  AI simple Anti AI:
+    Perfect (47): high=17, medium=30
+    Nearly Perfect (13): high=8, medium=5
+  AI Many:
+    Perfect (72): high=17, medium=55
+    Nearly Perfect (11): high=6, medium=5
+    Passable (3): high=1, medium=2
+    Needs significant improvement (3): medium=3
+
+LINES
+  AI simple Anti AI:
+    Perfect (33): high=15, medium=18
+    Nearly Perfect (11): high=4, medium=7
+    Passable (6): high=4, medium=2
+    Not usable (5): high=5
+  AI Many:
+    Perfect (71): high=42, medium=29
+    Nearly Perfect (20): high=14, medium=6
+    Passable (33): high=21, medium=12
+    Needs significant improvement (16): high=10, medium=6
+    Not usable (21): high=7, medium=14
+
+NOTES
+------------------------------------------------------------
+  No low quality images in the current set.
+  Circle AI simple has no Passable, Not usable, or Needs significant improvement categories.
+  Circle AI Many has no Not usable images.
