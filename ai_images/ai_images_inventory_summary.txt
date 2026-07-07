@@ -1,0 +1,37 @@
+AI Images Inventory Summary (excluding 2880x2880 and Not usable)
+
+Target    Category                          Quality    Count
+---------------------------------------------------------------
+circle    Perfect                           high          17
+circle    Nearly Perfect                    high           6
+circle    Passable+Needs                    high           1
+circle    (subtotal)                        high          24
+
+circle    Perfect                           medium        55
+circle    Nearly Perfect                    medium         5
+circle    Passable+Needs                    medium         5
+circle    (subtotal)                        medium        65
+
+lines     Perfect                           high          42
+lines     Nearly Perfect                    high          14
+lines     Passable+Needs                    high          31
+lines     (subtotal)                        high          87
+
+lines     Perfect                           medium        29
+lines     Nearly Perfect                    medium         6
+lines     Passable+Needs                    medium        18
+lines     (subtotal)                        medium        53
+
+Totals by target:
+  circle: 89
+  lines:  140
+
+Totals by quality:
+  high:   111
+  medium: 118
+
+Totals by category:
+                                    circle    lines
+  Perfect                               72       71
+  Nearly Perfect                        11       20
+  Passable+Needs                         6       49
