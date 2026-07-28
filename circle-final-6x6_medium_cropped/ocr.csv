@@ -1,0 +1,361 @@
+filename,openai,tesseract,easyocr,verified,label
+10_01.png,Sunrise,Fe .* Sunrise,Sunrise,Sunrise,sun
+10_02.png,Smiley Face,Smiley Face,Smiley Face,Smiley Face,smiley face
+10_03.png,Balloon,( Balloon,Balloon,Balloon,balloon
+10_04.png,Fish,NY Fish,Fish,Fish,fish
+10_05.png,Apple,Apple,Apple,Apple,apple
+10_06.png,Clock,Clock,Clock,Clock,clock
+10_07.png,Coffee Cup,Coffee Cup,Cup Coffee,Coffee Cup,cup
+10_08.png,Wheels,Wheels,Wheels,Wheels,wheel
+10_09.png,Earth,Earth,Earth,Earth,globe/earth
+10_10.png,Snowman,Su Snow Man,Snowman,Snowman,snowman
+10_11.png,Bomb,Bomb,Bomb,Bomb,bomb
+10_12.png,Crystal Ball,Cu) Crystal Ball,Crystal Ball,Crystal Ball,crystal ball
+10_13.png,Fried Egg,Fried Egg,Fried Egg,Fried Egg,fried egg
+10_14.png,Donut,Donut,Donut,Donut,donut
+10_15.png,Bullseye,Bullseye,Bullseye,Bullseye,target
+10_16.png,Kettle,Kettle,Kettle,Kettle,teapot
+10_17.png,Doughnut Hole,Doughnut Hole,Doughnut Hole,Doughnut Hole,donut
+10_18.png,Moon,Moon,Moon,Moon,moon
+10_19.png,Sailing Boat,Sailing Boat,Sailing Boat,Sailing Boat,sailboat
+10_20.png,Magnifying Glass,Magnifying Glass,Magnifying Glass,Magnifying Glass,magnifying glass
+10_21.png,Light Bulb,a Light Bulb,Light Bulb,Light Bulb,light bulb
+10_22.png,Bee,Bee,Bee,Bee,bee
+10_23.png,Cake,Cake,Cake,Cake,cake
+10_24.png,Porthole,Porthole,Porthole,Porthole,porthole
+10_25.png,Glasses,Glasses,Glasses,Glasses,glasses
+10_26.png,Button,Button,Button,Button,button
+10_27.png,Planet with Ring,Planet with Ring,Ring Planet with,Planet with Ring,planet
+10_28.png,Tire Swing,VN \ty7 Tire Swing,Swing Tire,Tire Swing,tire
+10_29.png,Medal,Medal,Medal,Medal,medal
+10_30.png,Life Preserver,ee Life Preserver,Life Preserver,Life Preserver,life preserver
+10_31.png,Satellite Dish,Satellite Dish,Satellite Dish,Satellite Dish,satellite dish
+10_32.png,Pac-Man,Pac-Man,Pac - Man,Pac-Man,pac-man
+10_33.png,Lollipop,U Lollipop,Lollipop,Lollipop,lollipop
+10_34.png,Globe on Stand,a | G lobe on Stand,Globe Stand on,Globe on Stand,globe/earth
+10_35.png,8-Ball,8 - Ball,8 - Ball,8-Ball,8 ball
+10_36.png,Poké Ball,Poke Ball,Poke Ball,Poké Ball,poké ball
+1_01.png,Sun,| Sun,Sun,Sun,sun
+1_02.png,Flower,24 Flower,Flower,Flower,flower
+1_03.png,Clock,Clock,Clock,Clock,clock
+1_04.png,Balloon,TY Balloon,Balloon,Balloon,balloon
+1_05.png,Fish,Fish,Fish,Fish,fish
+1_06.png,Eye,Eye,Eye,Eye,eye
+1_07.png,Wheel,Wheel,Wheel,Wheel,wheel
+1_08.png,Cookie,NL Cookie,Cookie,Cookie,cookie
+1_09.png,Button,> ee Button,Button,Button,button
+1_10.png,Cup,= Cup,Cup,Cup,cup
+1_11.png,Ladybug,fmnw_L* Ladybug,Ladybug,Ladybug,ladybug
+1_12.png,Light Bulb,S Light Bulb,Light Bulb,Light Bulb,light bulb
+1_13.png,Compass,S) Compass,S Compass,Compass,compass
+1_14.png,Doughnut,ML Doughnut,Doughnut,Doughnut,donut
+1_15.png,Planet,w * Planet,Planet,Planet,planet
+1_16.png,Bomb,Bomb,Bomb,Bomb,bomb
+1_17.png,Snowman,"NY, Snowman",Snowman,Snowman,snowman
+1_18.png,Frying Pan,4 Frying Pan,Frying Pan,Frying Pan,frying pan
+1_19.png,Magnifying Glass,Ls Magnifying Glass,Magnifying Glass,Magnifying Glass,magnifying glass
+1_20.png,Crystal Ball,"“—_—"" Crystal Ball",Ball Crystal,Crystal Ball,crystal ball
+1_21.png,Ornament,NY Ornament,Ornament,Ornament,ornament
+1_22.png,Ring,ing Ri <4,Ring,Ring,ring
+1_23.png,Life Preserver,Me Life Preserver,Life Preserver,Life Preserver,life preserver
+1_24.png,Porthole,M2 Porthole,Porthole,Porthole,porthole
+1_25.png,Camera Lens,Camera Lens,Lens Camera,Camera Lens,camera lens
+1_26.png,Target,ae Target,Target,Target,cross
+1_27.png,Eyeball,ae Eyeball,Eyeball,Eyeball,eyeball
+1_28.png,8 Ball,> 8 Ball,Ball 8,8 Ball,8 ball
+1_29.png,Globe,<> Globe,Globe,Globe,globe/earth
+1_30.png,Bell,U Bell,Bell,Bell,bell
+1_31.png,Button Battery,Button Battery,Battery Button,Button Battery,button
+1_32.png,Pizza,=” Pizza,Pizza,Pizza,pizza
+1_33.png,Ship Wheel,_— O a Ship Wheel,Ship Wheel,Ship Wheel,ship wheel
+1_34.png,Tape Roll,“eee — Tape Roll,Tape Roll,Tape Roll,tape roll
+1_35.png,Volleyball,_2 Volleyball,Volleyball,Volleyball,volleyball/basketball
+1_36.png,Peach,LZ Peach,Peach,Peach,apple
+2_01.png,Sun,/ | \ Sun,Sun,Sun,sun
+2_02.png,Balloon,pallor,Balloon,Balloon,balloon
+2_03.png,Clock,> ne Clock,Clock,Clock,clock
+2_04.png,Fish,om Fish,Fish,Fish,fish
+2_05.png,Button,ue Button,Button,Button,button
+2_06.png,Doughnut,NLY Doughnut,Doughnut,Doughnut,donut
+2_07.png,Flower,-,Flower,Flower,flower
+2_08.png,Magnifying Glass,Magnifying Glass,Magnifying Glass,Magnifying Glass,magnifying glass
+2_09.png,Crystal Ball,—— Crystal Ball,Crystal Ball,Crystal Ball,crystal ball
+2_10.png,Bomb,"NY, Bomb",Bomb,Bomb,bomb
+2_11.png,Frying Pan,Frying Pan NX,Fring Pan,Frying Pan,frying pan
+2_12.png,Cookie,NL Cookie,Cookie,Cookie,cookie
+2_13.png,Planet,Vv _—_ Planet,Planet,Planet,planet
+2_14.png,Eye,6) Eye,Eye,Eye,eye
+2_15.png,Porthole,Porthole,Porthole,Porthole,porthole
+2_16.png,Bullseye,NL Bullseye,Bullseye,Bullseye,target
+2_17.png,Wreath,DS Wreath,Wreath,Wreath,wreath
+2_18.png,Life Preserver,——— Life Preserver,Life Preserver,Life Preserver,life preserver
+2_19.png,Snowman,a) Snowman,Snowman,Snowman,snowman
+2_20.png,Light Bulb,SS Light Bulb,Light Bulb,Light Bulb,light bulb
+2_21.png,Lollipop,J Lollipop,Lollipop,Lollipop,lollipop
+2_22.png,Ladybug,NL Ladybug,Ladybug,Ladybug,ladybug
+2_23.png,Turtle,WS NS Turtle,Turtle,Turtle,turtle
+2_24.png,Compass,-,Compass,Compass,compass
+2_25.png,Cat Face,> Cot Face,Face Cat,Cat Face,animal face
+2_26.png,Speaker,ee Speaker,Speaker,Speaker,speaker
+2_27.png,Vinyl Record,Vinyl Record,Vinyl Record,Vinyl Record,record
+2_28.png,Smiley Face,Smiley Face,Smiley Face,Smiley Face,smiley face
+2_29.png,8 Ball,>a 8 Ball,8 Ball,8 Ball,8 ball
+2_30.png,Moon,> ee Moon,Moon,Moon,moon
+2_31.png,Christmas Ornament,tie Christmas Ornament,Christmas Ornament,Christmas Ornament,ornament
+2_32.png,Target Practice,Tara et Practice,Target Practice,Target Practice,cross
+2_33.png,O Ship Wheel,U Ship Wheel,Ship Wheel,O Ship Wheel,ship wheel
+2_34.png,Sailboat,ee NE OD eT ee Sailboat,Sailboat,Sailboat,sailboat
+2_35.png,Medal,> a Medal,Medal,Medal,medal
+2_36.png,Bell,4 XN Bell,Bell,Bell,bell
+3_01.png,Sun,en Sun,Sun,Sun,sun
+3_02.png,Clock,Clock,Clock,Clock,clock
+3_03.png,Bicycle,Bicycle,Bicycle,Bicycle,bike
+3_04.png,Yarn Ball,4 ROS Ow Yarn Ball,Ball Yarn,Yarn Ball,yarn ball
+3_05.png,Magnifying Glass,Magnifying Glass,Magnifying Glass,Magnifying Glass,magnifying glass
+3_06.png,Fish,Fish,Fish,Fish,fish
+3_07.png,Glasses,Glasses,Glasses,Glasses,glasses
+3_08.png,Ring,———e Ring,Ring,Ring,ring
+3_09.png,Crystal Ball,nV Crystal Ball,Crystal Ball,Crystal Ball,crystal ball
+3_10.png,Hot Air Balloon,Hot Air Balloon,Hot Air Balloon,Hot Air Balloon,hot air balloon
+3_11.png,Smiley Face,Smiley Face,Smiley Face,Smiley Face,smiley face
+3_12.png,Donut,eae Donut,Donut,Donut,donut
+3_13.png,Snowman,Snowman,Snowman,Snowman,snowman
+3_14.png,Bomb,~~ Bomb,Bomb,Bomb,bomb
+3_15.png,Globe,<a) Globe,Globe,Globe,globe/earth
+3_16.png,Speech Bubble,Speech Bubble,Speech Bubble,Speech Bubble,speech bubble
+3_17.png,Porthole,MOL Porthole,Porthole,Porthole,porthole
+3_18.png,Target,Target,Target,Target,target
+3_19.png,Button,Button,Button,Button,button
+3_20.png,Frying Pan,> Frying Pan,Frying Pan,Frying Pan,frying pan
+3_21.png,Tambourine,Tambourine,Tambourine,Tambourine,tambourine
+3_22.png,Moon,N > ue Ww Moon,Moon,Moon,moon
+3_23.png,Balloon,CO Balloon,Balloon,Balloon,balloon
+3_24.png,Cookie,> Cookie,Cookie,Cookie,cookie
+3_25.png,Wheel,Wheel,Wheel,Wheel,wheel
+3_26.png,Compass,ee Compass,Compass,Compass,compass
+3_27.png,Pizza,le Pizza,Pizza,Pizza,pizza
+3_28.png,Alarm Clock,"GF"" Alarm Clock",Alarm Clock,Alarm Clock,alarm clock
+3_29.png,Chick,nK Nw Chick,Chick,Chick,bird
+3_30.png,Flower,AL Flower,Flower,Flower,flower
+3_31.png,Lollipop,U Lollipop,Lollipop,Lollipop,lollipop
+3_32.png,Ladybug,Ladybug,Ladybug,Ladybug,ladybug
+3_33.png,Cup,ee Cup,Cup,Cup,cup
+3_34.png,UFO,J tiv NN UFO,UFO,UFO,ufo
+3_35.png,Medal,a a Medal,Medal,Medal,medal
+3_36.png,Planet,Planet,Planet,Planet,planet
+4_01.png,Sun,", ON Sun",Sun,Sun,sun
+4_02.png,Flower,AF’ Flower,Flower,Flower,flower
+4_03.png,Clock,> ti Clock,Clock,Clock,clock
+4_04.png,Fish,Fish,Fish,Fish,fish
+4_05.png,Balloon,( Balloon,Balloon,Balloon,balloon
+4_06.png,Wheel,Wheel,Wheel,Wheel,wheel
+4_07.png,Cookie,Cookie,Cookie,Cookie,cookie
+4_08.png,Planet,Ww Planet,Planet,Planet,planet
+4_09.png,Button,Button,Button,Button,button
+4_10.png,Magnifying Glass,Magnifying Glass,Magnifying Glass,Magnifying Glass,magnifying glass
+4_11.png,Moon,Ww — Moon,Moon,Moon,moon
+4_12.png,Eye,Eye,Eye,Eye,eye
+4_13.png,Light Bulb,ws,Light Bulb,Light Bulb,light bulb
+4_14.png,Lollipop,U Lollipop,Lollipop,Lollipop,lollipop
+4_15.png,Happy Face,Happy Face,Face,Happy Face,smiley face
+4_16.png,Bomb,Bomb,Bomb,Bomb,bomb
+4_17.png,Frying Pan,YY Frying Pan,Frying Pan,Frying Pan,frying pan
+4_18.png,S Compass,S) Compass,S Compass,S Compass,compass
+4_19.png,Donut,Donut,Donut,Donut,donut
+4_20.png,Glasses,Glasses,Glasses,Glasses,glasses
+4_21.png,Snowman,4A ee Snowman,Snowman,Snowman,snowman
+4_22.png,Wreath,7 ie Wreath,Wreath,Wreath,wreath
+4_23.png,Cooking Pot,Cooking Pot,Cooking Pot,Cooking Pot,teapot
+4_24.png,Pizza,Se Pizza,Pizza,Pizza,pizza
+4_25.png,Target,Target,Target,Target,target
+4_26.png,Globe,_—s Globe,Globe,Globe,globe/earth
+4_27.png,Crystal Ball,Se Crystal Ball,Crystal Ball,Crystal Ball,crystal ball
+4_28.png,Ring,Ring,Ring,Ring,ring
+4_29.png,Life Preserver,ee Life Preserver,Life Preserver,Life Preserver,life preserver
+4_30.png,Tennis Ball,Tennis Ball,Ball Tennis,Tennis Ball,tennis ball
+4_31.png,Alarm Clock,Alarm Clock,Alarm Clock,Alarm Clock,alarm clock
+4_32.png,Coin,EE Coin,Coin,Coin,coin
+4_33.png,Ladybug,-,Ladybug,Ladybug,ladybug
+4_34.png,Sewing,Sewing,Sewing,Sewing,sewing
+4_35.png,Camera,Camera,Camera,Camera,camera lens
+4_36.png,Candy,-,Candy,Candy,candy
+5_01.png,Sun,“1 \ Sun,Sun,Sun,sun
+5_02.png,Hot Air Balloon,\ sf Hot Air Balloon,Hot Air Balloon,Hot Air Balloon,hot air balloon
+5_03.png,Crystal Ball,"qq, Crystal Ball",Crystal Ball,Crystal Ball,crystal ball
+5_04.png,Headlight,Headlight,Headlight,Headlight,headlight
+5_05.png,Magnifying Glass,C4 Magnifying Glass,Magnifying Glass,Magnifying Glass,magnifying glass
+5_06.png,Clock,“ee Clock,Clock,Clock,clock
+5_07.png,Eye,Eye,Eye,Eye,eye
+5_08.png,Fish,>) Fish,Fish,Fish,fish
+5_09.png,Ship Porthole,No Ship Porthole,Ship Porthole,Ship Porthole,porthole
+5_10.png,Snow Globe,Se Snow Globe,Globe Snow,Snow Globe,snow globe
+5_11.png,Donut,iY Donut,Donut,Donut,donut
+5_12.png,Button,Lee Button,Button,Button,button
+5_13.png,Bomb,™_—™ Bomb,Bomb,Bomb,bomb
+5_14.png,Planet,Planet,Planet,Planet,planet
+5_15.png,Lollipop,U Lollipop,Lollipop,Lollipop,lollipop
+5_16.png,Medal,"NY, Medal",Medal,Medal,medal
+5_17.png,Target,"ML"" Targ et",Target,Target,target
+5_18.png,Moon,W —— Moon,Moon,Moon,moon
+5_19.png,Light Bulb,SS Light Bulb,Light Bulb,Light Bulb,light bulb
+5_20.png,Cookie,Le Cookie,Cookie,Cookie,cookie
+5_21.png,Wheel,ee Wheel,Wheel,Wheel,wheel
+5_22.png,Sun Hat,Sun Hat,Hat,Sun Hat,sun hat
+5_23.png,Coffee Cup,7” Coffee Cup,Coffee,Coffee Cup,cup
+5_24.png,Turtle,WW YT’ Turtle,Trtle,Turtle,turtle
+5_25.png,Volleyball,> ee Volleyball,Volleyball,Volleyball,volleyball/basketball
+5_26.png,Flower,we’ Flower,Flower,Flower,flower
+5_27.png,Compass,— Compass,Compass,Compass,compass
+5_28.png,Alarm Clock,Y—™® Alarm Clock,Clock Alarm,Alarm Clock,alarm clock
+5_29.png,Happy Face,~e Happy Face,Happy Face,Happy Face,smiley face
+5_30.png,Frying Pan,"n Po ng yl eee, ep,",Frying Pan,Frying Pan,frying pan
+5_31.png,Hobbit Door,— Hobbit Door,Hobbit Door,Hobbit Door,hobbit door
+5_32.png,Life Preserver,ALTE Life Preserver,Life Preserver,Life Preserver,life preserver
+5_33.png,8 Ball,SS 8 Ball,7 8 Ball,8 Ball,8 ball
+5_34.png,Hamster Wheel,Hamster Wheel,Hamster Wheel,Hamster Wheel,hamster wheel
+5_35.png,Film Reel,Film Reel,Film Reel,Film Reel,film reel
+5_36.png,Balloon,) Balloon,Balloon,Balloon,balloon
+6_01.png,Sunshine,/\° Sunshine,Sunshine,Sunshine,sun
+6_02.png,Curious Cat,9 a oe Curious Cat,Curious Cat,Curious Cat,animal face
+6_03.png,Detective,NO Detective,Detective,Detective,magnifying glass
+6_04.png,Crystal Ball,QS Crystal Ball,Crystal Ball,Crystal Ball,crystal ball
+6_05.png,Saturn,Saturn,Saturn,Saturn,planet
+6_06.png,Wake Up!,U—? Wake Up!,Wake Up!,Wake Up!,alarm clock
+6_07.png,Donut,ro Donut,Donut,Donut,donut
+6_08.png,Balloon,a) Balloon,Balloon,Balloon,balloon
+6_09.png,Little Fish,Little Fish,Little Fish,Little Fish,fish
+6_10.png,Wreath,oT Wreath,Wreath,Wreath,wreath
+6_11.png,Idea,S Idea,Idea,Idea,light bulb
+6_12.png,Bomb,7 Bomb,Bomb,Bomb,bomb
+6_13.png,Button,Button,Button,Button,button
+6_14.png,Snowman,wo Snowman,Snowman,Snowman,snowman
+6_15.png,Turtle,WoT W! Turtle,Turtle,Turtle,turtle
+6_16.png,Lemon Slice,——E—— Lemon Slice,Lemon Slice,Lemon Slice,fruit slice
+6_17.png,Happy Face,Happy Face,Happy Face,Happy Face,smiley face
+6_18.png,Compass,~~ Compass,Compass,Compass,compass
+6_19.png,Ship Wheel,mn) Ship Wheel,Ship Wheel,Ship Wheel,ship wheel
+6_20.png,Eyeball,> Eyeball,Eyeball,Eyeball,eyeball
+6_21.png,Cookie,> a Cookie,Cookie,Cookie,cookie
+6_22.png,Porthole,MOU Porthole,Porthole,Porthole,porthole
+6_23.png,Target,~e Target,Target,Target,target
+6_24.png,Frying Pan,> ee Frying Pan,Frying Pan,Frying Pan,frying pan
+6_25.png,Volleyball,Volleyball,Volleyball,Volleyball,volleyball/basketball
+6_26.png,Time Flies,> Time Flies,Time Flies,Time Flies,clock
+6_27.png,Moon,ST Moon,Moon,Moon,moon
+6_28.png,F'lower,\WZ7 Fiower,Flower,F'lower,flower
+6_29.png,Coin,> el Coin,Coin,Coin,coin
+6_30.png,Valve,Now Valve,Valve,Valve,valve
+6_31.png,Wise Owl,Ow Wise Oul,Owl Wise,Wise Owl,bird
+6_32.png,Earth,ae Earth,Earth,Earth,globe/earth
+6_33.png,Pizza,7 Pizza,Pizza,Pizza,pizza
+6_34.png,Tire,Tire,Tire,Tire,tire
+6_35.png,Embroidery,> Embroidery,Embroidery,Embroidery,embroidery
+6_36.png,Submarine,NS Submarine,Submarine,Submarine,submarine
+7_01.png,SUN,f \ * SUN,SUN,SUN,sun
+7_02.png,CLOCK,ie CLOCK,CLock,CLOCK,clock
+7_03.png,WHEEL,SO 0OC~™S WHEEL,WHEEL,WHEEL,wheel
+7_04.png,DONUT,DONUT,donut,DONUT,donut
+7_05.png,BALLoon,saucoon,BALLOON,BALLoon,balloon
+7_06.png,BOMB,BOMB,Bomb,BOMB,bomb
+7_07.png,CRYSTAL BALL,G&G. YY CRYSTAL BALL,BALL CRYSTAL,CRYSTAL BALL,crystal ball
+7_08.png,FISH,— FISH,Fish,FISH,fish
+7_09.png,SNOW GLOBE,SS SNOW GLOBE,Snow GLOBE,SNOW GLOBE,snow globe
+7_10.png,MAGNIFYING GLASS,NO MAGNIFYING GLASS,-,MAGNIFYING GLASS,magnifying glass
+7_11.png,TURTLE,= QQ _ TURTLE,-,TURTLE,turtle
+7_12.png,SHIP PORT HOLE,“—> rT SHIP PORT HOLE,Port Ship,SHIP PORT HOLE,porthole
+7_13.png,LOLLIPOP,U LOLLIPOP,-,LOLLIPOP,lollipop
+7_14.png,HOT AIR BALLOON,KY HOT AIR BALLOON,Hot BALLOON AiR,HOT AIR BALLOON,hot air balloon
+7_15.png,LIGHT BULB,S LIGHT BULB,Light,LIGHT BULB,light bulb
+7_16.png,PLANET,PLANET,PLANET,PLANET,planet
+7_17.png,WEBCAM,(a) WEBCAM,WEBCAM,WEBCAM,webcam
+7_18.png,FRYING PAN,ee FRYING PAN,Frying PAN,FRYING PAN,frying pan
+7_19.png,SPACE WINDOW,SPACE WINDOW,SPACE Window,SPACE WINDOW,window
+7_20.png,HAMSTER WHEEL,HAMSTER WHEEL,HAMSTER WHEEL,HAMSTER WHEEL,hamster wheel
+7_21.png,8 BALL,8 BALL,BALL 8,8 BALL,8 ball
+7_22.png,COFFEE CUP,> COFFEE CUP,cup COFFEE,COFFEE CUP,cup
+7_23.png,TARGET,> ue ee TARGET,TARGET,TARGET,target
+7_24.png,COMPASS,“= COMPASS,COmPASS,COMPASS,compass
+7_25.png,POMEGRANATE,ee POMEGRANATE,POMEGRANATE,POMEGRANATE,pomegranate
+7_26.png,BUTTON,BUTTON,Button,BUTTON,button
+7_27.png,CAMERA LENS,CAMERA LENS,LenS CAMERA,CAMERA LENS,camera lens
+7_28.png,COOKIE,Se — °° COOKIE,CookiE,COOKIE,cookie
+7_29.png,ECLIPSE,I ECLIPSE,-,ECLIPSE,sun
+7_30.png,WREATH,4/\3 WREATH,WREATH,WREATH,wreath
+7_31.png,COIN,COIN,Coin,COIN,coin
+7_32.png,VOLLEYBALL,~~ VOLLEYBALL,VOLLEYBALL,VOLLEYBALL,volleyball/basketball
+7_33.png,GEAR,~ Lp 7 GEAR,GEAR,GEAR,gear
+7_34.png,EYE,EYE,EYE,EYE,eye
+7_35.png,LIFE RING,Sh LIFE RING,Ring LIFE,LIFE RING,life preserver
+7_36.png,MOON,+ + MOON,Moon,MOON,moon
+8_01.png,sun,"/ |, \ sun",Sun,sun,sun
+8_02.png,balloon,( balloon,balloon,balloon,balloon
+8_03.png,clock,> a clock,clock,clock,clock
+8_04.png,cookie,aa Cookie,Cookie,cookie,cookie
+8_05.png,face,> face,face,face,smiley face
+8_06.png,snail,Ca Snail,Snail,snail,snail
+8_07.png,fish,OS fish,fish,fish,fish
+8_08.png,magnifying glass,\O magnifying glass,magnifying glass,magnifying glass,magnifying glass
+8_09.png,crystal ball,— crystal ball,crystal ball,crystal ball,crystal ball
+8_10.png,bomb,bomb,bomb,bomb,bomb
+8_11.png,ornament,Nl ornament,ornament,ornament,ornament
+8_12.png,planet,planet,planet,planet,planet
+8_13.png,wheel,OEE wheel,whee |,wheel,wheel
+8_14.png,donut,donut,donut,donut,donut
+8_15.png,button,button,button,button,button
+8_16.png,pocket watch,6 pocket watch,watch Pocket,pocket watch,pocket watch
+8_17.png,Compass,Compass,Compass,Compass,compass
+8_18.png,target,target,target,target,target
+8_19.png,light bulb,a light bulb,light bulb,light bulb,light bulb
+8_20.png,peephole,| peephole,peephole,peephole,peephole
+8_21.png,poll flower,Ia poll flower,flower Poll,poll flower,flower
+8_22.png,lollipop,U lollipop,lollipop,lollipop,lollipop
+8_23.png,tree canopy,JIN tree canopy,Jilli( tree canopy,tree canopy,tree canopy
+8_24.png,snowman head,Snowman head,head Snowman,snowman head,snowman
+8_25.png,eye,oe fF VY ¢ eye,eye,eye,eye
+8_26.png,tire swing,tire Swing,tire swing,tire swing,tire
+8_27.png,fried egg,7 fried egg,fried egg,fried egg,fried egg
+8_28.png,knitting ball,knitting ball,knitting ball,knitting ball,knitting ball
+8_29.png,cute monster,cute monster,Cute monster,cute monster,cute monster
+8_30.png,ladybug,i ~ aa ladybug,ladybug,ladybug,ladybug
+8_31.png,cup,cup,cup,cup,cup
+8_32.png,ship porthole,ship porthole,porthole ship,ship porthole,porthole
+8_33.png,moon,Moon,moon,moon,moon
+8_34.png,spyglass lens,spyglass lens,lens Spyglass,spyglass lens,spyglass lens
+8_35.png,smiley badge,vv smiley badge,smiley badge,smiley badge,smiley face
+8_36.png,apple,apple,apple,apple,apple
+9_01.png,sunburst,/ \ sunburst,Sunburst,sunburst,sun
+9_02.png,floating balloon,) i loating balloon,floating balloon,floating balloon,balloon
+9_03.png,captain's wheel,captain's wheel,captain's wheel,captain's wheel,ship wheel
+9_04.png,donut,NOL donut,donut,donut,donut
+9_05.png,magnifying glass,ND magnifying alass,magnifying glass,magnifying glass,magnifying glass
+9_06.png,crystal ball,_—_—_ crystal ball,ball crystal,crystal ball,crystal ball
+9_07.png,ship porthole,M2 ship porthole,ship porthole,ship porthole,porthole
+9_08.png,timekeeper,~~ er timekeeper,timekeeper,timekeeper,clock
+9_09.png,spider friend,spider friend,friend Spider,spider friend,spider
+9_10.png,snow globe,"—, Snow alobe",globe Snow,snow globe,snow globe
+9_11.png,button,Ez” button,button,button,button
+9_12.png,cartoon bomb,NLT cartoon bomb,Cartoon bomb,cartoon bomb,bomb
+9_13.png,sweet lollipop,U sweet lollipop,Sweet lollipop,sweet lollipop,lollipop
+9_14.png,bubble fish,bubble fish,bubble fish,bubble fish,fish
+9_15.png,fried egg,"Ne fried eq,",fried egg,fried egg,fried egg
+9_16.png,diamond ring,= diamond ring,diamond ring,diamond ring,ring
+9_17.png,fancy monocle,fancy monocle,fancy monocle,fancy monocle,fancy monocle
+9_18.png,compact mirror,ee Compact mirror,compact mirror,compact mirror,mirror
+9_19.png,cozy teapot,Cozy teapot,Cozy teapot,cozy teapot,teapot
+9_20.png,bright idea,SV bright idea,bright idea,bright idea,light bulb
+9_21.png,slow turtle,slow turtle,slow turtle,slow turtle,turtle
+9_22.png,ringed planet,ringed planet,-,ringed planet,planet
+9_23.png,window view,window view,Window view,window view,window
+9_24.png,cat face,cat face,Cat face,cat face,animal face
+9_25.png,bullseye,bullseye,bullseye,bullseye,target
+9_26.png,wake-up call,wake-up call,Wake-up call,wake-up call,alarm clock
+9_27.png,ladybug,i ee ladybug,ladybug,ladybug,ladybug
+9_28.png,lucky coin,">."" -—s ——— lucky coin",lucky coin,lucky coin,coin
+9_29.png,owl,Ww WwW owl,owi,owl,bird
+9_30.png,chocolate cookie,“ee” O 0 chocolate cookie,chocolate cookie,chocolate cookie,cookie
+9_31.png,moonlit crater,~e moonlit crater,moonlit crater,moonlit crater,moon
+9_32.png,all-seeing eye,all-seeing eye,all-seeing eye,all-seeing eye,eye
+9_33.png,holiday ornament,holiday ornament,holiday ornament,holiday ornament,ornament
+9_34.png,winky smile,winky smile,winky Smile,winky smile,smiley face
+9_35.png,gear wheel,gear wheel,wheel gear,gear wheel,gear
+9_36.png,chirpy bird,bt FS chirpy bird,chirpy bird,chirpy bird,bird

@@ -1,0 +1,5046 @@
+{
+  "labels": {
+    "\"which cannot be idcntified as an object": {
+      "x": 0.4787350296974182,
+      "y": 0.824455738067627,
+      "category": "abstract art design"
+    },
+    "11": {
+      "x": 0.40902212262153625,
+      "y": 0.7351322174072266,
+      "category": "numerals"
+    },
+    "50-yard dash": {
+      "x": 0.7416656017303467,
+      "y": 0.3544869124889374,
+      "category": "sports (not ball)"
+    },
+    "76": {
+      "x": 0.4303849935531616,
+      "y": 0.7467200756072998,
+      "category": "numerals"
+    },
+    "77": {
+      "x": 0.4169480502605438,
+      "y": 0.744712233543396,
+      "category": "numerals"
+    },
+    "8 ball": {
+      "x": 0.7983992695808411,
+      "y": 0.2458191215991974,
+      "category": "(not found)"
+    },
+    "99": {
+      "x": 0.43144282698631287,
+      "y": 0.734743058681488,
+      "category": "numerals"
+    },
+    "abacus": {
+      "x": 0.3920866847038269,
+      "y": 0.7397007346153259,
+      "category": "(not found)"
+    },
+    "aerial view": {
+      "x": 0.5222020745277405,
+      "y": 0.4849223792552948,
+      "category": "geography"
+    },
+    "airplane": {
+      "x": 0.5213032364845276,
+      "y": 0.4722925126552582,
+      "category": "air travel"
+    },
+    "airport": {
+      "x": 0.4774700105190277,
+      "y": 0.5561621189117432,
+      "category": "air travel"
+    },
+    "aladdin": {
+      "x": 0.11268109083175659,
+      "y": 0.4910546839237213,
+      "category": "supernatural creatures"
+    },
+    "alarm clock": {
+      "x": 0.6588802933692932,
+      "y": 0.897343099117279,
+      "category": "(not found)"
+    },
+    "alien": {
+      "x": 0.09948117285966873,
+      "y": 0.5097530484199524,
+      "category": "supernatural creatures"
+    },
+    "alley": {
+      "x": 0.5114450454711914,
+      "y": 0.6757809519767761,
+      "category": "street and street systems"
+    },
+    "ancient ruins": {
+      "x": 0.3351302444934845,
+      "y": 0.5386092066764832,
+      "category": "building"
+    },
+    "angel": {
+      "x": 0.062284763902425766,
+      "y": 0.4681342840194702,
+      "category": "supernatural creatures"
+    },
+    "angel wings": {
+      "x": 0.05041113868355751,
+      "y": 0.44736674427986145,
+      "category": "supernatural creatures"
+    },
+    "animal house": {
+      "x": 0.3298304080963135,
+      "y": 0.43733975291252136,
+      "category": "building"
+    },
+    "antlers": {
+      "x": 0.20677517354488373,
+      "y": 0.4497559666633606,
+      "category": "animal or animal part"
+    },
+    "ants": {
+      "x": 0.3997822105884552,
+      "y": 0.6754916310310364,
+      "category": "insect"
+    },
+    "apartment house": {
+      "x": 0.3598594069480896,
+      "y": 0.49611321091651917,
+      "category": "building"
+    },
+    "ape": {
+      "x": 0.3837149441242218,
+      "y": 0.7011878490447998,
+      "category": "animal or animal part"
+    },
+    "apple": {
+      "x": 0.3421002924442291,
+      "y": 0.24261587858200073,
+      "category": "fruit"
+    },
+    "apple core": {
+      "x": 0.3611098527908325,
+      "y": 0.2805163264274597,
+      "category": "(not found)"
+    },
+    "aquarium": {
+      "x": 0.492754191160202,
+      "y": 0.29509028792381287,
+      "category": "fish and sea animals"
+    },
+    "arabic numerals": {
+      "x": 0.5106422305107117,
+      "y": 0.949999988079071,
+      "category": "numerals"
+    },
+    "arm": {
+      "x": 0.4433140456676483,
+      "y": 0.6544299721717834,
+      "category": "body or body part"
+    },
+    "army emblem": {
+      "x": 0.4637201428413391,
+      "y": 0.8825903534889221,
+      "category": "symbols and signs"
+    },
+    "arrows": {
+      "x": 0.4427536725997925,
+      "y": 0.807550311088562,
+      "category": "air weapon"
+    },
+    "art set": {
+      "x": 0.7499701380729675,
+      "y": 0.6623463034629822,
+      "category": "art and art materials"
+    },
+    "atom bombs": {
+      "x": 0.27624547481536865,
+      "y": 0.5918293595314026,
+      "category": "air weapon"
+    },
+    "axe": {
+      "x": 0.4313143193721771,
+      "y": 0.6887915134429932,
+      "category": "tool"
+    },
+    "back of book": {
+      "x": 0.7536368370056152,
+      "y": 0.8592048287391663,
+      "category": "book"
+    },
+    "backpack": {
+      "x": 0.7594588994979858,
+      "y": 0.7397119998931885,
+      "category": "(not found)"
+    },
+    "badge": {
+      "x": 0.5507327318191528,
+      "y": 0.816636860370636,
+      "category": "symbols and signs"
+    },
+    "badminton": {
+      "x": 0.8137120604515076,
+      "y": 0.3002164661884308,
+      "category": "sports (not ball)"
+    },
+    "bag": {
+      "x": 0.5479979515075684,
+      "y": 0.6422050595283508,
+      "category": "container"
+    },
+    "ball (toy)": {
+      "x": 0.8254722952842712,
+      "y": 0.2274644821882248,
+      "category": "toy"
+    },
+    "balloon": {
+      "x": 0.5421280264854431,
+      "y": 0.35468780994415283,
+      "category": "balloon"
+    },
+    "banana": {
+      "x": 0.3452647030353546,
+      "y": 0.21655374765396118,
+      "category": "fruit"
+    },
+    "band instruments": {
+      "x": 0.935519278049469,
+      "y": 0.758293092250824,
+      "category": "music"
+    },
+    "band leader": {
+      "x": 0.8923715353012085,
+      "y": 0.7640012502670288,
+      "category": "(not found)"
+    },
+    "bank": {
+      "x": 0.5117482542991638,
+      "y": 0.6587291359901428,
+      "category": "building"
+    },
+    "barbell": {
+      "x": 0.718564510345459,
+      "y": 0.41989848017692566,
+      "category": "(not found)"
+    },
+    "barber pole": {
+      "x": 0.7345626354217529,
+      "y": 0.43290776014328003,
+      "category": "symbols and signs"
+    },
+    "barn": {
+      "x": 0.39454853534698486,
+      "y": 0.4509643018245697,
+      "category": "building"
+    },
+    "barrel": {
+      "x": 0.553071916103363,
+      "y": 0.3247169852256775,
+      "category": "container"
+    },
+    "bars": {
+      "x": 0.6190989017486572,
+      "y": 0.6901348829269409,
+      "category": "prison"
+    },
+    "baseball": {
+      "x": 0.8012943863868713,
+      "y": 0.29338768124580383,
+      "category": "balls"
+    },
+    "basket": {
+      "x": 0.7879337072372437,
+      "y": 0.34900104999542236,
+      "category": "container"
+    },
+    "basketball": {
+      "x": 0.8204989433288574,
+      "y": 0.29753759503364563,
+      "category": "balls"
+    },
+    "basketball hoop": {
+      "x": 0.8210580348968506,
+      "y": 0.2898576557636261,
+      "category": "(not found)"
+    },
+    "bat": {
+      "x": 0.44420182704925537,
+      "y": 0.628807783126831,
+      "category": "animal or animal part"
+    },
+    "bathing suit or bikini": {
+      "x": 0.7740067839622498,
+      "y": 0.40345466136932373,
+      "category": "apparel"
+    },
+    "bathroom scales": {
+      "x": 0.6999111771583557,
+      "y": 0.6568977236747742,
+      "category": "household items (excluding furniture)"
+    },
+    "baton": {
+      "x": 0.6389018893241882,
+      "y": 0.6266979575157166,
+      "category": "music"
+    },
+    "battery": {
+      "x": 0.391606867313385,
+      "y": 0.679937481880188,
+      "category": "(not found)"
+    },
+    "beach": {
+      "x": 0.48982831835746765,
+      "y": 0.37375274300575256,
+      "category": "geography"
+    },
+    "beach ball": {
+      "x": 0.804442822933197,
+      "y": 0.2434038519859314,
+      "category": "balls"
+    },
+    "bear": {
+      "x": 0.14028480648994446,
+      "y": 0.33817723393440247,
+      "category": "animal or animal part"
+    },
+    "bear trap": {
+      "x": 0.2569689154624939,
+      "y": 0.39231234788894653,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "bed": {
+      "x": 0.6169549226760864,
+      "y": 0.6387773156166077,
+      "category": "furniture"
+    },
+    "bee": {
+      "x": 0.10155129432678223,
+      "y": 0.3154940605163574,
+      "category": "insect"
+    },
+    "bee house": {
+      "x": 0.3438638150691986,
+      "y": 0.4481066167354584,
+      "category": "building"
+    },
+    "beer": {
+      "x": 0.5858451724052429,
+      "y": 0.23555824160575867,
+      "category": "drink"
+    },
+    "beetle": {
+      "x": 0.0684499591588974,
+      "y": 0.3294036090373993,
+      "category": "insect"
+    },
+    "bell": {
+      "x": 0.36645257472991943,
+      "y": 0.6278477311134338,
+      "category": "music"
+    },
+    "belt": {
+      "x": 0.8918089270591736,
+      "y": 0.5517628192901611,
+      "category": "apparel"
+    },
+    "bering strait": {
+      "x": 0.5023337602615356,
+      "y": 0.62466961145401,
+      "category": "geography"
+    },
+    "between": {
+      "x": 0.4824613630771637,
+      "y": 0.763034462928772,
+      "category": "(not found)"
+    },
+    "bible": {
+      "x": 0.7097272872924805,
+      "y": 0.8557899594306946,
+      "category": "book"
+    },
+    "big ben": {
+      "x": 0.35861584544181824,
+      "y": 0.6023313403129578,
+      "category": "clocks and other devices for measuring time"
+    },
+    "big dipper": {
+      "x": 0.6109297871589661,
+      "y": 0.28886404633522034,
+      "category": "sky bodies"
+    },
+    "bike": {
+      "x": 0.6061680912971497,
+      "y": 0.5176075100898743,
+      "category": "surface transportation"
+    },
+    "billfold": {
+      "x": 0.761323094367981,
+      "y": 0.8020153641700745,
+      "category": "leather goods"
+    },
+    "binoculars": {
+      "x": 0.3145904242992401,
+      "y": 0.8339055180549622,
+      "category": "(not found)"
+    },
+    "bird": {
+      "x": 0.12002092599868774,
+      "y": 0.30847522616386414,
+      "category": "bird or fowl"
+    },
+    "bird crane": {
+      "x": 0.11237818002700806,
+      "y": 0.2870689630508423,
+      "category": "bird or fowl"
+    },
+    "bird house": {
+      "x": 0.3451526463031769,
+      "y": 0.4315495193004608,
+      "category": "building"
+    },
+    "black hole": {
+      "x": 0.3064819574356079,
+      "y": 0.7266813516616821,
+      "category": "(not found)"
+    },
+    "blackhole": {
+      "x": 0.31495311856269836,
+      "y": 0.7255521416664124,
+      "category": "sky bodies"
+    },
+    "blinds": {
+      "x": 0.5930472612380981,
+      "y": 0.7232853770256042,
+      "category": "windows"
+    },
+    "blocks (toy)": {
+      "x": 0.49263426661491394,
+      "y": 0.7435452342033386,
+      "category": "toy"
+    },
+    "blouse": {
+      "x": 0.864600419998169,
+      "y": 0.5407924652099609,
+      "category": "apparel"
+    },
+    "boat": {
+      "x": 0.5782002210617065,
+      "y": 0.39571771025657654,
+      "category": "water travel"
+    },
+    "bomb": {
+      "x": 0.2727435529232025,
+      "y": 0.5959943532943726,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "bomb shelter": {
+      "x": 0.3728770911693573,
+      "y": 0.4940129518508911,
+      "category": "shelter (not buildings)"
+    },
+    "bombers": {
+      "x": 0.26289671659469604,
+      "y": 0.5884456634521484,
+      "category": "air travel"
+    },
+    "bombs": {
+      "x": 0.2787702679634094,
+      "y": 0.595014750957489,
+      "category": "air weapon"
+    },
+    "bone": {
+      "x": 0.3351409435272217,
+      "y": 0.6591225862503052,
+      "category": "body or body part"
+    },
+    "book": {
+      "x": 0.7215708494186401,
+      "y": 0.8372617363929749,
+      "category": "book"
+    },
+    "book in case": {
+      "x": 0.739723801612854,
+      "y": 0.8461189866065979,
+      "category": "book"
+    },
+    "bookend": {
+      "x": 0.7515417337417603,
+      "y": 0.8369804620742798,
+      "category": "(not found)"
+    },
+    "bookmark": {
+      "x": 0.6085821986198425,
+      "y": 0.8086329698562622,
+      "category": "(not found)"
+    },
+    "bookshelf": {
+      "x": 0.7303465008735657,
+      "y": 0.8182599544525146,
+      "category": "(not found)"
+    },
+    "boombox": {
+      "x": 0.5799263119697571,
+      "y": 0.4480220377445221,
+      "category": "(not found)"
+    },
+    "boot": {
+      "x": 0.5218064188957214,
+      "y": 0.7212704420089722,
+      "category": "apparel"
+    },
+    "bottle": {
+      "x": 0.5515061616897583,
+      "y": 0.24421197175979614,
+      "category": "container"
+    },
+    "bow": {
+      "x": 0.8425283432006836,
+      "y": 0.40085262060165405,
+      "category": "design or decoration"
+    },
+    "bow and arrow": {
+      "x": 0.8467921018600464,
+      "y": 0.39693737030029297,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "bow tie": {
+      "x": 0.8706415295600891,
+      "y": 0.46338582038879395,
+      "category": "apparel"
+    },
+    "bowl": {
+      "x": 0.561747133731842,
+      "y": 0.220369353890419,
+      "category": "household items (excluding furniture)"
+    },
+    "bowl of fruit": {
+      "x": 0.49144816398620605,
+      "y": 0.14271143078804016,
+      "category": "fruit"
+    },
+    "bowling ball": {
+      "x": 0.8287665843963623,
+      "y": 0.24403153359889984,
+      "category": "(not found)"
+    },
+    "boxcar": {
+      "x": 0.5685537457466125,
+      "y": 0.48040837049484253,
+      "category": "surface transportation"
+    },
+    "boxing match": {
+      "x": 0.830053448677063,
+      "y": 0.3243843913078308,
+      "category": "sports (not ball)"
+    },
+    "boy": {
+      "x": 0.0879594162106514,
+      "y": 0.5585218071937561,
+      "category": "human beings"
+    },
+    "bracelet": {
+      "x": 0.8993600010871887,
+      "y": 0.5052533745765686,
+      "category": "accessories"
+    },
+    "brain": {
+      "x": 0.32138803601264954,
+      "y": 0.6586642265319824,
+      "category": "body or body part"
+    },
+    "breakfast": {
+      "x": 0.47731682658195496,
+      "y": 0.0633205845952034,
+      "category": "food"
+    },
+    "brick": {
+      "x": 0.39039307832717896,
+      "y": 0.6626022458076477,
+      "category": "building materials or equipment"
+    },
+    "bridge": {
+      "x": 0.4871288537979126,
+      "y": 0.6907006502151489,
+      "category": "road and road system"
+    },
+    "brief case": {
+      "x": 0.7355678081512451,
+      "y": 0.798833966255188,
+      "category": "leather goods"
+    },
+    "broom": {
+      "x": 0.7402982711791992,
+      "y": 0.5735152363777161,
+      "category": "household items (excluding furniture)"
+    },
+    "brownie": {
+      "x": 0.4513568878173828,
+      "y": 0.07620715349912643,
+      "category": "food"
+    },
+    "brush": {
+      "x": 0.747000515460968,
+      "y": 0.6363193392753601,
+      "category": "household items (excluding furniture)"
+    },
+    "bubble": {
+      "x": 0.4596864581108093,
+      "y": 0.7571663856506348,
+      "category": "(not found)"
+    },
+    "bucket": {
+      "x": 0.5350808501243591,
+      "y": 0.7652021050453186,
+      "category": "container"
+    },
+    "bug": {
+      "x": 0.49685847759246826,
+      "y": 0.7752417325973511,
+      "category": "insect"
+    },
+    "bugle": {
+      "x": 0.9120469689369202,
+      "y": 0.783453106880188,
+      "category": "music"
+    },
+    "building": {
+      "x": 0.4096141755580902,
+      "y": 0.6103817224502563,
+      "category": "(not found)"
+    },
+    "building pipe": {
+      "x": 0.5269672870635986,
+      "y": 0.5488640666007996,
+      "category": "building materials or equipment"
+    },
+    "bull": {
+      "x": 0.15873706340789795,
+      "y": 0.352066308259964,
+      "category": "animal or animal part"
+    },
+    "bullet": {
+      "x": 0.5310540795326233,
+      "y": 0.7855294346809387,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "bunch of balloons": {
+      "x": 0.5561915636062622,
+      "y": 0.33695077896118164,
+      "category": "balloon"
+    },
+    "bunk bed": {
+      "x": 0.5528092980384827,
+      "y": 0.4702281951904297,
+      "category": "(not found)"
+    },
+    "bunting": {
+      "x": 0.12382018566131592,
+      "y": 0.27855420112609863,
+      "category": "design or decoration"
+    },
+    "bureau": {
+      "x": 0.6933177709579468,
+      "y": 0.7463465332984924,
+      "category": "furniture"
+    },
+    "butterfly": {
+      "x": 0.07027488946914673,
+      "y": 0.3318696618080139,
+      "category": "insect"
+    },
+    "button": {
+      "x": 0.5692915916442871,
+      "y": 0.7921518087387085,
+      "category": "apparel"
+    },
+    "cabin": {
+      "x": 0.44176384806632996,
+      "y": 0.47492435574531555,
+      "category": "building"
+    },
+    "cable car": {
+      "x": 0.6336830854415894,
+      "y": 0.4397757947444916,
+      "category": "surface transportation"
+    },
+    "cactus": {
+      "x": 0.2893562912940979,
+      "y": 0.22383123636245728,
+      "category": "other plant (not tree not flower)"
+    },
+    "cage": {
+      "x": 0.5383607149124146,
+      "y": 0.4629251956939697,
+      "category": "container"
+    },
+    "cake": {
+      "x": 0.4665018618106842,
+      "y": 0.09720860421657562,
+      "category": "food"
+    },
+    "calendar": {
+      "x": 0.6360911130905151,
+      "y": 0.8732183575630188,
+      "category": "clocks and other devices for measuring time"
+    },
+    "calendar clock": {
+      "x": 0.6463205814361572,
+      "y": 0.8849722743034363,
+      "category": "clocks and other devices for measuring time"
+    },
+    "camel": {
+      "x": 0.5094901323318481,
+      "y": 0.6272152662277222,
+      "category": "animal or animal part"
+    },
+    "camera": {
+      "x": 0.3501351773738861,
+      "y": 0.8748397827148438,
+      "category": "machine"
+    },
+    "camera lens": {
+      "x": 0.3180781602859497,
+      "y": 0.8703722953796387,
+      "category": "machine"
+    },
+    "campfire": {
+      "x": 0.3186906576156616,
+      "y": 0.4818441867828369,
+      "category": "campfire"
+    },
+    "can": {
+      "x": 0.4953688979148865,
+      "y": 0.6228616237640381,
+      "category": "container"
+    },
+    "candle": {
+      "x": 0.17651453614234924,
+      "y": 0.8601996898651123,
+      "category": "light"
+    },
+    "candlelight": {
+      "x": 0.16994640231132507,
+      "y": 0.8479931354522705,
+      "category": "light"
+    },
+    "candy": {
+      "x": 0.41100284457206726,
+      "y": 0.13827307522296906,
+      "category": "food"
+    },
+    "candy cane poles": {
+      "x": 0.4198920726776123,
+      "y": 0.19461442530155182,
+      "category": "(not found)"
+    },
+    "cannon": {
+      "x": 0.412363737821579,
+      "y": 0.4279787540435791,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "cannonball": {
+      "x": 0.4129185378551483,
+      "y": 0.4136658012866974,
+      "category": "air weapon"
+    },
+    "canoe": {
+      "x": 0.5862966179847717,
+      "y": 0.3784816861152649,
+      "category": "water travel"
+    },
+    "canyon": {
+      "x": 0.44587841629981995,
+      "y": 0.42327937483787537,
+      "category": "(not found)"
+    },
+    "capitol": {
+      "x": 0.33354905247688293,
+      "y": 0.5489544868469238,
+      "category": "building"
+    },
+    "car": {
+      "x": 0.5082012414932251,
+      "y": 0.6032254695892334,
+      "category": "surface transportation"
+    },
+    "car horn": {
+      "x": 0.9021176695823669,
+      "y": 0.7852595448493958,
+      "category": "automobile accessories"
+    },
+    "carrot": {
+      "x": 0.3726520240306854,
+      "y": 0.1520807147026062,
+      "category": "food"
+    },
+    "cart": {
+      "x": 0.6109995245933533,
+      "y": 0.5699753165245056,
+      "category": "surface transportation"
+    },
+    "cart wheel": {
+      "x": 0.6508715748786926,
+      "y": 0.5072954297065735,
+      "category": "automobile accessories"
+    },
+    "cash register": {
+      "x": 0.7300336956977844,
+      "y": 0.795571506023407,
+      "category": "machine"
+    },
+    "cassette tape": {
+      "x": 0.7895002365112305,
+      "y": 0.7766990065574646,
+      "category": "(not found)"
+    },
+    "castle": {
+      "x": 0.3786005973815918,
+      "y": 0.5547834038734436,
+      "category": "(not found)"
+    },
+    "cat": {
+      "x": 0.18462663888931274,
+      "y": 0.3985821008682251,
+      "category": "animal or animal part"
+    },
+    "cat eye": {
+      "x": 0.20986682176589966,
+      "y": 0.41730353236198425,
+      "category": "animal or animal part"
+    },
+    "cat in a box": {
+      "x": 0.22574470937252045,
+      "y": 0.40147653222084045,
+      "category": "(not found)"
+    },
+    "cat's mouth": {
+      "x": 0.20593464374542236,
+      "y": 0.42709314823150635,
+      "category": "animal or animal part"
+    },
+    "catcher": {
+      "x": 0.6138797402381897,
+      "y": 0.2684018909931183,
+      "category": "sports (not ball)"
+    },
+    "caterpillar": {
+      "x": 0.07525072991847992,
+      "y": 0.32788369059562683,
+      "category": "insect"
+    },
+    "cave": {
+      "x": 0.44631245732307434,
+      "y": 0.45476362109184265,
+      "category": "shelter (not buildings)"
+    },
+    "cedar tree": {
+      "x": 0.2509632408618927,
+      "y": 0.19885872304439545,
+      "category": "tree"
+    },
+    "ceiling": {
+      "x": 0.5974436402320862,
+      "y": 0.6809846758842468,
+      "category": "building part"
+    },
+    "cello": {
+      "x": 0.949999988079071,
+      "y": 0.7535498738288879,
+      "category": "music"
+    },
+    "cereal": {
+      "x": 0.4768068194389343,
+      "y": 0.10621625185012817,
+      "category": "food"
+    },
+    "cereal box": {
+      "x": 0.5268797278404236,
+      "y": 0.11730152368545532,
+      "category": "container"
+    },
+    "chair": {
+      "x": 0.6388899683952332,
+      "y": 0.6675739884376526,
+      "category": "furniture"
+    },
+    "chalkboard": {
+      "x": 0.713811993598938,
+      "y": 0.7907204031944275,
+      "category": "school"
+    },
+    "check": {
+      "x": 0.5881507396697998,
+      "y": 0.8383711576461792,
+      "category": "money"
+    },
+    "checkers": {
+      "x": 0.5906527042388916,
+      "y": 0.8041033148765564,
+      "category": "games"
+    },
+    "cheese": {
+      "x": 0.4118387699127197,
+      "y": 0.07326814532279968,
+      "category": "food"
+    },
+    "cheese slicer": {
+      "x": 0.44860848784446716,
+      "y": 0.06081794202327728,
+      "category": "(not found)"
+    },
+    "cherries": {
+      "x": 0.38537371158599854,
+      "y": 0.1534721553325653,
+      "category": "fruit"
+    },
+    "chest of drawers": {
+      "x": 0.7112675309181213,
+      "y": 0.7216354012489319,
+      "category": "furniture"
+    },
+    "chicken": {
+      "x": 0.3657630383968353,
+      "y": 0.07263799756765366,
+      "category": "bird or fowl"
+    },
+    "children": {
+      "x": 0.08472204208374023,
+      "y": 0.5709854960441589,
+      "category": "human beings"
+    },
+    "chimney": {
+      "x": 0.37602484226226807,
+      "y": 0.4734131097793579,
+      "category": "building part"
+    },
+    "chinese game": {
+      "x": 0.7459697723388672,
+      "y": 0.32797110080718994,
+      "category": "games"
+    },
+    "chipmunk": {
+      "x": 0.14434100687503815,
+      "y": 0.2802148163318634,
+      "category": "animal or animal part"
+    },
+    "chocolate": {
+      "x": 0.4172116219997406,
+      "y": 0.10195618867874146,
+      "category": "food"
+    },
+    "chopsticks": {
+      "x": 0.7895976901054382,
+      "y": 0.5674883723258972,
+      "category": "(not found)"
+    },
+    "christian cross": {
+      "x": 0.4559493362903595,
+      "y": 0.8013319969177246,
+      "category": "cross"
+    },
+    "christmas tree": {
+      "x": 0.24227026104927063,
+      "y": 0.2039785534143448,
+      "category": "tree"
+    },
+    "church": {
+      "x": 0.40106096863746643,
+      "y": 0.5894469022750854,
+      "category": "building"
+    },
+    "cigar": {
+      "x": 0.5040695667266846,
+      "y": 0.30109646916389465,
+      "category": "tobacco"
+    },
+    "cigarette": {
+      "x": 0.5033185482025146,
+      "y": 0.303524911403656,
+      "category": "tobacco"
+    },
+    "circle": {
+      "x": 0.4198881983757019,
+      "y": 0.8350098729133606,
+      "category": "geometric shape"
+    },
+    "circle person": {
+      "x": 0.41242867708206177,
+      "y": 0.8277415037155151,
+      "category": "(not found)"
+    },
+    "city block": {
+      "x": 0.3938528299331665,
+      "y": 0.6034721732139587,
+      "category": "street and street systems"
+    },
+    "claw hammer": {
+      "x": 0.7503355145454407,
+      "y": 0.5371884703636169,
+      "category": "tool"
+    },
+    "claws": {
+      "x": 0.7327588796615601,
+      "y": 0.5262056589126587,
+      "category": "animal or animal part"
+    },
+    "cliff": {
+      "x": 0.48198285698890686,
+      "y": 0.44013768434524536,
+      "category": "geography"
+    },
+    "cliff gap": {
+      "x": 0.49101337790489197,
+      "y": 0.44146448373794556,
+      "category": "(not found)"
+    },
+    "climbing": {
+      "x": 0.6092333793640137,
+      "y": 0.44578060507774353,
+      "category": "(not found)"
+    },
+    "clock": {
+      "x": 0.6124650239944458,
+      "y": 0.8587607741355896,
+      "category": "clocks and other devices for measuring time"
+    },
+    "clothesline": {
+      "x": 0.8160277605056763,
+      "y": 0.5666878819465637,
+      "category": "pole and lines"
+    },
+    "clothespin": {
+      "x": 0.8313978314399719,
+      "y": 0.5494297742843628,
+      "category": "(not found)"
+    },
+    "cloud": {
+      "x": 0.20600654184818268,
+      "y": 0.7146496176719666,
+      "category": "cloud"
+    },
+    "cloud formation": {
+      "x": 0.20422597229480743,
+      "y": 0.7227283716201782,
+      "category": "cloud"
+    },
+    "clown": {
+      "x": 0.2245677411556244,
+      "y": 0.37453675270080566,
+      "category": "human beings"
+    },
+    "coat": {
+      "x": 0.7287601232528687,
+      "y": 0.6032624840736389,
+      "category": "apparel"
+    },
+    "coat hanger": {
+      "x": 0.7823010683059692,
+      "y": 0.5853337645530701,
+      "category": "household items (excluding furniture)"
+    },
+    "coat rack": {
+      "x": 0.7650939226150513,
+      "y": 0.6369190216064453,
+      "category": "household items (excluding furniture)"
+    },
+    "coffee pot": {
+      "x": 0.5480337142944336,
+      "y": 0.20341044664382935,
+      "category": "household items (excluding furniture)"
+    },
+    "coin": {
+      "x": 0.46672123670578003,
+      "y": 0.6813139319419861,
+      "category": "money"
+    },
+    "coke": {
+      "x": 0.4503819942474365,
+      "y": 0.18249481916427612,
+      "category": "drink"
+    },
+    "coke machine": {
+      "x": 0.5458722114562988,
+      "y": 0.2885049879550934,
+      "category": "machine"
+    },
+    "collie": {
+      "x": 0.22090452909469604,
+      "y": 0.33619505167007446,
+      "category": "animal or animal part"
+    },
+    "combinations of letters (e.g. it)": {
+      "x": 0.5438048839569092,
+      "y": 0.9361054301261902,
+      "category": "alphabet"
+    },
+    "comet": {
+      "x": 0.22558912634849548,
+      "y": 0.7262053489685059,
+      "category": "sky bodies"
+    },
+    "compass": {
+      "x": 0.4347878098487854,
+      "y": 0.7840679287910461,
+      "category": "(not found)"
+    },
+    "computer": {
+      "x": 0.6905992031097412,
+      "y": 0.8004167079925537,
+      "category": "machine"
+    },
+    "cone": {
+      "x": 0.3258031904697418,
+      "y": 0.7162918448448181,
+      "category": "geometric shape"
+    },
+    "cone of space craft": {
+      "x": 0.2780337333679199,
+      "y": 0.738125741481781,
+      "category": "air travel"
+    },
+    "constellation": {
+      "x": 0.2273319661617279,
+      "y": 0.7546234726905823,
+      "category": "sky bodies"
+    },
+    "convertible": {
+      "x": 0.5247070789337158,
+      "y": 0.6139125823974609,
+      "category": "surface transportation"
+    },
+    "cook": {
+      "x": 0.47011038661003113,
+      "y": 0.3479180932044983,
+      "category": "human beings"
+    },
+    "cookie": {
+      "x": 0.46850064396858215,
+      "y": 0.13579416275024414,
+      "category": "food"
+    },
+    "cookie jar": {
+      "x": 0.5242156386375427,
+      "y": 0.1732068806886673,
+      "category": "household items (excluding furniture)"
+    },
+    "cot": {
+      "x": 0.4345080852508545,
+      "y": 0.5817489624023438,
+      "category": "furniture"
+    },
+    "covered wagon": {
+      "x": 0.5783265233039856,
+      "y": 0.5024170279502869,
+      "category": "surface transportation"
+    },
+    "cowboy": {
+      "x": 0.2742808759212494,
+      "y": 0.43653422594070435,
+      "category": "human beings"
+    },
+    "crane machine": {
+      "x": 0.673303484916687,
+      "y": 0.5241191387176514,
+      "category": "machine"
+    },
+    "crater": {
+      "x": 0.4389522671699524,
+      "y": 0.4501667618751526,
+      "category": "geography"
+    },
+    "crayon": {
+      "x": 0.806481659412384,
+      "y": 0.6685163974761963,
+      "category": "art and art materials"
+    },
+    "crib": {
+      "x": 0.5723193287849426,
+      "y": 0.470883846282959,
+      "category": "furniture"
+    },
+    "cricket wicket": {
+      "x": 0.8288541436195374,
+      "y": 0.2660672068595886,
+      "category": "(not found)"
+    },
+    "crocodile": {
+      "x": 0.1190422922372818,
+      "y": 0.3439938724040985,
+      "category": "animal or animal part"
+    },
+    "cross": {
+      "x": 0.46945443749427795,
+      "y": 0.7959430813789368,
+      "category": "symbols and signs"
+    },
+    "crossing": {
+      "x": 0.4803733229637146,
+      "y": 0.7648961544036865,
+      "category": "road and road system"
+    },
+    "crossword puzzle": {
+      "x": 0.52054762840271,
+      "y": 0.8188737630844116,
+      "category": "games"
+    },
+    "crown": {
+      "x": 0.1866205632686615,
+      "y": 0.5727686285972595,
+      "category": "accessories"
+    },
+    "crutches": {
+      "x": 0.6706037521362305,
+      "y": 0.5175108909606934,
+      "category": "(not found)"
+    },
+    "crystal ball": {
+      "x": 0.8248276710510254,
+      "y": 0.23618067800998688,
+      "category": "(not found)"
+    },
+    "cube": {
+      "x": 0.426077663898468,
+      "y": 0.8152534365653992,
+      "category": "geometric shape"
+    },
+    "cup": {
+      "x": 0.43416696786880493,
+      "y": 0.570314884185791,
+      "category": "container"
+    },
+    "cupboard": {
+      "x": 0.6969906091690063,
+      "y": 0.703350305557251,
+      "category": "furniture"
+    },
+    "curtains": {
+      "x": 0.780646026134491,
+      "y": 0.6202807426452637,
+      "category": "windows"
+    },
+    "cylinder": {
+      "x": 0.398787260055542,
+      "y": 0.7811499238014221,
+      "category": "geometric shape"
+    },
+    "cymbal": {
+      "x": 0.9471412897109985,
+      "y": 0.7480785846710205,
+      "category": "music"
+    },
+    "daisy": {
+      "x": 0.2763538658618927,
+      "y": 0.294139564037323,
+      "category": "flower"
+    },
+    "dancer": {
+      "x": 0.7401109933853149,
+      "y": 0.4541282057762146,
+      "category": "human beings"
+    },
+    "dancing girls": {
+      "x": 0.07134553790092468,
+      "y": 0.5276133418083191,
+      "category": "human beings"
+    },
+    "decorative tree": {
+      "x": 0.2478165626525879,
+      "y": 0.19814789295196533,
+      "category": "tree"
+    },
+    "deer": {
+      "x": 0.14151574671268463,
+      "y": 0.3666146397590637,
+      "category": "animal or animal part"
+    },
+    "desk": {
+      "x": 0.6840832233428955,
+      "y": 0.7749289870262146,
+      "category": "furniture"
+    },
+    "desk top": {
+      "x": 0.7021934986114502,
+      "y": 0.7764730453491211,
+      "category": "furniture"
+    },
+    "devil": {
+      "x": 0.09786227345466614,
+      "y": 0.42958492040634155,
+      "category": "supernatural creatures"
+    },
+    "dia": {
+      "x": 0.4270288944244385,
+      "y": 0.6831260919570923,
+      "category": "animal or animal part"
+    },
+    "diamond (baseball)": {
+      "x": 0.8114956021308899,
+      "y": 0.2821597754955292,
+      "category": "balls"
+    },
+    "diamond (decoration)": {
+      "x": 0.9261888265609741,
+      "y": 0.47412243485450745,
+      "category": "design or decoration"
+    },
+    "diamond (symbol)": {
+      "x": 0.4878380298614502,
+      "y": 0.9006598591804504,
+      "category": "geometric shape"
+    },
+    "dictionary": {
+      "x": 0.636359453201294,
+      "y": 0.8365740776062012,
+      "category": "book"
+    },
+    "dipper": {
+      "x": 0.5802906155586243,
+      "y": 0.2532156705856323,
+      "category": "household items (excluding furniture)"
+    },
+    "diving board": {
+      "x": 0.6656159162521362,
+      "y": 0.3424588143825531,
+      "category": "(not found)"
+    },
+    "diving helmet": {
+      "x": 0.6526541709899902,
+      "y": 0.319105863571167,
+      "category": "(not found)"
+    },
+    "dna": {
+      "x": 0.43110528588294983,
+      "y": 0.6955245137214661,
+      "category": "(not found)"
+    },
+    "doctor": {
+      "x": 0.42804068326950073,
+      "y": 0.6530423760414124,
+      "category": "human beings"
+    },
+    "dog": {
+      "x": 0.17496183514595032,
+      "y": 0.36822983622550964,
+      "category": "animal or animal part"
+    },
+    "dog house": {
+      "x": 0.3466603457927704,
+      "y": 0.43814337253570557,
+      "category": "building"
+    },
+    "dollar": {
+      "x": 0.44461965560913086,
+      "y": 0.7366690635681152,
+      "category": "money"
+    },
+    "dollar sign": {
+      "x": 0.48882073163986206,
+      "y": 0.8880791068077087,
+      "category": "money"
+    },
+    "dominoes": {
+      "x": 0.470126211643219,
+      "y": 0.8591704964637756,
+      "category": "games"
+    },
+    "donkey": {
+      "x": 0.1821570098400116,
+      "y": 0.3652051091194153,
+      "category": "animal or animal part"
+    },
+    "donut": {
+      "x": 0.41457581520080566,
+      "y": 0.06793348491191864,
+      "category": "food"
+    },
+    "door": {
+      "x": 0.489477276802063,
+      "y": 0.6888189315795898,
+      "category": "building part"
+    },
+    "door handle": {
+      "x": 0.587240993976593,
+      "y": 0.6665517091751099,
+      "category": "(not found)"
+    },
+    "dracula": {
+      "x": 0.10927242785692215,
+      "y": 0.44401228427886963,
+      "category": "supernatural creatures"
+    },
+    "drag race": {
+      "x": 0.685158371925354,
+      "y": 0.46234774589538574,
+      "category": "sports (not ball)"
+    },
+    "draped windows": {
+      "x": 0.7332977652549744,
+      "y": 0.6503722071647644,
+      "category": "windows"
+    },
+    "drawing board": {
+      "x": 0.6956932544708252,
+      "y": 0.7623931765556335,
+      "category": "art and art materials"
+    },
+    "dreamcatcher": {
+      "x": 0.05000000074505806,
+      "y": 0.4157121181488037,
+      "category": "(not found)"
+    },
+    "dress": {
+      "x": 0.8729549050331116,
+      "y": 0.5500832200050354,
+      "category": "apparel"
+    },
+    "drinking glass": {
+      "x": 0.5702899098396301,
+      "y": 0.21854951977729797,
+      "category": "(not found)"
+    },
+    "drum": {
+      "x": 0.9367908239364624,
+      "y": 0.7363951206207275,
+      "category": "music"
+    },
+    "dryer": {
+      "x": 0.7414258122444153,
+      "y": 0.5896006226539612,
+      "category": "machine"
+    },
+    "duck": {
+      "x": 0.15252678096294403,
+      "y": 0.31516629457473755,
+      "category": "bird or fowl"
+    },
+    "dugout": {
+      "x": 0.5853633284568787,
+      "y": 0.38888558745384216,
+      "category": "shelter (not buildings)"
+    },
+    "dunce": {
+      "x": 0.21632187068462372,
+      "y": 0.3670118451118469,
+      "category": "human beings"
+    },
+    "dynamite": {
+      "x": 0.26447397470474243,
+      "y": 0.5853696465492249,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "ear": {
+      "x": 0.333719938993454,
+      "y": 0.6727229952812195,
+      "category": "body or body part"
+    },
+    "earmuffs": {
+      "x": 0.81614089012146,
+      "y": 0.6567846536636353,
+      "category": "(not found)"
+    },
+    "earth": {
+      "x": 0.18990783393383026,
+      "y": 0.6483467817306519,
+      "category": "sky bodies"
+    },
+    "easter egg": {
+      "x": 0.3385550081729889,
+      "y": 0.09258337318897247,
+      "category": "food"
+    },
+    "eclipse": {
+      "x": 0.20985841751098633,
+      "y": 0.7440209984779358,
+      "category": "sky bodies"
+    },
+    "egg": {
+      "x": 0.3275855779647827,
+      "y": 0.09895631670951843,
+      "category": "food"
+    },
+    "egg character": {
+      "x": 0.3275991678237915,
+      "y": 0.09252326190471649,
+      "category": "food"
+    },
+    "elastic spring": {
+      "x": 0.5613502860069275,
+      "y": 0.5516014099121094,
+      "category": "(not found)"
+    },
+    "electric light": {
+      "x": 0.18443036079406738,
+      "y": 0.8885781168937683,
+      "category": "light"
+    },
+    "elephant": {
+      "x": 0.15985053777694702,
+      "y": 0.31843510270118713,
+      "category": "animal or animal part"
+    },
+    "elevator": {
+      "x": 0.6146650910377502,
+      "y": 0.45131850242614746,
+      "category": "building attachments and accessories"
+    },
+    "elf": {
+      "x": 0.4085271656513214,
+      "y": 0.697018563747406,
+      "category": "supernatural creatures"
+    },
+    "embroidery": {
+      "x": 0.8839445114135742,
+      "y": 0.49063506722450256,
+      "category": "(not found)"
+    },
+    "empire state building": {
+      "x": 0.3662255108356476,
+      "y": 0.5805343985557556,
+      "category": "building"
+    },
+    "envelope": {
+      "x": 0.7594537734985352,
+      "y": 0.8066675066947937,
+      "category": "school and office supplies"
+    },
+    "eraser": {
+      "x": 0.8012927770614624,
+      "y": 0.6306218504905701,
+      "category": "school and office supplies"
+    },
+    "exercise bars": {
+      "x": 0.7225856184959412,
+      "y": 0.42780429124832153,
+      "category": "recreation and entertainment"
+    },
+    "eye": {
+      "x": 0.3148971199989319,
+      "y": 0.6923994421958923,
+      "category": "body or body part"
+    },
+    "eyeball": {
+      "x": 0.3329426646232605,
+      "y": 0.7507189512252808,
+      "category": "body or body part"
+    },
+    "face": {
+      "x": 0.3047800064086914,
+      "y": 0.6547252535820007,
+      "category": "body or body part"
+    },
+    "fairy": {
+      "x": 0.06747251749038696,
+      "y": 0.4562523365020752,
+      "category": "supernatural creatures"
+    },
+    "fallout shelter": {
+      "x": 0.3911879062652588,
+      "y": 0.4926798939704895,
+      "category": "shelter (not buildings)"
+    },
+    "farm shed": {
+      "x": 0.37947532534599304,
+      "y": 0.4482968747615814,
+      "category": "shelter (not buildings)"
+    },
+    "female figure": {
+      "x": 0.07685196399688721,
+      "y": 0.5602255463600159,
+      "category": "body or body part"
+    },
+    "fence": {
+      "x": 0.5538838505744934,
+      "y": 0.47391006350517273,
+      "category": "building attachments and accessories"
+    },
+    "ferris wheel": {
+      "x": 0.6482762098312378,
+      "y": 0.4806751608848572,
+      "category": "recreation and entertainment"
+    },
+    "ferry": {
+      "x": 0.5729863047599792,
+      "y": 0.4144476652145386,
+      "category": "(not found)"
+    },
+    "field": {
+      "x": 0.46736329793930054,
+      "y": 0.5497732162475586,
+      "category": "(not found)"
+    },
+    "field goal": {
+      "x": 0.7645071148872375,
+      "y": 0.3148214817047119,
+      "category": "sports (not ball)"
+    },
+    "figure": {
+      "x": 0.5255734920501709,
+      "y": 0.8577398657798767,
+      "category": "body or body part"
+    },
+    "film reel": {
+      "x": 0.6724909543991089,
+      "y": 0.8217906355857849,
+      "category": "(not found)"
+    },
+    "finish line": {
+      "x": 0.7318570017814636,
+      "y": 0.4457142949104309,
+      "category": "(not found)"
+    },
+    "fire house": {
+      "x": 0.3529578149318695,
+      "y": 0.4620639383792877,
+      "category": "building"
+    },
+    "firecracker": {
+      "x": 0.3028097450733185,
+      "y": 0.4872337281703949,
+      "category": "toy"
+    },
+    "firefly": {
+      "x": 0.05913931131362915,
+      "y": 0.39064908027648926,
+      "category": "insect"
+    },
+    "fireman": {
+      "x": 0.31039097905158997,
+      "y": 0.48625048995018005,
+      "category": "human beings"
+    },
+    "fireplace": {
+      "x": 0.36116501688957214,
+      "y": 0.4737318754196167,
+      "category": "building part"
+    },
+    "fish": {
+      "x": 0.4403820037841797,
+      "y": 0.26016584038734436,
+      "category": "fish and sea animals"
+    },
+    "fish bowl": {
+      "x": 0.5006608963012695,
+      "y": 0.2579394578933716,
+      "category": "container"
+    },
+    "fisherman": {
+      "x": 0.46551409363746643,
+      "y": 0.2678459882736206,
+      "category": "human beings"
+    },
+    "fishing": {
+      "x": 0.4790496528148651,
+      "y": 0.2770414650440216,
+      "category": "(not found)"
+    },
+    "fishing pole": {
+      "x": 0.5183075070381165,
+      "y": 0.2902272045612335,
+      "category": "recreation and entertainment"
+    },
+    "flag": {
+      "x": 0.48995736241340637,
+      "y": 0.8237373232841492,
+      "category": "symbols and signs"
+    },
+    "flamingo": {
+      "x": 0.17450395226478577,
+      "y": 0.29476016759872437,
+      "category": "bird or fowl"
+    },
+    "flea": {
+      "x": 0.06394293159246445,
+      "y": 0.3519735038280487,
+      "category": "insect"
+    },
+    "flood light": {
+      "x": 0.1847607046365738,
+      "y": 0.8819646835327148,
+      "category": "light"
+    },
+    "floor": {
+      "x": 0.5981312990188599,
+      "y": 0.6780230402946472,
+      "category": "building part"
+    },
+    "flour bag": {
+      "x": 0.5955933332443237,
+      "y": 0.1645909696817398,
+      "category": "container"
+    },
+    "flower": {
+      "x": 0.31096723675727844,
+      "y": 0.27462008595466614,
+      "category": "flower"
+    },
+    "flower pot": {
+      "x": 0.4019715189933777,
+      "y": 0.259136438369751,
+      "category": "container"
+    },
+    "flowerpot": {
+      "x": 0.4779267907142639,
+      "y": 0.25819116830825806,
+      "category": "flower"
+    },
+    "flute": {
+      "x": 0.9386902451515198,
+      "y": 0.7710747122764587,
+      "category": "music"
+    },
+    "fly": {
+      "x": 0.08411179482936859,
+      "y": 0.32175740599632263,
+      "category": "insect"
+    },
+    "fly swatter": {
+      "x": 0.07399668544530869,
+      "y": 0.32857856154441833,
+      "category": "household items (excluding furniture)"
+    },
+    "folder": {
+      "x": 0.6127415299415588,
+      "y": 0.7877482771873474,
+      "category": "school and office supplies"
+    },
+    "foot": {
+      "x": 0.3541752099990845,
+      "y": 0.6652036905288696,
+      "category": "body or body part"
+    },
+    "football": {
+      "x": 0.7947990298271179,
+      "y": 0.3330356478691101,
+      "category": "balls"
+    },
+    "footprints": {
+      "x": 0.6615633368492126,
+      "y": 0.5753870606422424,
+      "category": "(not found)"
+    },
+    "forest": {
+      "x": 0.29064154624938965,
+      "y": 0.30087125301361084,
+      "category": "tree"
+    },
+    "fork": {
+      "x": 0.5251544713973999,
+      "y": 0.697274386882782,
+      "category": "household items (excluding furniture)"
+    },
+    "fort": {
+      "x": 0.44395872950553894,
+      "y": 0.6989548802375793,
+      "category": "building"
+    },
+    "fountain": {
+      "x": 0.4407130479812622,
+      "y": 0.40711188316345215,
+      "category": "(not found)"
+    },
+    "fox hole": {
+      "x": 0.41950875520706177,
+      "y": 0.5292351841926575,
+      "category": "shelter (not buildings)"
+    },
+    "frankenstein": {
+      "x": 0.09645111858844757,
+      "y": 0.4377976059913635,
+      "category": "(not found)"
+    },
+    "french poodle": {
+      "x": 0.22553645074367523,
+      "y": 0.3309752643108368,
+      "category": "animal or animal part"
+    },
+    "fried egg": {
+      "x": 0.35943475365638733,
+      "y": 0.07776147127151489,
+      "category": "food"
+    },
+    "friends": {
+      "x": 0.05703970789909363,
+      "y": 0.5740290284156799,
+      "category": "(not found)"
+    },
+    "frog": {
+      "x": 0.10840709507465363,
+      "y": 0.3430147171020508,
+      "category": "animal or animal part"
+    },
+    "fruit jar": {
+      "x": 0.5336155891418457,
+      "y": 0.2023438662290573,
+      "category": "container"
+    },
+    "fruit slice": {
+      "x": 0.43494462966918945,
+      "y": 0.08121811598539352,
+      "category": "fruit"
+    },
+    "frying pan": {
+      "x": 0.40526968240737915,
+      "y": 0.08437302708625793,
+      "category": "household items (excluding furniture)"
+    },
+    "fudge": {
+      "x": 0.41371986269950867,
+      "y": 0.12346810102462769,
+      "category": "food"
+    },
+    "garage": {
+      "x": 0.5614214539527893,
+      "y": 0.6185615658760071,
+      "category": "building"
+    },
+    "gas station": {
+      "x": 0.5359894633293152,
+      "y": 0.5794005393981934,
+      "category": "building"
+    },
+    "gas tank": {
+      "x": 0.5304111838340759,
+      "y": 0.5685054659843445,
+      "category": "container"
+    },
+    "gate": {
+      "x": 0.5410900115966797,
+      "y": 0.7152234315872192,
+      "category": "building attachments and accessories"
+    },
+    "gear": {
+      "x": 0.5305301547050476,
+      "y": 0.6660913825035095,
+      "category": "(not found)"
+    },
+    "ghost": {
+      "x": 0.07849020510911942,
+      "y": 0.46854260563850403,
+      "category": "supernatural creatures"
+    },
+    "giant": {
+      "x": 0.16986706852912903,
+      "y": 0.3114418685436249,
+      "category": "human beings"
+    },
+    "giant beans": {
+      "x": 0.3360323905944824,
+      "y": 0.21539245545864105,
+      "category": "other plant (not tree not flower)"
+    },
+    "gift": {
+      "x": 0.4265091121196747,
+      "y": 0.6420868635177612,
+      "category": "package"
+    },
+    "giraffe": {
+      "x": 0.15929128229618073,
+      "y": 0.3413921594619751,
+      "category": "animal or animal part"
+    },
+    "girl": {
+      "x": 0.06179913505911827,
+      "y": 0.557346522808075,
+      "category": "human beings"
+    },
+    "glasses": {
+      "x": 0.3119049370288849,
+      "y": 0.8082321882247925,
+      "category": "accessories"
+    },
+    "globe": {
+      "x": 0.2717914283275604,
+      "y": 0.7764871120452881,
+      "category": "globe"
+    },
+    "glue": {
+      "x": 0.818566083908081,
+      "y": 0.6105470061302185,
+      "category": "school and office supplies"
+    },
+    "goal post": {
+      "x": 0.7660880088806152,
+      "y": 0.31217092275619507,
+      "category": "sports (not ball)"
+    },
+    "goat": {
+      "x": 0.17779923975467682,
+      "y": 0.3660261929035187,
+      "category": "animal or animal part"
+    },
+    "gold fish": {
+      "x": 0.43786555528640747,
+      "y": 0.27473410964012146,
+      "category": "fish and sea animals"
+    },
+    "grandfather clock": {
+      "x": 0.6660082936286926,
+      "y": 0.8998184204101562,
+      "category": "(not found)"
+    },
+    "grapes": {
+      "x": 0.3809775114059448,
+      "y": 0.16452635824680328,
+      "category": "fruit"
+    },
+    "grass": {
+      "x": 0.3045918643474579,
+      "y": 0.3088739514350891,
+      "category": "other plant (not tree not flower)"
+    },
+    "groceries": {
+      "x": 0.47286176681518555,
+      "y": 0.10773713141679764,
+      "category": "food"
+    },
+    "guillotine": {
+      "x": 0.7865676283836365,
+      "y": 0.5746821165084839,
+      "category": "(not found)"
+    },
+    "guitar": {
+      "x": 0.9392751455307007,
+      "y": 0.7500694394111633,
+      "category": "(not found)"
+    },
+    "gun": {
+      "x": 0.4768737554550171,
+      "y": 0.39359045028686523,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "guppies": {
+      "x": 0.22687497735023499,
+      "y": 0.2604508399963379,
+      "category": "fish and sea animals"
+    },
+    "gym set": {
+      "x": 0.7415966987609863,
+      "y": 0.5209804773330688,
+      "category": "sports (not ball)"
+    },
+    "hair": {
+      "x": 0.32803958654403687,
+      "y": 0.6632879972457886,
+      "category": "body or body part"
+    },
+    "hallway": {
+      "x": 0.5851050615310669,
+      "y": 0.6661198139190674,
+      "category": "(not found)"
+    },
+    "hamburger": {
+      "x": 0.4099354147911072,
+      "y": 0.05588916316628456,
+      "category": "food"
+    },
+    "hammer": {
+      "x": 0.5076162815093994,
+      "y": 0.667618989944458,
+      "category": "tool"
+    },
+    "hammock": {
+      "x": 0.6428813338279724,
+      "y": 0.6044858694076538,
+      "category": "(not found)"
+    },
+    "hamster wheel": {
+      "x": 0.6398578882217407,
+      "y": 0.492163747549057,
+      "category": "(not found)"
+    },
+    "hand": {
+      "x": 0.3719777464866638,
+      "y": 0.61850506067276,
+      "category": "body or body part"
+    },
+    "hand cuffs": {
+      "x": 0.8497069478034973,
+      "y": 0.4878605306148529,
+      "category": "prison"
+    },
+    "hanging lights": {
+      "x": 0.19980251789093018,
+      "y": 0.8950575590133667,
+      "category": "(not found)"
+    },
+    "hanging sign": {
+      "x": 0.5117465257644653,
+      "y": 0.905430793762207,
+      "category": "(not found)"
+    },
+    "harbor pilings": {
+      "x": 0.4825421869754791,
+      "y": 0.4406315088272095,
+      "category": "(not found)"
+    },
+    "harmonica": {
+      "x": 0.9228241443634033,
+      "y": 0.7600278258323669,
+      "category": "music"
+    },
+    "harp": {
+      "x": 0.9285141229629517,
+      "y": 0.7457557916641235,
+      "category": "music"
+    },
+    "hat": {
+      "x": 0.4499013125896454,
+      "y": 0.6265078186988831,
+      "category": "apparel"
+    },
+    "hat box": {
+      "x": 0.54723060131073,
+      "y": 0.4672028124332428,
+      "category": "container"
+    },
+    "head": {
+      "x": 0.3102889657020569,
+      "y": 0.660663366317749,
+      "category": "body or body part"
+    },
+    "headlight": {
+      "x": 0.19013717770576477,
+      "y": 0.8688659071922302,
+      "category": "(not found)"
+    },
+    "heart": {
+      "x": 0.32523056864738464,
+      "y": 0.6677547693252563,
+      "category": "body or body part"
+    },
+    "heater": {
+      "x": 0.6434193849563599,
+      "y": 0.6092089414596558,
+      "category": "household items (excluding furniture)"
+    },
+    "helicopter": {
+      "x": 0.5854372978210449,
+      "y": 0.4250275194644928,
+      "category": "air travel"
+    },
+    "helipad": {
+      "x": 0.5678900480270386,
+      "y": 0.4033595025539398,
+      "category": "(not found)"
+    },
+    "hen": {
+      "x": 0.1265961229801178,
+      "y": 0.6012345552444458,
+      "category": "bird or fowl"
+    },
+    "hercules": {
+      "x": 0.1303332895040512,
+      "y": 0.37159228324890137,
+      "category": "supernatural creatures"
+    },
+    "hideout": {
+      "x": 0.4201173484325409,
+      "y": 0.4998367428779602,
+      "category": "prison"
+    },
+    "high dive": {
+      "x": 0.682761549949646,
+      "y": 0.331193745136261,
+      "category": "sports (not ball)"
+    },
+    "high jump": {
+      "x": 0.697431206703186,
+      "y": 0.3260495960712433,
+      "category": "sports (not ball)"
+    },
+    "highway": {
+      "x": 0.5467094779014587,
+      "y": 0.5808060169219971,
+      "category": "road and road system"
+    },
+    "hobbit door": {
+      "x": 0.515197217464447,
+      "y": 0.7021318674087524,
+      "category": "(not found)"
+    },
+    "holly tree": {
+      "x": 0.24524368345737457,
+      "y": 0.19558294117450714,
+      "category": "tree"
+    },
+    "homework": {
+      "x": 0.6125402450561523,
+      "y": 0.8058030009269714,
+      "category": "school"
+    },
+    "hop scotch": {
+      "x": 0.646472156047821,
+      "y": 0.2683791518211365,
+      "category": "games"
+    },
+    "hops": {
+      "x": 0.6291889548301697,
+      "y": 0.2555444538593292,
+      "category": "other plant (not tree not flower)"
+    },
+    "horn (music)": {
+      "x": 0.9291369318962097,
+      "y": 0.775184690952301,
+      "category": "music"
+    },
+    "horse": {
+      "x": 0.24094150960445404,
+      "y": 0.40690067410469055,
+      "category": "animal or animal part"
+    },
+    "horse corral": {
+      "x": 0.38329580426216125,
+      "y": 0.4243910312652588,
+      "category": "(not found)"
+    },
+    "hospital": {
+      "x": 0.45422613620758057,
+      "y": 0.5791031122207642,
+      "category": "(not found)"
+    },
+    "hot air balloon": {
+      "x": 0.5539436340332031,
+      "y": 0.3709092140197754,
+      "category": "(not found)"
+    },
+    "hot dog": {
+      "x": 0.3986462354660034,
+      "y": 0.05807410553097725,
+      "category": "food"
+    },
+    "hotel": {
+      "x": 0.4478997588157654,
+      "y": 0.5647788047790527,
+      "category": "building"
+    },
+    "hourglass": {
+      "x": 0.10827411711215973,
+      "y": 0.6247062087059021,
+      "category": "clocks and other devices for measuring time"
+    },
+    "house": {
+      "x": 0.3877868950366974,
+      "y": 0.5177105069160461,
+      "category": "building"
+    },
+    "house boat": {
+      "x": 0.5799590349197388,
+      "y": 0.3831635117530823,
+      "category": "water travel"
+    },
+    "hula hoop": {
+      "x": 0.7977789044380188,
+      "y": 0.366945743560791,
+      "category": "(not found)"
+    },
+    "human figure": {
+      "x": 0.09690021723508835,
+      "y": 0.5900973677635193,
+      "category": "human beings"
+    },
+    "humpty dumpty": {
+      "x": 0.17614015936851501,
+      "y": 0.34407904744148254,
+      "category": "food"
+    },
+    "hurdle": {
+      "x": 0.6844179630279541,
+      "y": 0.3216109275817871,
+      "category": "(not found)"
+    },
+    "hut": {
+      "x": 0.42279669642448425,
+      "y": 0.49226459860801697,
+      "category": "building"
+    },
+    "ice cream": {
+      "x": 0.416980504989624,
+      "y": 0.12017153203487396,
+      "category": "food"
+    },
+    "igloo": {
+      "x": 0.32666102051734924,
+      "y": 0.35910892486572266,
+      "category": "building"
+    },
+    "ii": {
+      "x": 0.4435151517391205,
+      "y": 0.7102002501487732,
+      "category": "numerals"
+    },
+    "indian": {
+      "x": 0.2581579387187958,
+      "y": 0.4795832335948944,
+      "category": "human beings"
+    },
+    "indian design": {
+      "x": 0.26556435227394104,
+      "y": 0.48353156447410583,
+      "category": "art and art materials"
+    },
+    "indian headdress": {
+      "x": 0.2519915699958801,
+      "y": 0.4874331057071686,
+      "category": "design or decoration"
+    },
+    "ink": {
+      "x": 0.7467819452285767,
+      "y": 0.7508668303489685,
+      "category": "school and office supplies"
+    },
+    "inner tube": {
+      "x": 0.521479606628418,
+      "y": 0.5340543389320374,
+      "category": "automobile accessories"
+    },
+    "iv": {
+      "x": 0.46223461627960205,
+      "y": 0.70716792345047,
+      "category": "numerals"
+    },
+    "jack in box": {
+      "x": 0.5271978974342346,
+      "y": 0.1108148992061615,
+      "category": "toy"
+    },
+    "jail": {
+      "x": 0.521920382976532,
+      "y": 0.5207435488700867,
+      "category": "prison"
+    },
+    "jar": {
+      "x": 0.4715656042098999,
+      "y": 0.6344202160835266,
+      "category": "container"
+    },
+    "jets": {
+      "x": 0.22433078289031982,
+      "y": 0.5945473313331604,
+      "category": "air travel"
+    },
+    "jew": {
+      "x": 0.21595820784568787,
+      "y": 0.5331195592880249,
+      "category": "human beings"
+    },
+    "jig saw puzzle": {
+      "x": 0.5675975680351257,
+      "y": 0.7420915961265564,
+      "category": "toy"
+    },
+    "jug": {
+      "x": 0.4215979278087616,
+      "y": 0.6182339787483215,
+      "category": "container"
+    },
+    "jump rope": {
+      "x": 0.759130597114563,
+      "y": 0.3860067129135132,
+      "category": "(not found)"
+    },
+    "kayak paddle": {
+      "x": 0.6048925518989563,
+      "y": 0.3671457767486572,
+      "category": "(not found)"
+    },
+    "kettle": {
+      "x": 0.557184100151062,
+      "y": 0.24206629395484924,
+      "category": "household items (excluding furniture)"
+    },
+    "key hole": {
+      "x": 0.513944685459137,
+      "y": 0.7051376104354858,
+      "category": "building attachments and accessories"
+    },
+    "king": {
+      "x": 0.15535126626491547,
+      "y": 0.575349748134613,
+      "category": "royalty"
+    },
+    "kite": {
+      "x": 0.6270125508308411,
+      "y": 0.37537190318107605,
+      "category": "kite"
+    },
+    "knife": {
+      "x": 0.7893878221511841,
+      "y": 0.5527216792106628,
+      "category": "household items (excluding furniture)"
+    },
+    "knitting ball": {
+      "x": 0.8479496836662292,
+      "y": 0.24949444830417633,
+      "category": "(not found)"
+    },
+    "knitting needles": {
+      "x": 0.8420958518981934,
+      "y": 0.4888942837715149,
+      "category": "(not found)"
+    },
+    "ladder": {
+      "x": 0.6119210124015808,
+      "y": 0.47268298268318176,
+      "category": "household items (excluding furniture)"
+    },
+    "lady": {
+      "x": 0.07112100720405579,
+      "y": 0.5266464352607727,
+      "category": "human beings"
+    },
+    "ladybug": {
+      "x": 0.05616270750761032,
+      "y": 0.33868178725242615,
+      "category": "insect"
+    },
+    "lake": {
+      "x": 0.35622575879096985,
+      "y": 0.39130085706710815,
+      "category": "geography"
+    },
+    "lamp": {
+      "x": 0.18214130401611328,
+      "y": 0.8696149587631226,
+      "category": "light"
+    },
+    "lantern": {
+      "x": 0.18150945007801056,
+      "y": 0.8439439535140991,
+      "category": "light"
+    },
+    "latch": {
+      "x": 0.6433154344558716,
+      "y": 0.6230860948562622,
+      "category": "building attachments and accessories"
+    },
+    "launching pad": {
+      "x": 0.5127617716789246,
+      "y": 0.4106936752796173,
+      "category": "space"
+    },
+    "lava": {
+      "x": 0.4103032946586609,
+      "y": 0.41899317502975464,
+      "category": "geography"
+    },
+    "legs": {
+      "x": 0.3786110579967499,
+      "y": 0.6486419439315796,
+      "category": "body or body part"
+    },
+    "lemon": {
+      "x": 0.3717178404331207,
+      "y": 0.1499423235654831,
+      "category": "fruit"
+    },
+    "letters of the alphabet": {
+      "x": 0.5536656379699707,
+      "y": 0.9437047839164734,
+      "category": "alphabet"
+    },
+    "letters on blocks": {
+      "x": 0.543794572353363,
+      "y": 0.9352940320968628,
+      "category": "alphabet"
+    },
+    "library": {
+      "x": 0.6652082800865173,
+      "y": 0.8357409834861755,
+      "category": "book"
+    },
+    "life preserver": {
+      "x": 0.6363930106163025,
+      "y": 0.33340680599212646,
+      "category": "(not found)"
+    },
+    "light": {
+      "x": 0.18876677751541138,
+      "y": 0.8561317324638367,
+      "category": "light"
+    },
+    "light bulb": {
+      "x": 0.18789252638816833,
+      "y": 0.878292441368103,
+      "category": "light"
+    },
+    "light switch": {
+      "x": 0.18343603610992432,
+      "y": 0.8895040154457092,
+      "category": "light"
+    },
+    "lighter": {
+      "x": 0.18812136352062225,
+      "y": 0.8698490262031555,
+      "category": "light"
+    },
+    "lighthouse": {
+      "x": 0.18006391823291779,
+      "y": 0.8588945865631104,
+      "category": "building"
+    },
+    "lightning": {
+      "x": 0.1856175661087036,
+      "y": 0.8145067691802979,
+      "category": "weather and seasons"
+    },
+    "lily pad": {
+      "x": 0.45354172587394714,
+      "y": 0.32300034165382385,
+      "category": "(not found)"
+    },
+    "lion": {
+      "x": 0.12989042699337006,
+      "y": 0.37210437655448914,
+      "category": "animal or animal part"
+    },
+    "lips": {
+      "x": 0.3159814178943634,
+      "y": 0.5860145688056946,
+      "category": "body or body part"
+    },
+    "loaf of bread": {
+      "x": 0.4835193455219269,
+      "y": 0.08960268646478653,
+      "category": "food"
+    },
+    "log": {
+      "x": 0.5752178430557251,
+      "y": 0.8449116945266724,
+      "category": "tree"
+    },
+    "logo": {
+      "x": 0.545510470867157,
+      "y": 0.8714072704315186,
+      "category": "(not found)"
+    },
+    "lollipop": {
+      "x": 0.4020316004753113,
+      "y": 0.14552508294582367,
+      "category": "food"
+    },
+    "london tower": {
+      "x": 0.3747893273830414,
+      "y": 0.5743520855903625,
+      "category": "building"
+    },
+    "lover's leap": {
+      "x": 0.6812735199928284,
+      "y": 0.33048099279403687,
+      "category": "geography"
+    },
+    "luggage": {
+      "x": 0.7596563100814819,
+      "y": 0.7067670226097107,
+      "category": "leather goods"
+    },
+    "lumber": {
+      "x": 0.5766181945800781,
+      "y": 0.4800649583339691,
+      "category": "building materials or equipment"
+    },
+    "lunch": {
+      "x": 0.47419828176498413,
+      "y": 0.06792609393596649,
+      "category": "food"
+    },
+    "lunch box": {
+      "x": 0.5002809166908264,
+      "y": 0.07778482884168625,
+      "category": "container"
+    },
+    "magazine (ammunition)": {
+      "x": 0.6700060367584229,
+      "y": 0.7972813248634338,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "magazine (publication)": {
+      "x": 0.6935572624206543,
+      "y": 0.8320587873458862,
+      "category": "book"
+    },
+    "magic lamp": {
+      "x": 0.19125275313854218,
+      "y": 0.8476213216781616,
+      "category": "light"
+    },
+    "magic square": {
+      "x": 0.40610256791114807,
+      "y": 0.8282188177108765,
+      "category": "geometric shape"
+    },
+    "magnet": {
+      "x": 0.2868172228336334,
+      "y": 0.7782316207885742,
+      "category": "science"
+    },
+    "magnifying glass": {
+      "x": 0.3020694851875305,
+      "y": 0.8332257866859436,
+      "category": "(not found)"
+    },
+    "mailbox": {
+      "x": 0.5926742553710938,
+      "y": 0.7418399453163147,
+      "category": "building attachments and accessories"
+    },
+    "male figure": {
+      "x": 0.08579032868146896,
+      "y": 0.5712918043136597,
+      "category": "body or body part"
+    },
+    "man": {
+      "x": 0.10368221998214722,
+      "y": 0.5758873224258423,
+      "category": "human beings"
+    },
+    "mango": {
+      "x": 0.3451668322086334,
+      "y": 0.1560564935207367,
+      "category": "fruit"
+    },
+    "manhole cover": {
+      "x": 0.5349438786506653,
+      "y": 0.6939021348953247,
+      "category": "(not found)"
+    },
+    "map": {
+      "x": 0.5290027260780334,
+      "y": 0.8297579288482666,
+      "category": "geography"
+    },
+    "marshmallow": {
+      "x": 0.40703311562538147,
+      "y": 0.1410091370344162,
+      "category": "food"
+    },
+    "martini glass": {
+      "x": 0.5598281025886536,
+      "y": 0.2114739865064621,
+      "category": "(not found)"
+    },
+    "mat": {
+      "x": 0.44456562399864197,
+      "y": 0.6156161427497864,
+      "category": "household items (excluding furniture)"
+    },
+    "matches": {
+      "x": 0.5328508615493774,
+      "y": 0.8045802712440491,
+      "category": "household items (excluding furniture)"
+    },
+    "maze": {
+      "x": 0.44360044598579407,
+      "y": 0.7569535970687866,
+      "category": "(not found)"
+    },
+    "medal": {
+      "x": 0.9273689389228821,
+      "y": 0.4844946563243866,
+      "category": "(not found)"
+    },
+    "men": {
+      "x": 0.085868701338768,
+      "y": 0.5682942867279053,
+      "category": "human beings"
+    },
+    "mercury (hg)": {
+      "x": 0.1672520786523819,
+      "y": 0.6671982407569885,
+      "category": "science"
+    },
+    "meteor": {
+      "x": 0.18239162862300873,
+      "y": 0.6766220927238464,
+      "category": "(not found)"
+    },
+    "mickey": {
+      "x": 0.1483454555273056,
+      "y": 0.4572683274745941,
+      "category": "(not found)"
+    },
+    "microphone": {
+      "x": 0.35464808344841003,
+      "y": 0.8815165758132935,
+      "category": "(not found)"
+    },
+    "microscope": {
+      "x": 0.3195628225803375,
+      "y": 0.8529688119888306,
+      "category": "science"
+    },
+    "milk": {
+      "x": 0.44694310426712036,
+      "y": 0.10633678734302521,
+      "category": "drink"
+    },
+    "milk carton": {
+      "x": 0.5163390040397644,
+      "y": 0.12382608652114868,
+      "category": "(not found)"
+    },
+    "minion": {
+      "x": 0.16492043435573578,
+      "y": 0.39518558979034424,
+      "category": "(not found)"
+    },
+    "mirror": {
+      "x": 0.5141322016716003,
+      "y": 0.7877373695373535,
+      "category": "(not found)"
+    },
+    "mitch miller": {
+      "x": 0.17989155650138855,
+      "y": 0.4940721094608307,
+      "category": "human beings"
+    },
+    "money": {
+      "x": 0.44749894738197327,
+      "y": 0.6811657547950745,
+      "category": "money"
+    },
+    "monkey": {
+      "x": 0.11223075538873672,
+      "y": 0.4044192135334015,
+      "category": "animal or animal part"
+    },
+    "monkey bars": {
+      "x": 0.7059898972511292,
+      "y": 0.40788334608078003,
+      "category": "recreation and entertainment"
+    },
+    "monocle": {
+      "x": 0.2920638918876648,
+      "y": 0.7780694365501404,
+      "category": "accessories"
+    },
+    "monster": {
+      "x": 0.10064029693603516,
+      "y": 0.4272664189338684,
+      "category": "supernatural creatures"
+    },
+    "moon": {
+      "x": 0.13748769462108612,
+      "y": 0.6541545391082764,
+      "category": "sky bodies"
+    },
+    "moon man": {
+      "x": 0.12236873805522919,
+      "y": 0.5392844080924988,
+      "category": "supernatural creatures"
+    },
+    "moon woman": {
+      "x": 0.0853150337934494,
+      "y": 0.5346656441688538,
+      "category": "supernatural creatures"
+    },
+    "mop": {
+      "x": 0.7174092531204224,
+      "y": 0.5838381052017212,
+      "category": "household items (excluding furniture)"
+    },
+    "motel": {
+      "x": 0.46587276458740234,
+      "y": 0.5701411366462708,
+      "category": "building"
+    },
+    "mountain": {
+      "x": 0.43255510926246643,
+      "y": 0.41388416290283203,
+      "category": "geography"
+    },
+    "mouse": {
+      "x": 0.1259700357913971,
+      "y": 0.40337544679641724,
+      "category": "animal or animal part"
+    },
+    "mouse or rat": {
+      "x": 0.1244564950466156,
+      "y": 0.36373230814933777,
+      "category": "animal or animal part"
+    },
+    "mouth": {
+      "x": 0.34795963764190674,
+      "y": 0.6355113983154297,
+      "category": "body or body part"
+    },
+    "movie screen": {
+      "x": 0.6292937994003296,
+      "y": 0.8204831480979919,
+      "category": "recreation and entertainment"
+    },
+    "mud ball": {
+      "x": 0.8254370093345642,
+      "y": 0.22809043526649475,
+      "category": "balls"
+    },
+    "mug": {
+      "x": 0.546075701713562,
+      "y": 0.1964389681816101,
+      "category": "container"
+    },
+    "mushroom": {
+      "x": 0.3111034035682678,
+      "y": 0.17566895484924316,
+      "category": "food"
+    },
+    "music box": {
+      "x": 0.8062013983726501,
+      "y": 0.7990686297416687,
+      "category": "music"
+    },
+    "music stand": {
+      "x": 0.8182386755943298,
+      "y": 0.7903125882148743,
+      "category": "music"
+    },
+    "musical note": {
+      "x": 0.9208584427833557,
+      "y": 0.7678978443145752,
+      "category": "music"
+    },
+    "navy bunks": {
+      "x": 0.5483235716819763,
+      "y": 0.46652156114578247,
+      "category": "furniture"
+    },
+    "nazi patch": {
+      "x": 0.43036967515945435,
+      "y": 0.8248093128204346,
+      "category": "symbols and signs"
+    },
+    "ne": {
+      "x": 0.40745842456817627,
+      "y": 0.6401023864746094,
+      "category": "symbols and signs"
+    },
+    "necklace": {
+      "x": 0.8978271484375,
+      "y": 0.49353763461112976,
+      "category": "accessories"
+    },
+    "necktie": {
+      "x": 0.870383620262146,
+      "y": 0.5038959980010986,
+      "category": "apparel"
+    },
+    "needle": {
+      "x": 0.776265025138855,
+      "y": 0.5483789443969727,
+      "category": "household items (excluding furniture)"
+    },
+    "nest": {
+      "x": 0.4468861520290375,
+      "y": 0.6014078259468079,
+      "category": "(not found)"
+    },
+    "newspaper": {
+      "x": 0.7159805297851562,
+      "y": 0.8304357528686523,
+      "category": "book"
+    },
+    "nose": {
+      "x": 0.3359886705875397,
+      "y": 0.6293343901634216,
+      "category": "body or body part"
+    },
+    "notebook": {
+      "x": 0.7242474555969238,
+      "y": 0.8123621344566345,
+      "category": "school and office supplies"
+    },
+    "numerals": {
+      "x": 0.5129789113998413,
+      "y": 0.9463620781898499,
+      "category": "numerals"
+    },
+    "numerals on blocks": {
+      "x": 0.5163853168487549,
+      "y": 0.9412691593170166,
+      "category": "numerals"
+    },
+    "nut": {
+      "x": 0.3912106454372406,
+      "y": 0.20565833151340485,
+      "category": "food"
+    },
+    "ocean": {
+      "x": 0.42797011137008667,
+      "y": 0.3839333653450012,
+      "category": "geography"
+    },
+    "octopus": {
+      "x": 0.1660521924495697,
+      "y": 0.310629665851593,
+      "category": "animal or animal part"
+    },
+    "open book": {
+      "x": 0.7372462749481201,
+      "y": 0.8509734869003296,
+      "category": "(not found)"
+    },
+    "orange": {
+      "x": 0.32596099376678467,
+      "y": 0.25176239013671875,
+      "category": "fruit"
+    },
+    "organ pipes": {
+      "x": 0.5006165504455566,
+      "y": 0.5354692935943604,
+      "category": "(not found)"
+    },
+    "oriental house": {
+      "x": 0.33165180683135986,
+      "y": 0.46273529529571533,
+      "category": "building"
+    },
+    "ornament": {
+      "x": 0.9283319711685181,
+      "y": 0.4891015291213989,
+      "category": "design or decoration"
+    },
+    "oscilloscope": {
+      "x": 0.3831191956996918,
+      "y": 0.9067304730415344,
+      "category": "science"
+    },
+    "other animal face": {
+      "x": 0.18031226098537445,
+      "y": 0.4252694547176361,
+      "category": "animal or animal part"
+    },
+    "other animal head": {
+      "x": 0.18782532215118408,
+      "y": 0.4275955557823181,
+      "category": "animal or animal part"
+    },
+    "other heavenly forms": {
+      "x": 0.05406790226697922,
+      "y": 0.4885680377483368,
+      "category": "supernatural creatures"
+    },
+    "outhouse": {
+      "x": 0.37357550859451294,
+      "y": 0.4469437003135681,
+      "category": "building attachments and accessories"
+    },
+    "outlet": {
+      "x": 0.6026890873908997,
+      "y": 0.7041176557540894,
+      "category": "(not found)"
+    },
+    "oven": {
+      "x": 0.4865051507949829,
+      "y": 0.5524335503578186,
+      "category": "household items (excluding furniture)"
+    },
+    "pac-man": {
+      "x": 0.13880407810211182,
+      "y": 0.46813738346099854,
+      "category": "(not found)"
+    },
+    "package": {
+      "x": 0.5514005422592163,
+      "y": 0.8141612410545349,
+      "category": "package"
+    },
+    "page of book": {
+      "x": 0.7432880401611328,
+      "y": 0.8494991660118103,
+      "category": "book"
+    },
+    "pagoda": {
+      "x": 0.33465179800987244,
+      "y": 0.529998242855072,
+      "category": "building"
+    },
+    "paint": {
+      "x": 0.7387915849685669,
+      "y": 0.7514193058013916,
+      "category": "art and art materials"
+    },
+    "palace": {
+      "x": 0.32730963826179504,
+      "y": 0.540377140045166,
+      "category": "building"
+    },
+    "palm tree": {
+      "x": 0.2558212876319885,
+      "y": 0.18499720096588135,
+      "category": "tree"
+    },
+    "pants": {
+      "x": 0.8342803120613098,
+      "y": 0.5275472402572632,
+      "category": "apparel"
+    },
+    "paper": {
+      "x": 0.7374364137649536,
+      "y": 0.7852697372436523,
+      "category": "school and office supplies"
+    },
+    "paper clip": {
+      "x": 0.836294412612915,
+      "y": 0.6246441602706909,
+      "category": "school and office supplies"
+    },
+    "paperweight": {
+      "x": 0.7535350918769836,
+      "y": 0.7836347222328186,
+      "category": "school and office supplies"
+    },
+    "parallel bars": {
+      "x": 0.7309278249740601,
+      "y": 0.4293863773345947,
+      "category": "(not found)"
+    },
+    "park bench": {
+      "x": 0.6248751282691956,
+      "y": 0.6449021697044373,
+      "category": "(not found)"
+    },
+    "parking lot": {
+      "x": 0.562865674495697,
+      "y": 0.6130701899528503,
+      "category": "street and street systems"
+    },
+    "parking meter": {
+      "x": 0.5562204718589783,
+      "y": 0.6237668991088867,
+      "category": "street and street systems"
+    },
+    "pause": {
+      "x": 0.5893025398254395,
+      "y": 0.830174446105957,
+      "category": "(not found)"
+    },
+    "pea shooter": {
+      "x": 0.46558302640914917,
+      "y": 0.26666927337646484,
+      "category": "toy"
+    },
+    "peace symbol": {
+      "x": 0.46256014704704285,
+      "y": 0.877157986164093,
+      "category": "symbols and signs"
+    },
+    "peacock": {
+      "x": 0.17048507928848267,
+      "y": 0.2867628335952759,
+      "category": "bird or fowl"
+    },
+    "peanut butter": {
+      "x": 0.4142582416534424,
+      "y": 0.13104690611362457,
+      "category": "food"
+    },
+    "pear": {
+      "x": 0.36255156993865967,
+      "y": 0.32267001271247864,
+      "category": "fruit"
+    },
+    "pearl": {
+      "x": 0.36017417907714844,
+      "y": 0.3188975751399994,
+      "category": "design or decoration"
+    },
+    "pearlshell": {
+      "x": 0.39435285329818726,
+      "y": 0.31273677945137024,
+      "category": "(not found)"
+    },
+    "peekaboo": {
+      "x": 0.3625105321407318,
+      "y": 0.7745498418807983,
+      "category": "(not found)"
+    },
+    "peeking": {
+      "x": 0.3547173738479614,
+      "y": 0.7820802927017212,
+      "category": "(not found)"
+    },
+    "peephole": {
+      "x": 0.3667874038219452,
+      "y": 0.7752223014831543,
+      "category": "(not found)"
+    },
+    "pen": {
+      "x": 0.3936413824558258,
+      "y": 0.34348416328430176,
+      "category": "school and office supplies"
+    },
+    "pencil": {
+      "x": 0.811280369758606,
+      "y": 0.6735376715660095,
+      "category": "school and office supplies"
+    },
+    "pencil sharpener": {
+      "x": 0.8200166821479797,
+      "y": 0.6424517035484314,
+      "category": "school and office supplies"
+    },
+    "pendant": {
+      "x": 0.91953444480896,
+      "y": 0.48339805006980896,
+      "category": "(not found)"
+    },
+    "penguin": {
+      "x": 0.17765727639198303,
+      "y": 0.29435524344444275,
+      "category": "bird or fowl"
+    },
+    "pepper shaker": {
+      "x": 0.4757060110569,
+      "y": 0.23723213374614716,
+      "category": "household items (excluding furniture)"
+    },
+    "person": {
+      "x": 0.09548196196556091,
+      "y": 0.5868330597877502,
+      "category": "human beings"
+    },
+    "petri dish": {
+      "x": 0.513770341873169,
+      "y": 0.24205076694488525,
+      "category": "(not found)"
+    },
+    "piano": {
+      "x": 0.9267570972442627,
+      "y": 0.7379627823829651,
+      "category": "music"
+    },
+    "piano keys": {
+      "x": 0.9171881675720215,
+      "y": 0.7380415201187134,
+      "category": "(not found)"
+    },
+    "pick up sticks": {
+      "x": 0.7408643364906311,
+      "y": 0.5100820660591125,
+      "category": "games"
+    },
+    "pickle": {
+      "x": 0.4028143584728241,
+      "y": 0.2242838442325592,
+      "category": "food"
+    },
+    "picture": {
+      "x": 0.5548431277275085,
+      "y": 0.8766205906867981,
+      "category": "art and art materials"
+    },
+    "picture frame": {
+      "x": 0.5984940528869629,
+      "y": 0.8652435541152954,
+      "category": "frame"
+    },
+    "pie": {
+      "x": 0.3807883560657501,
+      "y": 0.29708626866340637,
+      "category": "food"
+    },
+    "pig": {
+      "x": 0.16633281111717224,
+      "y": 0.3444298505783081,
+      "category": "animal or animal part"
+    },
+    "pillars": {
+      "x": 0.3250150680541992,
+      "y": 0.5930373072624207,
+      "category": "(not found)"
+    },
+    "pills": {
+      "x": 0.30782192945480347,
+      "y": 0.6011143922805786,
+      "category": "medicine"
+    },
+    "pin wheels": {
+      "x": 0.6615779399871826,
+      "y": 0.5027227401733398,
+      "category": "toy"
+    },
+    "pine tree": {
+      "x": 0.23614980280399323,
+      "y": 0.19394034147262573,
+      "category": "tree"
+    },
+    "ping pong": {
+      "x": 0.7825830578804016,
+      "y": 0.25740906596183777,
+      "category": "(not found)"
+    },
+    "pinocchio": {
+      "x": 0.15646187961101532,
+      "y": 0.44265952706336975,
+      "category": "toy"
+    },
+    "pirate eye patch": {
+      "x": 0.34096044301986694,
+      "y": 0.7721874713897705,
+      "category": "(not found)"
+    },
+    "pistol": {
+      "x": 0.4888049364089966,
+      "y": 0.3458268642425537,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "pitch fork": {
+      "x": 0.8048655390739441,
+      "y": 0.5690346956253052,
+      "category": "tool"
+    },
+    "pitcher": {
+      "x": 0.5567390322685242,
+      "y": 0.2371472716331482,
+      "category": "sports (not ball)"
+    },
+    "pizza": {
+      "x": 0.45503607392311096,
+      "y": 0.1303376853466034,
+      "category": "food"
+    },
+    "planet": {
+      "x": 0.1841817945241928,
+      "y": 0.6729486584663391,
+      "category": "(not found)"
+    },
+    "planted seeds": {
+      "x": 0.3539689779281616,
+      "y": 0.2278507500886917,
+      "category": "(not found)"
+    },
+    "plate": {
+      "x": 0.625352144241333,
+      "y": 0.7580577731132507,
+      "category": "(not found)"
+    },
+    "play pen": {
+      "x": 0.4895813465118408,
+      "y": 0.4762972295284271,
+      "category": "household items (excluding furniture)"
+    },
+    "playhouse": {
+      "x": 0.379050612449646,
+      "y": 0.5126580595970154,
+      "category": "toy"
+    },
+    "plug": {
+      "x": 0.6163317561149597,
+      "y": 0.7249190211296082,
+      "category": "(not found)"
+    },
+    "pocket watch": {
+      "x": 0.6810404658317566,
+      "y": 0.8946293592453003,
+      "category": "(not found)"
+    },
+    "pok\u00e9 ball": {
+      "x": 0.8286103010177612,
+      "y": 0.23695622384548187,
+      "category": "(not found)"
+    },
+    "pole": {
+      "x": 0.312195360660553,
+      "y": 0.49940118193626404,
+      "category": "building materials or equipment"
+    },
+    "pole vault": {
+      "x": 0.7106655836105347,
+      "y": 0.3289836645126343,
+      "category": "sports (not ball)"
+    },
+    "pomegranate": {
+      "x": 0.3578036427497864,
+      "y": 0.1591126173734665,
+      "category": "(not found)"
+    },
+    "pool table": {
+      "x": 0.7665718197822571,
+      "y": 0.2638615369796753,
+      "category": "recreation and entertainment"
+    },
+    "popcorn (box of)": {
+      "x": 0.526574432849884,
+      "y": 0.10797756910324097,
+      "category": "food"
+    },
+    "popsicle": {
+      "x": 0.41489139199256897,
+      "y": 0.14194563031196594,
+      "category": "food"
+    },
+    "porcupine": {
+      "x": 0.1542356312274933,
+      "y": 0.2825242280960083,
+      "category": "animal or animal part"
+    },
+    "porthole": {
+      "x": 0.3813231587409973,
+      "y": 0.7548216581344604,
+      "category": "(not found)"
+    },
+    "post office": {
+      "x": 0.5850126147270203,
+      "y": 0.6889771223068237,
+      "category": "building"
+    },
+    "poster": {
+      "x": 0.5520090460777283,
+      "y": 0.8811417818069458,
+      "category": "school"
+    },
+    "pot": {
+      "x": 0.46607524156570435,
+      "y": 0.6101148128509521,
+      "category": "household items (excluding furniture)"
+    },
+    "potato head": {
+      "x": 0.2077343463897705,
+      "y": 0.5139529705047607,
+      "category": "toy"
+    },
+    "praying mantis": {
+      "x": 0.05841364338994026,
+      "y": 0.35022470355033875,
+      "category": "insect"
+    },
+    "prince": {
+      "x": 0.15370118618011475,
+      "y": 0.5484578609466553,
+      "category": "royalty"
+    },
+    "princess": {
+      "x": 0.1298336684703827,
+      "y": 0.5257649421691895,
+      "category": "royalty"
+    },
+    "puppet": {
+      "x": 0.2039899379014969,
+      "y": 0.38379254937171936,
+      "category": "toy"
+    },
+    "purse": {
+      "x": 0.7798113822937012,
+      "y": 0.7036831378936768,
+      "category": "accessories"
+    },
+    "pyramid": {
+      "x": 0.36351266503334045,
+      "y": 0.7021704912185669,
+      "category": "geography"
+    },
+    "queen": {
+      "x": 0.12976650893688202,
+      "y": 0.5430321097373962,
+      "category": "royalty"
+    },
+    "question mark": {
+      "x": 0.4989774525165558,
+      "y": 0.867598831653595,
+      "category": "symbols and signs"
+    },
+    "rabbit": {
+      "x": 0.12722499668598175,
+      "y": 0.3581470549106598,
+      "category": "animal or animal part"
+    },
+    "rabbit ears": {
+      "x": 0.19228798151016235,
+      "y": 0.4498293697834015,
+      "category": "(not found)"
+    },
+    "rabbit face": {
+      "x": 0.1808093637228012,
+      "y": 0.4140486419200897,
+      "category": "(not found)"
+    },
+    "race": {
+      "x": 0.6901454925537109,
+      "y": 0.46445003151893616,
+      "category": "sports (not ball)"
+    },
+    "race track": {
+      "x": 0.6973901391029358,
+      "y": 0.4652690887451172,
+      "category": "sports (not ball)"
+    },
+    "racer": {
+      "x": 0.6963549256324768,
+      "y": 0.47006756067276,
+      "category": "surface transportation"
+    },
+    "radar": {
+      "x": 0.37132859230041504,
+      "y": 0.923490047454834,
+      "category": "sound and sound systems"
+    },
+    "radar waves": {
+      "x": 0.38382038474082947,
+      "y": 0.9265621304512024,
+      "category": "sound and sound systems"
+    },
+    "radio": {
+      "x": 0.39035770297050476,
+      "y": 0.93751460313797,
+      "category": "sound and sound systems"
+    },
+    "radio antenna": {
+      "x": 0.37710040807724,
+      "y": 0.9392247200012207,
+      "category": "(not found)"
+    },
+    "radio sound waves": {
+      "x": 0.3902178406715393,
+      "y": 0.9385911822319031,
+      "category": "sound and sound systems"
+    },
+    "railing": {
+      "x": 0.6244407296180725,
+      "y": 0.4782847762107849,
+      "category": "(not found)"
+    },
+    "railroad tracks": {
+      "x": 0.5979735851287842,
+      "y": 0.5574923753738403,
+      "category": "surface transportation"
+    },
+    "rain": {
+      "x": 0.3276534378528595,
+      "y": 0.37829622626304626,
+      "category": "weather and seasons"
+    },
+    "rainbow": {
+      "x": 0.29213833808898926,
+      "y": 0.3201678395271301,
+      "category": "weather and seasons"
+    },
+    "raisin": {
+      "x": 0.4070183038711548,
+      "y": 0.18646396696567535,
+      "category": "fruit"
+    },
+    "rake": {
+      "x": 0.7053670883178711,
+      "y": 0.49834394454956055,
+      "category": "tool"
+    },
+    "rand tower": {
+      "x": 0.3733702003955841,
+      "y": 0.5833302140235901,
+      "category": "building"
+    },
+    "record": {
+      "x": 0.6459444761276245,
+      "y": 0.8538485169410706,
+      "category": "(not found)"
+    },
+    "record player": {
+      "x": 0.7930930852890015,
+      "y": 0.8041204810142517,
+      "category": "music"
+    },
+    "rectangle": {
+      "x": 0.45387721061706543,
+      "y": 0.8364856839179993,
+      "category": "geometric shape"
+    },
+    "red cross": {
+      "x": 0.4505232870578766,
+      "y": 0.7849888801574707,
+      "category": "cross"
+    },
+    "reducing machine": {
+      "x": 0.7061133980751038,
+      "y": 0.5579027533531189,
+      "category": "machine"
+    },
+    "refrigerator": {
+      "x": 0.6770152449607849,
+      "y": 0.6465871334075928,
+      "category": "household items (excluding furniture)"
+    },
+    "restaurant": {
+      "x": 0.4545573592185974,
+      "y": 0.5672380924224854,
+      "category": "building"
+    },
+    "ribbon": {
+      "x": 0.8674259185791016,
+      "y": 0.5044646263122559,
+      "category": "design or decoration"
+    },
+    "ribbon bow": {
+      "x": 0.8608810305595398,
+      "y": 0.4370185434818268,
+      "category": "design or decoration"
+    },
+    "ride": {
+      "x": 0.6224079728126526,
+      "y": 0.5026045441627502,
+      "category": "recreation and entertainment"
+    },
+    "rifle": {
+      "x": 0.5013414621353149,
+      "y": 0.33732473850250244,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "ring": {
+      "x": 0.5134040713310242,
+      "y": 0.6681672930717468,
+      "category": "(not found)"
+    },
+    "ringmaster": {
+      "x": 0.5738757848739624,
+      "y": 0.5927603244781494,
+      "category": "human beings"
+    },
+    "river": {
+      "x": 0.35179129242897034,
+      "y": 0.39687928557395935,
+      "category": "geography"
+    },
+    "road": {
+      "x": 0.5505473017692566,
+      "y": 0.5972240567207336,
+      "category": "road and road system"
+    },
+    "road map": {
+      "x": 0.5656874775886536,
+      "y": 0.6122075915336609,
+      "category": "geography"
+    },
+    "robot": {
+      "x": 0.12607532739639282,
+      "y": 0.3945765495300293,
+      "category": "machine"
+    },
+    "rocket": {
+      "x": 0.22526966035366058,
+      "y": 0.5918521881103516,
+      "category": "space"
+    },
+    "rocket man": {
+      "x": 0.1723555028438568,
+      "y": 0.5684216618537903,
+      "category": "space"
+    },
+    "rocking horse": {
+      "x": 0.3116912245750427,
+      "y": 0.4121757745742798,
+      "category": "toy"
+    },
+    "roller coaster": {
+      "x": 0.6372016072273254,
+      "y": 0.46045324206352234,
+      "category": "recreation and entertainment"
+    },
+    "roman numerals": {
+      "x": 0.508124589920044,
+      "y": 0.9427543878555298,
+      "category": "numerals"
+    },
+    "roof": {
+      "x": 0.5757415890693665,
+      "y": 0.7003269791603088,
+      "category": "building part"
+    },
+    "rug": {
+      "x": 0.5894855856895447,
+      "y": 0.5992502570152283,
+      "category": "household items (excluding furniture)"
+    },
+    "rugby ball": {
+      "x": 0.8263574242591858,
+      "y": 0.24781498312950134,
+      "category": "(not found)"
+    },
+    "ruler": {
+      "x": 0.17427702248096466,
+      "y": 0.5641008615493774,
+      "category": "school and office supplies"
+    },
+    "safe": {
+      "x": 0.5536137819290161,
+      "y": 0.7172394394874573,
+      "category": "furniture"
+    },
+    "sail": {
+      "x": 0.5989169478416443,
+      "y": 0.3773379921913147,
+      "category": "water travel"
+    },
+    "sailboat": {
+      "x": 0.5941222906112671,
+      "y": 0.3714718520641327,
+      "category": "water travel"
+    },
+    "saloon doors": {
+      "x": 0.6351819038391113,
+      "y": 0.6718024611473083,
+      "category": "(not found)"
+    },
+    "salt and pepper": {
+      "x": 0.44675159454345703,
+      "y": 0.1953599750995636,
+      "category": "(not found)"
+    },
+    "salt shaker": {
+      "x": 0.4696817100048065,
+      "y": 0.2292827069759369,
+      "category": "household items (excluding furniture)"
+    },
+    "sandwich": {
+      "x": 0.4367198050022125,
+      "y": 0.055193331092596054,
+      "category": "food"
+    },
+    "santa claus": {
+      "x": 0.2668595016002655,
+      "y": 0.3126600682735443,
+      "category": "supernatural creatures"
+    },
+    "sardines": {
+      "x": 0.45468688011169434,
+      "y": 0.24271830916404724,
+      "category": "fish and sea animals"
+    },
+    "satellite": {
+      "x": 0.32665690779685974,
+      "y": 0.9146276712417603,
+      "category": "(not found)"
+    },
+    "saucer": {
+      "x": 0.546963632106781,
+      "y": 0.2157226949930191,
+      "category": "household items (excluding furniture)"
+    },
+    "school": {
+      "x": 0.5505483746528625,
+      "y": 0.7594683766365051,
+      "category": "building"
+    },
+    "school bell": {
+      "x": 0.6713401675224304,
+      "y": 0.8288918733596802,
+      "category": "(not found)"
+    },
+    "scissors": {
+      "x": 0.8117050528526306,
+      "y": 0.5750381350517273,
+      "category": "(not found)"
+    },
+    "scoreboard": {
+      "x": 0.6788077354431152,
+      "y": 0.7823673486709595,
+      "category": "sports (not ball)"
+    },
+    "scroll": {
+      "x": 0.5729737877845764,
+      "y": 0.7890239953994751,
+      "category": "(not found)"
+    },
+    "sea gull": {
+      "x": 0.2076098769903183,
+      "y": 0.2668198347091675,
+      "category": "bird or fowl"
+    },
+    "sea mine": {
+      "x": 0.45101621747016907,
+      "y": 0.300769567489624,
+      "category": "(not found)"
+    },
+    "seascape": {
+      "x": 0.47164374589920044,
+      "y": 0.3766922950744629,
+      "category": "geography"
+    },
+    "seeds": {
+      "x": 0.36892205476760864,
+      "y": 0.2151200920343399,
+      "category": "other plant (not tree not flower)"
+    },
+    "seesaw": {
+      "x": 0.6548813581466675,
+      "y": 0.5332306027412415,
+      "category": "(not found)"
+    },
+    "semi-circles": {
+      "x": 0.41764944791793823,
+      "y": 0.8323965072631836,
+      "category": "geometric shape"
+    },
+    "sewing": {
+      "x": 0.8492586016654968,
+      "y": 0.5035224556922913,
+      "category": "(not found)"
+    },
+    "shade tree": {
+      "x": 0.24756774306297302,
+      "y": 0.19804535806179047,
+      "category": "tree"
+    },
+    "sheet": {
+      "x": 0.7132495641708374,
+      "y": 0.7770718932151794,
+      "category": "linen"
+    },
+    "shelf": {
+      "x": 0.6408495306968689,
+      "y": 0.7098286151885986,
+      "category": "household items (excluding furniture)"
+    },
+    "shield": {
+      "x": 0.5597947835922241,
+      "y": 0.7315164804458618,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "ship": {
+      "x": 0.5700592994689941,
+      "y": 0.41179409623146057,
+      "category": "water travel"
+    },
+    "ship wheel": {
+      "x": 0.6415888071060181,
+      "y": 0.4811169505119324,
+      "category": "(not found)"
+    },
+    "shirt": {
+      "x": 0.8448860049247742,
+      "y": 0.5418413281440735,
+      "category": "apparel"
+    },
+    "shish-kabob": {
+      "x": 0.4140826463699341,
+      "y": 0.05000000074505806,
+      "category": "food"
+    },
+    "shoe": {
+      "x": 0.799871563911438,
+      "y": 0.49756187200546265,
+      "category": "apparel"
+    },
+    "shoe box": {
+      "x": 0.7869147658348083,
+      "y": 0.4909459948539734,
+      "category": "container"
+    },
+    "shoe lace": {
+      "x": 0.8179840445518494,
+      "y": 0.492084264755249,
+      "category": "apparel"
+    },
+    "shopping bag": {
+      "x": 0.7780900597572327,
+      "y": 0.7037514448165894,
+      "category": "(not found)"
+    },
+    "shorts": {
+      "x": 0.8209714293479919,
+      "y": 0.532673716545105,
+      "category": "apparel"
+    },
+    "shovel": {
+      "x": 0.7092019319534302,
+      "y": 0.49021944403648376,
+      "category": "tool"
+    },
+    "show": {
+      "x": 0.5643200278282166,
+      "y": 0.8480052351951599,
+      "category": "recreation and entertainment"
+    },
+    "shower curtains": {
+      "x": 0.7428023815155029,
+      "y": 0.6356362700462341,
+      "category": "household items (excluding furniture)"
+    },
+    "shrubbery": {
+      "x": 0.27095240354537964,
+      "y": 0.2161242812871933,
+      "category": "other plant (not tree not flower)"
+    },
+    "sidewalk": {
+      "x": 0.5520541667938232,
+      "y": 0.6270446181297302,
+      "category": "street and street systems"
+    },
+    "sign": {
+      "x": 0.5271355509757996,
+      "y": 0.8885507583618164,
+      "category": "symbols and signs"
+    },
+    "signal": {
+      "x": 0.50999915599823,
+      "y": 0.8908301591873169,
+      "category": "symbols and signs"
+    },
+    "singer": {
+      "x": 0.8486524820327759,
+      "y": 0.7024102210998535,
+      "category": "human beings"
+    },
+    "sink": {
+      "x": 0.5618715286254883,
+      "y": 0.6546062231063843,
+      "category": "household items (excluding furniture)"
+    },
+    "sizzling bacon": {
+      "x": 0.40989917516708374,
+      "y": 0.06535588949918747,
+      "category": "food"
+    },
+    "skateboard": {
+      "x": 0.6680654287338257,
+      "y": 0.37842148542404175,
+      "category": "(not found)"
+    },
+    "skateboard ramp": {
+      "x": 0.6635560989379883,
+      "y": 0.403128057718277,
+      "category": "(not found)"
+    },
+    "ski jump": {
+      "x": 0.6872247457504272,
+      "y": 0.3589443266391754,
+      "category": "recreation and entertainment"
+    },
+    "ski lift": {
+      "x": 0.6723862886428833,
+      "y": 0.4039984345436096,
+      "category": "(not found)"
+    },
+    "ski slope": {
+      "x": 0.6875209212303162,
+      "y": 0.3940567672252655,
+      "category": "(not found)"
+    },
+    "skin diver": {
+      "x": 0.652825117111206,
+      "y": 0.3174639344215393,
+      "category": "recreation and entertainment"
+    },
+    "skirt": {
+      "x": 0.8428675532341003,
+      "y": 0.5377590656280518,
+      "category": "apparel"
+    },
+    "skis": {
+      "x": 0.6929927468299866,
+      "y": 0.3882554769515991,
+      "category": "(not found)"
+    },
+    "sky": {
+      "x": 0.16783909499645233,
+      "y": 0.6958876848220825,
+      "category": "cloud"
+    },
+    "skyscraper": {
+      "x": 0.3792518675327301,
+      "y": 0.5723609328269958,
+      "category": "building"
+    },
+    "sled": {
+      "x": 0.6781964898109436,
+      "y": 0.4019737243652344,
+      "category": "surface transportation"
+    },
+    "slide": {
+      "x": 0.6226589679718018,
+      "y": 0.7733666300773621,
+      "category": "recreation and entertainment"
+    },
+    "slide rule": {
+      "x": 0.6302735805511475,
+      "y": 0.7828848958015442,
+      "category": "(not found)"
+    },
+    "slingshot": {
+      "x": 0.49702322483062744,
+      "y": 0.3440847396850586,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "slippers": {
+      "x": 0.7981387972831726,
+      "y": 0.5044687390327454,
+      "category": "apparel"
+    },
+    "slot machine": {
+      "x": 0.6922383308410645,
+      "y": 0.5770069360733032,
+      "category": "(not found)"
+    },
+    "smiley face": {
+      "x": 0.23325465619564056,
+      "y": 0.6164563298225403,
+      "category": "body or body part"
+    },
+    "snack": {
+      "x": 0.4686223566532135,
+      "y": 0.07601942867040634,
+      "category": "food"
+    },
+    "snail": {
+      "x": 0.12209947407245636,
+      "y": 0.33139798045158386,
+      "category": "animal or animal part"
+    },
+    "snorkel": {
+      "x": 0.6383596658706665,
+      "y": 0.31691882014274597,
+      "category": "water travel"
+    },
+    "snow": {
+      "x": 0.3242296874523163,
+      "y": 0.34856387972831726,
+      "category": "weather and seasons"
+    },
+    "snow ball (physical form)": {
+      "x": 0.8063668012619019,
+      "y": 0.21942834556102753,
+      "category": "balls"
+    },
+    "snow globe": {
+      "x": 0.33770206570625305,
+      "y": 0.3404309153556824,
+      "category": "(not found)"
+    },
+    "snowman": {
+      "x": 0.3102578818798065,
+      "y": 0.3252604305744171,
+      "category": "balls"
+    },
+    "soap": {
+      "x": 0.7332000136375427,
+      "y": 0.6193358898162842,
+      "category": "household items (excluding furniture)"
+    },
+    "soccer goal": {
+      "x": 0.7846465706825256,
+      "y": 0.2947298586368561,
+      "category": "sports (not ball)"
+    },
+    "socks": {
+      "x": 0.8107329607009888,
+      "y": 0.48488688468933105,
+      "category": "apparel"
+    },
+    "soda": {
+      "x": 0.4370477497577667,
+      "y": 0.1668669432401657,
+      "category": "food"
+    },
+    "solar system": {
+      "x": 0.14963556826114655,
+      "y": 0.7269270420074463,
+      "category": "sky bodies"
+    },
+    "sonar": {
+      "x": 0.3882333040237427,
+      "y": 0.9248714447021484,
+      "category": "sound and sound systems"
+    },
+    "sound wave": {
+      "x": 0.39761537313461304,
+      "y": 0.9247269630432129,
+      "category": "sound and sound systems"
+    },
+    "space capsule": {
+      "x": 0.5256788730621338,
+      "y": 0.4233159124851227,
+      "category": "space"
+    },
+    "space man": {
+      "x": 0.13489152491092682,
+      "y": 0.5594157576560974,
+      "category": "space"
+    },
+    "space ship": {
+      "x": 0.5479418635368347,
+      "y": 0.39842814207077026,
+      "category": "space"
+    },
+    "space suit": {
+      "x": 0.6265372037887573,
+      "y": 0.34293264150619507,
+      "category": "space"
+    },
+    "speaker": {
+      "x": 0.5450502038002014,
+      "y": 0.8891444802284241,
+      "category": "(not found)"
+    },
+    "speech bubble": {
+      "x": 0.4983942210674286,
+      "y": 0.8617522120475769,
+      "category": "(not found)"
+    },
+    "spelling chart": {
+      "x": 0.5949149131774902,
+      "y": 0.9163652062416077,
+      "category": "school"
+    },
+    "spider": {
+      "x": 0.06899707764387131,
+      "y": 0.34564149379730225,
+      "category": "insect"
+    },
+    "spiderweb": {
+      "x": 0.05488348379731178,
+      "y": 0.3645196557044983,
+      "category": "insect"
+    },
+    "spool of thread": {
+      "x": 0.8510000109672546,
+      "y": 0.49488428235054016,
+      "category": "household items (excluding furniture)"
+    },
+    "spotlight": {
+      "x": 0.24578750133514404,
+      "y": 0.8356677293777466,
+      "category": "light"
+    },
+    "spring": {
+      "x": 0.4646744430065155,
+      "y": 0.5378836393356323,
+      "category": "weather and seasons"
+    },
+    "sprinkler": {
+      "x": 0.45211172103881836,
+      "y": 0.41432178020477295,
+      "category": "household items (excluding furniture)"
+    },
+    "sputnik": {
+      "x": 0.20505477488040924,
+      "y": 0.6689987778663635,
+      "category": "space"
+    },
+    "spyglass lens": {
+      "x": 0.30833250284194946,
+      "y": 0.842778742313385,
+      "category": "(not found)"
+    },
+    "square": {
+      "x": 0.452356219291687,
+      "y": 0.8212900161743164,
+      "category": "geometric shape"
+    },
+    "stadium (football)": {
+      "x": 0.775383472442627,
+      "y": 0.3329491913318634,
+      "category": "sports (not ball)"
+    },
+    "stage": {
+      "x": 0.532958447933197,
+      "y": 0.7521820664405823,
+      "category": "recreation and entertainment"
+    },
+    "stagecoach": {
+      "x": 0.5875124335289001,
+      "y": 0.5052502751350403,
+      "category": "surface transportation"
+    },
+    "stairs": {
+      "x": 0.6034294366836548,
+      "y": 0.6553992629051208,
+      "category": "building part"
+    },
+    "star": {
+      "x": 0.18677929043769836,
+      "y": 0.6978572010993958,
+      "category": "sky bodies"
+    },
+    "steam shovel": {
+      "x": 0.6451789736747742,
+      "y": 0.4505768120288849,
+      "category": "building materials or equipment"
+    },
+    "steeple": {
+      "x": 0.3879866600036621,
+      "y": 0.5508691668510437,
+      "category": "building attachments and accessories"
+    },
+    "steering wheel": {
+      "x": 0.6534570455551147,
+      "y": 0.5050106644630432,
+      "category": "automobile accessories"
+    },
+    "stem of violin": {
+      "x": 0.9466535449028015,
+      "y": 0.7619210481643677,
+      "category": "music"
+    },
+    "stethoscope": {
+      "x": 0.8640204071998596,
+      "y": 0.7854340672492981,
+      "category": "(not found)"
+    },
+    "stick man": {
+      "x": 0.13863083720207214,
+      "y": 0.5645073652267456,
+      "category": "human beings"
+    },
+    "stilts": {
+      "x": 0.6421254277229309,
+      "y": 0.5509607791900635,
+      "category": "toy"
+    },
+    "stone": {
+      "x": 0.31348714232444763,
+      "y": 0.6335657835006714,
+      "category": "building materials or equipment"
+    },
+    "stop signal": {
+      "x": 0.5045448541641235,
+      "y": 0.8885027170181274,
+      "category": "symbols and signs"
+    },
+    "storage trunk": {
+      "x": 0.6906835436820984,
+      "y": 0.7102383375167847,
+      "category": "container"
+    },
+    "stove": {
+      "x": 0.4635280966758728,
+      "y": 0.48876261711120605,
+      "category": "household items (excluding furniture)"
+    },
+    "street": {
+      "x": 0.516808807849884,
+      "y": 0.6465640068054199,
+      "category": "street and street systems"
+    },
+    "street light": {
+      "x": 0.19436128437519073,
+      "y": 0.8874304294586182,
+      "category": "light"
+    },
+    "strong man": {
+      "x": 0.11124958097934723,
+      "y": 0.562786340713501,
+      "category": "recreation and entertainment"
+    },
+    "submarine": {
+      "x": 0.539467990398407,
+      "y": 0.39496472477912903,
+      "category": "water travel"
+    },
+    "sugar cane": {
+      "x": 0.3857456147670746,
+      "y": 0.167372465133667,
+      "category": "food"
+    },
+    "sun": {
+      "x": 0.13760268688201904,
+      "y": 0.7231054306030273,
+      "category": "sky bodies"
+    },
+    "sun hat": {
+      "x": 0.14217360317707062,
+      "y": 0.7196775078773499,
+      "category": "(not found)"
+    },
+    "sun rays": {
+      "x": 0.13678547739982605,
+      "y": 0.7293680310249329,
+      "category": "weather and seasons"
+    },
+    "sundae": {
+      "x": 0.42907947301864624,
+      "y": 0.10659308731555939,
+      "category": "food"
+    },
+    "sundial": {
+      "x": 0.1442692130804062,
+      "y": 0.7323380708694458,
+      "category": "clocks and other devices for measuring time"
+    },
+    "sunrise": {
+      "x": 0.1387774497270584,
+      "y": 0.7231783866882324,
+      "category": "sky bodies"
+    },
+    "sunset": {
+      "x": 0.1423420011997223,
+      "y": 0.7307342886924744,
+      "category": "weather and seasons"
+    },
+    "surf board": {
+      "x": 0.6448907256126404,
+      "y": 0.3656668961048126,
+      "category": "recreation and entertainment"
+    },
+    "surface transportation": {
+      "x": 0.5786351561546326,
+      "y": 0.5761845111846924,
+      "category": "surface transportation"
+    },
+    "suspenders": {
+      "x": 0.8595453500747681,
+      "y": 0.5028006434440613,
+      "category": "(not found)"
+    },
+    "swan": {
+      "x": 0.1705227643251419,
+      "y": 0.2858435809612274,
+      "category": "bird or fowl"
+    },
+    "swastika": {
+      "x": 0.4568402171134949,
+      "y": 0.8593961596488953,
+      "category": "symbols and signs"
+    },
+    "swimming pool": {
+      "x": 0.6924072504043579,
+      "y": 0.3072834014892578,
+      "category": "recreation and entertainment"
+    },
+    "swing": {
+      "x": 0.6320222020149231,
+      "y": 0.6127456426620483,
+      "category": "recreation and entertainment"
+    },
+    "swinging door": {
+      "x": 0.6194673776626587,
+      "y": 0.6335372924804688,
+      "category": "building part"
+    },
+    "switchboard": {
+      "x": 0.6648043990135193,
+      "y": 0.7517344355583191,
+      "category": "sound and sound systems"
+    },
+    "symbol": {
+      "x": 0.5133917927742004,
+      "y": 0.8880634307861328,
+      "category": "symbols and signs"
+    },
+    "table": {
+      "x": 0.5667820572853088,
+      "y": 0.8168208003044128,
+      "category": "furniture"
+    },
+    "table cloth": {
+      "x": 0.7909691333770752,
+      "y": 0.6046486496925354,
+      "category": "linen"
+    },
+    "table mat": {
+      "x": 0.6851910352706909,
+      "y": 0.7224208116531372,
+      "category": "household items (excluding furniture)"
+    },
+    "tack": {
+      "x": 0.663847029209137,
+      "y": 0.5950937867164612,
+      "category": "(not found)"
+    },
+    "tag": {
+      "x": 0.5408551692962646,
+      "y": 0.8162784576416016,
+      "category": "games"
+    },
+    "taj mahal": {
+      "x": 0.3184245228767395,
+      "y": 0.5346069931983948,
+      "category": "building"
+    },
+    "tambourine": {
+      "x": 0.9438321590423584,
+      "y": 0.7522649168968201,
+      "category": "(not found)"
+    },
+    "tank": {
+      "x": 0.5132728815078735,
+      "y": 0.5724393725395203,
+      "category": "container"
+    },
+    "tank of fish": {
+      "x": 0.4699418544769287,
+      "y": 0.28958430886268616,
+      "category": "fish and sea animals"
+    },
+    "tape roll": {
+      "x": 0.777270495891571,
+      "y": 0.7570490837097168,
+      "category": "(not found)"
+    },
+    "tarantula": {
+      "x": 0.06692834198474884,
+      "y": 0.3500945270061493,
+      "category": "insect"
+    },
+    "target": {
+      "x": 0.5113765001296997,
+      "y": 0.7670405507087708,
+      "category": "(not found)"
+    },
+    "tea cup": {
+      "x": 0.5468578934669495,
+      "y": 0.21271724998950958,
+      "category": "household items (excluding furniture)"
+    },
+    "teapot": {
+      "x": 0.5520513653755188,
+      "y": 0.21826642751693726,
+      "category": "household items (excluding furniture)"
+    },
+    "teeth": {
+      "x": 0.3021571934223175,
+      "y": 0.5742106437683105,
+      "category": "body or body part"
+    },
+    "telephone booth": {
+      "x": 0.6524655818939209,
+      "y": 0.7356880903244019,
+      "category": "(not found)"
+    },
+    "telephone poles and line": {
+      "x": 0.6491209268569946,
+      "y": 0.7201470136642456,
+      "category": "pole and lines"
+    },
+    "telescope": {
+      "x": 0.2991642355918884,
+      "y": 0.836043119430542,
+      "category": "science"
+    },
+    "television": {
+      "x": 0.3629834055900574,
+      "y": 0.9213207960128784,
+      "category": "machine"
+    },
+    "temple": {
+      "x": 0.3309323489665985,
+      "y": 0.5429187417030334,
+      "category": "building"
+    },
+    "tennis": {
+      "x": 0.8198100924491882,
+      "y": 0.2924831211566925,
+      "category": "sports (not ball)"
+    },
+    "tennis ball": {
+      "x": 0.8234344124794006,
+      "y": 0.2397201508283615,
+      "category": "(not found)"
+    },
+    "tent": {
+      "x": 0.49560561776161194,
+      "y": 0.6142290830612183,
+      "category": "shelter (not buildings)"
+    },
+    "tepee": {
+      "x": 0.2918064296245575,
+      "y": 0.46834343671798706,
+      "category": "shelter (not buildings)"
+    },
+    "test tubes": {
+      "x": 0.5284554958343506,
+      "y": 0.5535919070243835,
+      "category": "science"
+    },
+    "thermometer": {
+      "x": 0.6836702823638916,
+      "y": 0.6565049290657043,
+      "category": "science"
+    },
+    "thermostat": {
+      "x": 0.6765179634094238,
+      "y": 0.6473546624183655,
+      "category": "household items (excluding furniture)"
+    },
+    "thread": {
+      "x": 0.5666366219520569,
+      "y": 0.8119232058525085,
+      "category": "household items (excluding furniture)"
+    },
+    "throne": {
+      "x": 0.19257752597332,
+      "y": 0.5735496282577515,
+      "category": "royalty"
+    },
+    "thunder": {
+      "x": 0.23451726138591766,
+      "y": 0.6729177832603455,
+      "category": "(not found)"
+    },
+    "tick-tack-toe": {
+      "x": 0.6818596720695496,
+      "y": 0.5910329222679138,
+      "category": "games"
+    },
+    "tiger": {
+      "x": 0.13293778896331787,
+      "y": 0.36696040630340576,
+      "category": "animal or animal part"
+    },
+    "tightrope": {
+      "x": 0.736248254776001,
+      "y": 0.4322102963924408,
+      "category": "(not found)"
+    },
+    "tightrope walker": {
+      "x": 0.7421550750732422,
+      "y": 0.4365217983722687,
+      "category": "(not found)"
+    },
+    "time machine": {
+      "x": 0.6349011063575745,
+      "y": 0.8745967745780945,
+      "category": "machine"
+    },
+    "timer": {
+      "x": 0.6046352982521057,
+      "y": 0.8437302112579346,
+      "category": "clocks and other devices for measuring time"
+    },
+    "tin dog": {
+      "x": 0.22152000665664673,
+      "y": 0.35192540287971497,
+      "category": "toy"
+    },
+    "tin man": {
+      "x": 0.14187109470367432,
+      "y": 0.5210563540458679,
+      "category": "toy"
+    },
+    "tire": {
+      "x": 0.6310923099517822,
+      "y": 0.5628640651702881,
+      "category": "automobile accessories"
+    },
+    "tire swing": {
+      "x": 0.6574133038520813,
+      "y": 0.5691772103309631,
+      "category": "(not found)"
+    },
+    "tire tread": {
+      "x": 0.6426821351051331,
+      "y": 0.556978166103363,
+      "category": "surface transportation"
+    },
+    "tnt": {
+      "x": 0.5047165155410767,
+      "y": 0.5736962556838989,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "toast": {
+      "x": 0.4684153199195862,
+      "y": 0.09822651743888855,
+      "category": "food"
+    },
+    "toaster": {
+      "x": 0.4848521947860718,
+      "y": 0.08271746337413788,
+      "category": "(not found)"
+    },
+    "tobacco pipe": {
+      "x": 0.5128836631774902,
+      "y": 0.30576789379119873,
+      "category": "tobacco"
+    },
+    "toilet seat": {
+      "x": 0.6819339990615845,
+      "y": 0.6583653688430786,
+      "category": "(not found)"
+    },
+    "tombstone": {
+      "x": 0.2568760812282562,
+      "y": 0.5436798930168152,
+      "category": "(not found)"
+    },
+    "tongue": {
+      "x": 0.316319078207016,
+      "y": 0.583110511302948,
+      "category": "body or body part"
+    },
+    "tooth brush": {
+      "x": 0.760071873664856,
+      "y": 0.6012352108955383,
+      "category": "household items (excluding furniture)"
+    },
+    "top hat": {
+      "x": 0.20488448441028595,
+      "y": 0.5513675808906555,
+      "category": "apparel"
+    },
+    "tornado": {
+      "x": 0.24001950025558472,
+      "y": 0.6684839129447937,
+      "category": "weather and seasons"
+    },
+    "torpedo": {
+      "x": 0.26291629672050476,
+      "y": 0.589166522026062,
+      "category": "weapons or traps (not air weapons)"
+    },
+    "torso": {
+      "x": 0.28805238008499146,
+      "y": 0.6619963049888611,
+      "category": "body or body part"
+    },
+    "totem pole": {
+      "x": 0.2978130280971527,
+      "y": 0.47567203640937805,
+      "category": "symbols and signs"
+    },
+    "towel": {
+      "x": 0.7472225427627563,
+      "y": 0.6121389865875244,
+      "category": "linen"
+    },
+    "towel on rack": {
+      "x": 0.7551336288452148,
+      "y": 0.6213333606719971,
+      "category": "(not found)"
+    },
+    "towel rack": {
+      "x": 0.7446802258491516,
+      "y": 0.636398196220398,
+      "category": "(not found)"
+    },
+    "toy": {
+      "x": 0.5041951537132263,
+      "y": 0.602267324924469,
+      "category": "toy"
+    },
+    "tractor": {
+      "x": 0.5995891094207764,
+      "y": 0.5359579920768738,
+      "category": "surface transportation"
+    },
+    "traffic light": {
+      "x": 0.21592655777931213,
+      "y": 0.8948520421981812,
+      "category": "(not found)"
+    },
+    "trailer": {
+      "x": 0.6031600832939148,
+      "y": 0.5360590219497681,
+      "category": "surface transportation"
+    },
+    "train": {
+      "x": 0.5898814797401428,
+      "y": 0.5388851165771484,
+      "category": "surface transportation"
+    },
+    "train door": {
+      "x": 0.5868803858757019,
+      "y": 0.5147846341133118,
+      "category": "(not found)"
+    },
+    "train station": {
+      "x": 0.583134651184082,
+      "y": 0.5748887062072754,
+      "category": "building"
+    },
+    "trash can": {
+      "x": 0.6692749857902527,
+      "y": 0.6858922839164734,
+      "category": "container"
+    },
+    "tray of fruit": {
+      "x": 0.4421965479850769,
+      "y": 0.13022013008594513,
+      "category": "fruit"
+    },
+    "treble clef": {
+      "x": 0.9267163872718811,
+      "y": 0.770022451877594,
+      "category": "music"
+    },
+    "tree": {
+      "x": 0.2606470286846161,
+      "y": 0.2393869161605835,
+      "category": "tree"
+    },
+    "tree canopy": {
+      "x": 0.25019925832748413,
+      "y": 0.2058064192533493,
+      "category": "(not found)"
+    },
+    "tree trunk": {
+      "x": 0.254305362701416,
+      "y": 0.215574711561203,
+      "category": "(not found)"
+    },
+    "triangle": {
+      "x": 0.43083226680755615,
+      "y": 0.8257027864456177,
+      "category": "geometric shape"
+    },
+    "troll face": {
+      "x": 0.22687917947769165,
+      "y": 0.5717825293540955,
+      "category": "(not found)"
+    },
+    "truck": {
+      "x": 0.5895498394966125,
+      "y": 0.5444452166557312,
+      "category": "surface transportation"
+    },
+    "tub": {
+      "x": 0.5340303182601929,
+      "y": 0.5367504358291626,
+      "category": "household items (excluding furniture)"
+    },
+    "tulip": {
+      "x": 0.34099140763282776,
+      "y": 0.2677879333496094,
+      "category": "flower"
+    },
+    "tuning fork": {
+      "x": 0.8789653778076172,
+      "y": 0.7171292304992676,
+      "category": "sound and sound systems"
+    },
+    "tunnel": {
+      "x": 0.5203838348388672,
+      "y": 0.5166898965835571,
+      "category": "(not found)"
+    },
+    "turkey": {
+      "x": 0.3419549763202667,
+      "y": 0.1028667539358139,
+      "category": "bird or fowl"
+    },
+    "turnpike": {
+      "x": 0.562353253364563,
+      "y": 0.5708879232406616,
+      "category": "road and road system"
+    },
+    "turtle": {
+      "x": 0.1165684312582016,
+      "y": 0.3519917130470276,
+      "category": "animal or animal part"
+    },
+    "tv antenna": {
+      "x": 0.36746639013290405,
+      "y": 0.9313440918922424,
+      "category": "(not found)"
+    },
+    "twins": {
+      "x": 0.3703575134277344,
+      "y": 0.6918559670448303,
+      "category": "human beings"
+    },
+    "ufo": {
+      "x": 0.15816892683506012,
+      "y": 0.5988599061965942,
+      "category": "(not found)"
+    },
+    "umbrella": {
+      "x": 0.17878438532352448,
+      "y": 0.7092980146408081,
+      "category": "weather and seasons"
+    },
+    "uptown": {
+      "x": 0.4247085154056549,
+      "y": 0.6142138242721558,
+      "category": "street and street systems"
+    },
+    "utensils": {
+      "x": 0.7782256603240967,
+      "y": 0.5743534564971924,
+      "category": "household items (excluding furniture)"
+    },
+    "valve": {
+      "x": 0.5013574957847595,
+      "y": 0.5012728571891785,
+      "category": "(not found)"
+    },
+    "vampire": {
+      "x": 0.09926578402519226,
+      "y": 0.45219844579696655,
+      "category": "insect"
+    },
+    "vampire teeth": {
+      "x": 0.13729225099086761,
+      "y": 0.4563036561012268,
+      "category": "(not found)"
+    },
+    "van": {
+      "x": 0.4724314212799072,
+      "y": 0.693296492099762,
+      "category": "surface transportation"
+    },
+    "vase": {
+      "x": 0.5448896288871765,
+      "y": 0.23978069424629211,
+      "category": "household items (excluding furniture)"
+    },
+    "victory banner": {
+      "x": 0.48356691002845764,
+      "y": 0.8780593276023865,
+      "category": "(not found)"
+    },
+    "violin": {
+      "x": 0.9381492733955383,
+      "y": 0.7586948871612549,
+      "category": "music"
+    },
+    "volcano": {
+      "x": 0.4158270061016083,
+      "y": 0.42512086033821106,
+      "category": "geography"
+    },
+    "volleyball": {
+      "x": 0.8066018223762512,
+      "y": 0.273538738489151,
+      "category": "balls"
+    },
+    "volleyball net": {
+      "x": 0.8090381026268005,
+      "y": 0.27013757824897766,
+      "category": "(not found)"
+    },
+    "wagon": {
+      "x": 0.4914979338645935,
+      "y": 0.6300311088562012,
+      "category": "surface transportation"
+    },
+    "wall street": {
+      "x": 0.47684532403945923,
+      "y": 0.6384159922599792,
+      "category": "street and street systems"
+    },
+    "walls": {
+      "x": 0.5837517380714417,
+      "y": 0.7142431735992432,
+      "category": "building part"
+    },
+    "washboard": {
+      "x": 0.7084988951683044,
+      "y": 0.6048362255096436,
+      "category": "household items (excluding furniture)"
+    },
+    "washing machine": {
+      "x": 0.7102000713348389,
+      "y": 0.5772581696510315,
+      "category": "machine"
+    },
+    "waste basket": {
+      "x": 0.7054552435874939,
+      "y": 0.6495882272720337,
+      "category": "household items (excluding furniture)"
+    },
+    "water": {
+      "x": 0.3337129056453705,
+      "y": 0.39574500918388367,
+      "category": "drink"
+    },
+    "water hose": {
+      "x": 0.6153995990753174,
+      "y": 0.5561202168464661,
+      "category": "building attachments and accessories"
+    },
+    "waterfall": {
+      "x": 0.44729557633399963,
+      "y": 0.4184527099132538,
+      "category": "geography"
+    },
+    "waves": {
+      "x": 0.3717745840549469,
+      "y": 0.8479530215263367,
+      "category": "geography"
+    },
+    "webcam": {
+      "x": 0.33520135283470154,
+      "y": 0.8766332268714905,
+      "category": "(not found)"
+    },
+    "well": {
+      "x": 0.47090280055999756,
+      "y": 0.6622930765151978,
+      "category": "building attachments and accessories"
+    },
+    "whale": {
+      "x": 0.19042541086673737,
+      "y": 0.31791824102401733,
+      "category": "fish and sea animals"
+    },
+    "wheel": {
+      "x": 0.6506724953651428,
+      "y": 0.5055686831474304,
+      "category": "automobile accessories"
+    },
+    "whistle": {
+      "x": 0.9049083590507507,
+      "y": 0.7815911769866943,
+      "category": "music"
+    },
+    "white house": {
+      "x": 0.3403538465499878,
+      "y": 0.5304129719734192,
+      "category": "building"
+    },
+    "windmill": {
+      "x": 0.5123995542526245,
+      "y": 0.6373968720436096,
+      "category": "building attachments and accessories"
+    },
+    "window": {
+      "x": 0.5830543041229248,
+      "y": 0.7432070374488831,
+      "category": "windows"
+    },
+    "wishing well": {
+      "x": 0.4437568783760071,
+      "y": 0.6478981971740723,
+      "category": "(not found)"
+    },
+    "witch": {
+      "x": 0.08425966650247574,
+      "y": 0.4516366422176361,
+      "category": "supernatural creatures"
+    },
+    "witch hat": {
+      "x": 0.10341760516166687,
+      "y": 0.49479320645332336,
+      "category": "(not found)"
+    },
+    "woman": {
+      "x": 0.08629778772592545,
+      "y": 0.5654801726341248,
+      "category": "human beings"
+    },
+    "woodpecker": {
+      "x": 0.1276923269033432,
+      "y": 0.2771371603012085,
+      "category": "bird or fowl"
+    },
+    "worm": {
+      "x": 0.11561189591884613,
+      "y": 0.3548011779785156,
+      "category": "insect"
+    },
+    "wreath": {
+      "x": 0.9148221015930176,
+      "y": 0.4751126170158386,
+      "category": "design or decoration"
+    },
+    "yin yang": {
+      "x": 0.12060286104679108,
+      "y": 0.5183337926864624,
+      "category": "(not found)"
+    },
+    "yo-yo": {
+      "x": 0.7549953460693359,
+      "y": 0.4131131172180176,
+      "category": "toy"
+    },
+    "zipline": {
+      "x": 0.7647519707679749,
+      "y": 0.42980703711509705,
+      "category": "(not found)"
+    },
+    "zipper": {
+      "x": 0.7979359030723572,
+      "y": 0.491239070892334,
+      "category": "(not found)"
+    }
+  },
+  "categories": {
+    "numerals": {
+      "x": 0.45287488400936127,
+      "y": 0.7457161545753479
+    },
+    "balloon": {
+      "x": 0.5491597950458527,
+      "y": 0.34581929445266724
+    },
+    "clocks and other devices for measuring time": {
+      "x": 0.6046352982521057,
+      "y": 0.8437302112579346
+    },
+    "shelter (not buildings)": {
+      "x": 0.4053483307361603,
+      "y": 0.4805116653442383
+    },
+    "drink": {
+      "x": 0.44866254925727844,
+      "y": 0.2090265303850174
+    },
+    "kite": {
+      "x": 0.6270125508308411,
+      "y": 0.37537190318107605
+    },
+    "fruit": {
+      "x": 0.3763476759195328,
+      "y": 0.16029142588377
+    },
+    "fish and sea animals": {
+      "x": 0.4403820037841797,
+      "y": 0.27473410964012146
+    },
+    "geography": {
+      "x": 0.443123921751976,
+      "y": 0.42205701768398285
+    },
+    "(not found)": {
+      "x": 0.564620167016983,
+      "y": 0.5611358880996704
+    },
+    "geometric shape": {
+      "x": 0.42298293113708496,
+      "y": 0.8269608020782471
+    },
+    "art and art materials": {
+      "x": 0.717242419719696,
+      "y": 0.709967851638794
+    },
+    "building materials or equipment": {
+      "x": 0.4586801826953888,
+      "y": 0.5241326242685318
+    },
+    "building attachments and accessories": {
+      "x": 0.5410900115966797,
+      "y": 0.6230860948562622
+    },
+    "campfire": {
+      "x": 0.3186906576156616,
+      "y": 0.4818441867828369
+    },
+    "weapons or traps (not air weapons)": {
+      "x": 0.492914080619812,
+      "y": 0.500837504863739
+    },
+    "other plant (not tree not flower)": {
+      "x": 0.32031212747097015,
+      "y": 0.2199777588248253
+    },
+    "tree": {
+      "x": 0.2493899017572403,
+      "y": 0.1985033079981804
+    },
+    "toy": {
+      "x": 0.46558302640914917,
+      "y": 0.4872337281703949
+    },
+    "money": {
+      "x": 0.46672123670578003,
+      "y": 0.7366690635681152
+    },
+    "royalty": {
+      "x": 0.15370118618011475,
+      "y": 0.5484578609466553
+    },
+    "alphabet": {
+      "x": 0.5438048839569092,
+      "y": 0.9361054301261902
+    },
+    "sky bodies": {
+      "x": 0.18990783393383026,
+      "y": 0.7231783866882324
+    },
+    "tobacco": {
+      "x": 0.5040695667266846,
+      "y": 0.303524911403656
+    },
+    "accessories": {
+      "x": 0.545858159661293,
+      "y": 0.6382258832454681
+    },
+    "frame": {
+      "x": 0.5984940528869629,
+      "y": 0.8652435541152954
+    },
+    "abstract art design": {
+      "x": 0.4787350296974182,
+      "y": 0.824455738067627
+    },
+    "sports (not ball)": {
+      "x": 0.7261311411857605,
+      "y": 0.3275166302919388
+    },
+    "animal or animal part": {
+      "x": 0.16619250178337097,
+      "y": 0.3663204163312912
+    },
+    "space": {
+      "x": 0.36901571601629257,
+      "y": 0.49136583507061005
+    },
+    "symbols and signs": {
+      "x": 0.48995736241340637,
+      "y": 0.8593961596488953
+    },
+    "automobile accessories": {
+      "x": 0.6507720351219177,
+      "y": 0.5206748843193054
+    },
+    "body or body part": {
+      "x": 0.32523056864738464,
+      "y": 0.6547252535820007
+    },
+    "air weapon": {
+      "x": 0.34584440290927887,
+      "y": 0.5934220552444458
+    },
+    "pole and lines": {
+      "x": 0.7325743436813354,
+      "y": 0.6434174478054047
+    },
+    "supernatural creatures": {
+      "x": 0.09867172315716743,
+      "y": 0.4621933102607727
+    },
+    "medicine": {
+      "x": 0.30782192945480347,
+      "y": 0.6011143922805786
+    },
+    "sound and sound systems": {
+      "x": 0.39028777182102203,
+      "y": 0.9247992038726807
+    },
+    "science": {
+      "x": 0.3195628225803375,
+      "y": 0.7782316207885742
+    },
+    "cloud": {
+      "x": 0.20422597229480743,
+      "y": 0.7146496176719666
+    },
+    "food": {
+      "x": 0.41417044401168823,
+      "y": 0.10640466958284378
+    },
+    "globe": {
+      "x": 0.2717914283275604,
+      "y": 0.7764871120452881
+    },
+    "weather and seasons": {
+      "x": 0.24001950025558472,
+      "y": 0.6684839129447937
+    },
+    "linen": {
+      "x": 0.7472225427627563,
+      "y": 0.6121389865875244
+    },
+    "machine": {
+      "x": 0.6541022956371307,
+      "y": 0.6925860643386841
+    },
+    "bird or fowl": {
+      "x": 0.1705039218068123,
+      "y": 0.2869158983230591
+    },
+    "light": {
+      "x": 0.1847607046365738,
+      "y": 0.8696149587631226
+    },
+    "prison": {
+      "x": 0.5705096423625946,
+      "y": 0.5102901458740234
+    },
+    "container": {
+      "x": 0.5350808501243591,
+      "y": 0.4672028124332428
+    },
+    "balls": {
+      "x": 0.8063668012619019,
+      "y": 0.2821597754955292
+    },
+    "water travel": {
+      "x": 0.5831278264522552,
+      "y": 0.3808225989341736
+    },
+    "windows": {
+      "x": 0.6631725132465363,
+      "y": 0.6868287920951843
+    },
+    "cross": {
+      "x": 0.45323631167411804,
+      "y": 0.7931604385375977
+    },
+    "building part": {
+      "x": 0.5837517380714417,
+      "y": 0.6780230402946472
+    },
+    "human beings": {
+      "x": 0.1979248821735382,
+      "y": 0.5452330410480499
+    },
+    "household items (excluding furniture)": {
+      "x": 0.5734636187553406,
+      "y": 0.5739343464374542
+    },
+    "furniture": {
+      "x": 0.6279224455356598,
+      "y": 0.7102948725223541
+    },
+    "games": {
+      "x": 0.6185624301433563,
+      "y": 0.6975681185722351
+    },
+    "road and road system": {
+      "x": 0.5467094779014587,
+      "y": 0.5972240567207336
+    },
+    "recreation and entertainment": {
+      "x": 0.6372016072273254,
+      "y": 0.46045324206352234
+    },
+    "package": {
+      "x": 0.4889548271894455,
+      "y": 0.7281240522861481
+    },
+    "tool": {
+      "x": 0.7072845101356506,
+      "y": 0.5531115829944611
+    },
+    "design or decoration": {
+      "x": 0.8608810305595398,
+      "y": 0.47412243485450745
+    },
+    "apparel": {
+      "x": 0.8179840445518494,
+      "y": 0.5377590656280518
+    },
+    "flower": {
+      "x": 0.3259793221950531,
+      "y": 0.27120400965213776
+    },
+    "street and street systems": {
+      "x": 0.5141269266605377,
+      "y": 0.6254057586193085
+    },
+    "surface transportation": {
+      "x": 0.5898814797401428,
+      "y": 0.5388851165771484
+    },
+    "insect": {
+      "x": 0.06963598355650902,
+      "y": 0.350159615278244
+    },
+    "leather goods": {
+      "x": 0.7596563100814819,
+      "y": 0.798833966255188
+    },
+    "school and office supplies": {
+      "x": 0.7535350918769836,
+      "y": 0.6735376715660095
+    },
+    "music": {
+      "x": 0.9267367422580719,
+      "y": 0.7609744369983673
+    },
+    "air travel": {
+      "x": 0.3777518719434738,
+      "y": 0.5723038911819458
+    },
+    "school": {
+      "x": 0.6037275791168213,
+      "y": 0.8434723913669586
+    },
+    "book": {
+      "x": 0.7159805297851562,
+      "y": 0.8372617363929749
+    },
+    "building": {
+      "x": 0.3733702003955841,
+      "y": 0.5429187417030334
+    }
+  }
+}

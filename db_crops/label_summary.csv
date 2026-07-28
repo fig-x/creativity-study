@@ -1,0 +1,175 @@
+label,category,Circle,Line
+"8 ball","(not found)",T,F
+"alarm clock","clocks and other devices for measuring time",T,F
+"apple","fruit",T,F
+"balloon","balloon",T,F
+"basketball","balls",T,F
+"battery","(not found)",F,T
+"bear","animal or animal part",T,F
+"bee","insect",T,F
+"bell","music",T,F
+"bird","bird or fowl",T,F
+"blackhole","",T,F
+"bomb","weapons or traps (not air weapons)",T,F
+"book","book",F,T
+"bookend","(not found)",F,T
+"bowling ball","(not found)",T,F
+"bridge","road and road system",F,T
+"bubble","(not found)",T,F
+"button","apparel",T,F
+"cake","food",T,F
+"camera lens","machine",T,F
+"can","",F,T
+"candy","food",T,F
+"cannonball","air weapon",T,F
+"canyon","(not found)",F,T
+"cat","animal or animal part",T,F
+"cheese","food",T,F
+"chessboard","",F,T
+"chocolate","(not found)",T,F
+"chopsticks","(not found)",F,T
+"climbing","(not found)",F,T
+"clock","clocks and other devices for measuring time",T,F
+"clothesline","pole and lines",F,T
+"coil","",T,F
+"coin","money",T,F
+"comet","sky bodies",T,F
+"compass","compass",T,F
+"cookie","food",T,F
+"cricket wicket","(not found)",F,T
+"crown","accessories",T,F
+"crystal ball","crystal ball",T,F
+"cup","container",T,T
+"curtains","windows",F,T
+"dia","animal or animal part",T,F
+"diving helmet","(not found)",T,F
+"dna","(not found)",F,T
+"donut","food",T,F
+"door","building part",F,T
+"door handle","(not found)",F,T
+"dreamcatcher","(not found)",T,F
+"drum","music",T,F
+"earth","sky bodies",T,F
+"elevator","building attachments and accessories",F,T
+"eye","body or body part",T,F
+"eyeball","body or body part",T,F
+"face","body or body part",T,F
+"fence","building attachments and accessories",F,T
+"ferris wheel","recreation and entertainment",T,F
+"fish","fish and sea animals",T,F
+"flower","flower",T,F
+"flowerpot","",F,T
+"football","balls",T,F
+"fried egg","food",T,F
+"fruit slice","fruit",T,F
+"frying pan","household items (excluding furniture)",T,F
+"gate","building attachments and accessories",F,T
+"gear","(not found)",T,F
+"glasses","accessories",T,F
+"globe","globe",T,F
+"goal post","sports (not ball)",F,T
+"hammock","(not found)",F,T
+"hanging lights","(not found)",T,F
+"hanging sign","(not found)",T,T
+"hot air balloon","(not found)",T,F
+"hourglass","clocks and other devices for measuring time",F,T
+"house","",F,T
+"hula hoop","(not found)",T,F
+"hurdle","(not found)",F,T
+"indecipherable","",T,F
+"jail","prison",F,T
+"jar","container",F,T
+"ladder","household items (excluding furniture)",F,T
+"ladybug","insect",T,F
+"letters of the alphabet","alphabet",F,T
+"life preserver","life preserver",T,F
+"light bulb","light",T,F
+"lily pad","(not found)",T,F
+"lollipop","food",T,F
+"magnet","science",F,T
+"magnifying glass","science",T,F
+"man","human beings",T,F
+"manhole cover","(not found)",T,F
+"martini glass","(not found)",F,T
+"medal","(not found)",T,F
+"mickey","(not found)",T,F
+"mirror","(not found)",T,F
+"monster","supernatural creatures",T,F
+"moon","sky bodies",T,F
+"mouse","animal or animal part",T,F
+"mouth","",T,F
+"nest","(not found)",T,F
+"notebook","school and office supplies",F,T
+"notepad","",F,T
+"orange","fruit",T,F
+"ornament","(not found)",T,F
+"other animal face","animal or animal part",T,F
+"outlet","(not found)",F,T
+"pants","apparel",F,T
+"parallel bars","(not found)",F,T
+"peace sign","",T,F
+"pearl","design or decoration",T,F
+"peekaboo","(not found)",F,T
+"pencil sharpener","school and office supplies",F,T
+"pendant","(not found)",T,F
+"person","human beings",T,F
+"petri dish","",T,F
+"picture frame","frame",F,T
+"ping pong","(not found)",T,F
+"pirate eye patch","(not found)",T,F
+"pizza","food",T,F
+"planet","sky bodies",T,F
+"plate","",T,F
+"pocket watch","(not found)",T,F
+"porthole","water travel",T,F
+"rabbit ears","(not found)",F,T
+"rainbow","weather and seasons",T,F
+"record","(not found)",T,F
+"ring","(not found)",T,F
+"road","road and road system",F,T
+"rocket","",F,T
+"rugby ball","(not found)",T,F
+"sailboat","water travel",T,F
+"sandwich","food",F,T
+"satellite","(not found)",T,F
+"school bell","(not found)",T,F
+"scroll","(not found)",F,T
+"sea mine","(not found)",T,F
+"ship wheel","(not found)",T,F
+"skis","(not found)",F,T
+"slide","recreation and entertainment",F,T
+"slinky","",T,F
+"smiley face","body or body part",T,F
+"snail","animal or animal part",T,F
+"snow ball","(not found)",T,F
+"snow globe","(not found)",T,F
+"snowman","balls",T,F
+"speech bubble","(not found)",T,F
+"steering wheel","(not found)",T,F
+"stethoscope","(not found)",T,F
+"submarine","water travel",T,F
+"sun","sky bodies",T,F
+"swing","recreation and entertainment",F,T
+"tambourine","(not found)",T,F
+"target","target",T,F
+"teapot","household items (excluding furniture)",T,F
+"tennis ball","balls",T,F
+"thumbtack","",T,F
+"tightrope walker","(not found)",F,T
+"tire","automobile accessories",T,F
+"tire swing","(not found)",T,F
+"toilet seat","(not found)",T,F
+"towel rack","(not found)",F,T
+"tuning fork","sound and sound systems",F,T
+"turtle","animal or animal part",T,F
+"ufo","(not found)",T,F
+"undecipherable","",F,T
+"vase","household items (excluding furniture)",F,T
+"volleyball","balls",T,F
+"volleyball/basketball","(not found)",T,F
+"washing machine","machine",T,F
+"watering can","",F,T
+"wheel","automobile accessories",T,F
+"window","windows",T,T
+"wreath","design or decoration",T,F
+"yin yang","",T,F

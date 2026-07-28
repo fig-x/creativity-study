@@ -1,0 +1,361 @@
+filename,openai,tesseract,easyocr,verified,label
+10_01.png,Ladder to Nowhere,Ladder to Nowhere,Nowhere Ladder to,Ladder to Nowhere,ladder
+10_02.png,Stage Curtains,Ul) ~ US Stage Curtains,UJ Stage Curtains,Stage Curtains,curtains
+10_03.png,Closed Door,Closed Door,Closed Door,Closed Door,door
+10_04.png,Playground Swing,wilh) Vile Playground Swing,Swing Playground,Playground Swing,swing
+10_05.png,Canyon Path,\\ lees tl Canyon Path,| M Canyon Path,Canyon Path,canyon
+10_06.png,Open Book,a a 2 Open Book,Book Open,Open Book,open book
+10_07.png,Goal Posts,oo Goal Posts,Goal Posts,Goal Posts,goalposts
+10_08.png,Clothesline,Clothesline,Clothesline,Clothesline,clothesline
+10_09.png,Hanging Sign,pre 0 Pe 7 Hanging Sign,Hanging Sign,Hanging Sign,hanging sign
+10_10.png,Elevator Doors,| | | | | Elevator Doors,Doors Elevator,Elevator Doors,elevator
+10_11.png,Picture Frame,Co) Picture Frame,Picture Frame,Picture Frame,picture frame
+10_12.png,Puppet Theater,US LU Puppet Theater,Puppet Theater,Puppet Theater,curtains
+10_13.png,Towel Rack,Ib a IL Towel Rack,Towel Rack,Towel Rack,towel rack
+10_14.png,Chipmunk,NN Chipmunk,Chipmunk,Chipmunk,chipmunk
+10_15.png,Skis,~ell ple Skis,Skis,Skis,skis
+10_16.png,Sliding Doors,l J | a | Sliding Doors,Sliding Doors,Sliding Doors,doors
+10_17.png,Window,Window,U Window,Window,curtains
+10_18.png,Jail Bars,U U UF U Jail Bars,Bars Jail,Jail Bars,jail
+10_19.png,Castle Towers,Castle Towers,Castle Towers,Castle Towers,castle
+10_20.png,Electrical Plug,// Electrical Plug,Plug Electrical,Electrical Plug,plug
+10_21.png,Chopsticks,UU Chopsticks,Chopsticks,Chopsticks,chopsticks
+10_22.png,Robot,fo = Robot,Robot,Robot,robot
+10_23.png,Road,// ' | \,Road,Road,road
+10_24.png,Tree Trunk,"wlio lV, Tree Trunk",~I / Trunk Tree,Tree Trunk,tree trunk
+10_25.png,Parallel Bars,—iL 4 Parallel Bars,Parallel Bars,Parallel Bars,parallel bars
+10_26.png,Tunnel Entrance,Tunnel Entrance,4 Entrance Tunnel,Tunnel Entrance,tunnel
+10_27.png,Harbor Pilings,mae Neer Harbor Pilings,Pilings Harbor,Harbor Pilings,harbor pilings
+10_28.png,Books on Shelf,CO Books on Shelf,Shelf Books on,Books on Shelf,bookend
+10_29.png,Drinking Glass,na. —2 Drinking Glass,Drinking Glass,Drinking Glass,drinking glass
+10_30.png,Campfire,i ee Campfire,Campfire,Campfire,campfire
+10_31.png,Bunny Ears,ae Bunny Ears,Bunny Ears,Bunny Ears,rabbit ears
+10_32.png,Doorway with Light,ZL 1 \SN Doorway with Light,Doorway with Light,Doorway with Light,door
+10_33.png,Butterfly,Butterfly,Butterfly,Butterfly,butterfly
+10_34.png,Maze,| — | 4} 5 od | Maze,Maze,Maze,maze
+10_35.png,Index Tabs,Index Tabs,Index Tabs,Index Tabs,notebook
+10_36.png,Hammock,Hammock,Hammock,Hammock,hammock
+1_01.png,Open Door,Open Door,Open Door,Open Door,door
+1_02.png,Ladder,Ladder,Ladder,Ladder,ladder
+1_03.png,Swing,Swing,Swing,Swing,swing
+1_04.png,Goal Posts,Goal Posts,Goal Posts,Goal Posts,goalposts
+1_05.png,Sliders,Sliders,Sliders,Sliders,doors
+1_06.png,Parallel Bars,Parallel Bars,Parallel Bars,Parallel Bars,parallel bars
+1_07.png,Hanging Clothes,Hanging Clothes,Hanging Clothes,Hanging Clothes,clothesline
+1_08.png,Window,—_ — Window,Window,Window,curtains
+1_09.png,Elevator,TLL Elevator,Elevator,Elevator,elevator
+1_10.png,Chopsticks,Chopsticks,Chopsticks,Chopsticks,chopsticks
+1_11.png,Bookends,tote vv Bookends,Bookends,Bookends,bookend
+1_12.png,Door Handle,Door Handle,Handle Door,Door Handle,door handle
+1_13.png,Bridge,Bridge,Bridge,Bridge,bridge
+1_14.png,Towel Rack,Towel Rack,Rack Towel,Towel Rack,towel rack
+1_15.png,Picture Frame,t | Picture Frame,Frame Picture,Picture Frame,picture frame
+1_16.png,Hurdle,Hurdle,Hurdle,Hurdle,hurdle
+1_17.png,Gate,WwIJIW_ILWLILO§ Gote,Gate,Gate,gate
+1_18.png,Vase,\ / 4 Vase,Vase,Vase,vase
+1_19.png,Rock Climbing,Rock Climbing,Climbing Rock,Rock Climbing,climbing
+1_20.png,Cage,Cage,Cage,Cage,jail
+1_21.png,Martini Glass,J —— i Martini Glass,Glass Martini,Martini Glass,martini glass
+1_22.png,Curtains,| enamel “i Curtains,Curtains,Curtains,curtains
+1_23.png,The Letter H,The Letter H,The Letter H,The Letter H,letter h
+1_24.png,Tuning Fork,Tuning Fork,Tuning Fork,Tuning Fork,tuning fork
+1_25.png,Skis,TOY UIT Skis,ti U Uit Skis,Skis,skis
+1_26.png,Slide,Slide,Slide,Slide,slide
+1_27.png,DNA Strand,t C DNA Strand,DNA Strand,DNA Strand,dna
+1_28.png,Pencil Sharpener,Pencil Sharpener,Sharpener Pencil,Pencil Sharpener,pencil sharpener
+1_29.png,Rabbit Ears,Foy tT Rabbit Ears,Ears Rabbit,Rabbit Ears,rabbit ears
+1_30.png,Scroll,oO oO Scroll,Scroll,Scroll,scroll
+1_31.png,Magnet,Magnet,Magnet,Magnet,magnet
+1_32.png,Road,Road,Road,Road,road
+1_33.png,Battery,Battery,Battery,Battery,battery
+1_34.png,Ice Cream Sandwich,Ice Cream Sandwich,Sandwich Ice Cream,Ice Cream Sandwich,sandwich
+1_35.png,Cricket Wicket,t U 4 Cricket Wicket,U| Cricket Wicket,Cricket Wicket,cricket wicket
+1_36.png,Hourglass,Hourglass,Hourglass,Hourglass,hourglass
+2_01.png,HAMMOCK,HAMMOCK,HAMMocK,HAMMOCK,hammock
+2_02.png,OPEN BOOK,OPEN BOOK,Book Open,OPEN BOOK,book
+2_03.png,LADDER,LADDER,LADDER,LADDER,ladder
+2_04.png,SWING,SWING,Swing,SWING,swing
+2_05.png,GOALPOSTS,GOALPOSTS,GOALPosTS,GOALPOSTS,goalposts
+2_06.png,TIGHTROPE WALKER,| TIGHTROPE WALKER,WALKER,TIGHTROPE WALKER,tightrope walker
+2_07.png,PANTS,PANTS,PANTS,PANTS,pants
+2_08.png,OUTLET,OUTLET,-,OUTLET,outlet
+2_09.png,ELEVATOR,LH—1__ ELEVATOR,ELEVATOR,ELEVATOR,elevator
+2_10.png,JAR,=” JAR,JAR,JAR,jar
+2_11.png,PEEKABOO,PEEKABOO,PEEKABoO,PEEKABOO,peekaboo
+2_12.png,BRIDGE,BRIDGE,-,BRIDGE,bridge
+2_13.png,BED,BED,BED,BED,bed
+2_14.png,CURTAINS,| oan id CURTAINS,-,CURTAINS,curtains
+2_15.png,RAILROAD TRACKS,OE M RAILROAD TRACKS,RAILROAD TRAcKS,RAILROAD TRACKS,train tracks
+2_16.png,WEIGHTLIFTING,WEIGHTLIFTING,WeightliFTinG,WEIGHTLIFTING,barbell
+2_17.png,GHOST,GHOST,Ghost,GHOST,ghost
+2_18.png,TOWEL,TOWEL,ToWEL,TOWEL,towel rack
+2_19.png,PAUSE BUTTON,PAUSE BUTTON,PAUSE Button,PAUSE BUTTON,pause
+2_20.png,HOSPITAL SIGN,HOSPITAL SIGN,Sign,HOSPITAL SIGN,letter h
+2_21.png,LIGHT SWITCH,LIGHT SWITCH,Light Switch,LIGHT SWITCH,light switch
+2_22.png,TABLE,TABLE,TABLE,TABLE,table
+2_23.png,MAGNET,MAGNET,MAGNET,MAGNET,magnet
+2_24.png,PRESENT,PRESENT,-,PRESENT,gift
+2_25.png,MUSIC NOTES,MUSIC NOTES,Music NOTES,MUSIC NOTES,music notes
+2_26.png,CHOPSTICKS,CHOPSTICKS,Chopsticks,CHOPSTICKS,chopsticks
+2_27.png,CACTUS,CACTUS,-,CACTUS,cactus
+2_28.png,MONKEY BARS,MONKEY BARS,BARS Monkey,MONKEY BARS,parallel bars
+2_29.png,DIAMOND,DIAMOND,DIAMOND,DIAMOND,diamond
+2_30.png,NOTEBOOK,__—_ | NOTEBOOK,Notebook,NOTEBOOK,notebook
+2_31.png,DOOR,DOOR,DOOR,DOOR,door
+2_32.png,TENT,TENT,-,TENT,tent
+2_33.png,CANDLE,1 | as CANDLE,CANDLE,CANDLE,candle
+2_34.png,SALoon DOORS,SALOON DOORS,SALOON DooRS,SALoon DOORS,saloon doors
+2_35.png,NOODLE BOWL,"i —, iJ NOODLE BOWL",NOoDLE Bowl,NOODLE BOWL,chopsticks
+2_36.png,ROBOT,ROBOT,Robot,ROBOT,robot
+3_01.png,Ladder,Ladder,Ladder,Ladder,ladder
+3_02.png,Goalposts,Goalposts,Goalposts,Goalposts,goalposts
+3_03.png,Door,Door,Door,Door,door
+3_04.png,Swing,Swing,Swing,Swing,swing
+3_05.png,Canyon,' aA ¢ ' Canyon,Canyon,Canyon,canyon
+3_06.png,Barbell,Barbell,Barbell,Barbell,barbell
+3_07.png,Letter H,Letter H,Letter H,Letter H,letter h
+3_08.png,Pause Button,Pouse Button,Pause Button,Pause Button,pause
+3_09.png,Open Book,Open Book,Open Book,Open Book,open book
+3_10.png,Fishing Pier,Fishing Pier,Fishing Pier,Fishing Pier,fishing
+3_11.png,Hanging Clothes,Hanging Clothes,Hanging Clothes,Hanging Clothes,clothesline
+3_12.png,Tunnel,Tunnel,Tunnel,Tunnel,tunnel
+3_13.png,Slide,Slide,Slide,Slide,slide
+3_14.png,Curtains,oe ee | oo | Curtains,Curtains,Curtains,curtains
+3_15.png,Elevator,t | | Elevator,Elevator,Elevator,elevator
+3_16.png,Elephant,Elephant,Elephant,Elephant,elephant
+3_17.png,Bridge,Bridge,Bridge,Bridge,bridge
+3_18.png,Vase,1S | Vase,Vase,Vase,vase
+3_19.png,Chopsticks,Chopsticks,Chopsticks,Chopsticks,chopsticks
+3_20.png,Slide Door,Slide Door,Slide Door,Slide Door,door
+3_21.png,Frankenstein,LL Frankenstein,Frankenstein,Frankenstein,frankenstein
+3_22.png,Guitar,AES TS Guitar,Guitar,Guitar,guitar
+3_23.png,Train Tracks,Train Tracks,Train Tracks,Train Tracks,train tracks
+3_24.png,Ski Poles,TT Tw Ski Poles,Poles Ski,Ski Poles,skis
+3_25.png,Drum,' ' Drum,Drum,Drum,drum
+3_26.png,Tooth,NY X44 Tooth,Tooth,Tooth,tooth
+3_27.png,Flower Pot,| | Flower Pot,Flower Pot,Flower Pot,flower pot
+3_28.png,Prison Bars,| J | | Prison Bars,Prison Bars,Prison Bars,jail
+3_29.png,Race Finish,| 1 U Race Finish,u Race Finish,Race Finish,finish line
+3_30.png,Apple Core,Apple Core,Apple Core,Apple Core,apple core
+3_31.png,Milk Carton,NJ Milk Carton,Milk Carton,Milk Carton,milk carton
+3_32.png,Battery,B attery,Battery,Battery,battery
+3_33.png,Robot,“cL Robot,Robot,Robot,robot
+3_34.png,Scroll,oS Scroll,Scroll,Scroll,scroll
+3_35.png,Hurdles,Hurdles,Hurdles,Hurdles,hurdle
+3_36.png,Snail,Snail,Snail,Snail,snail
+4_01.png,ladder,ladder,ladder,ladder,ladder
+4_02.png,window,ee ' ow) window,window,window,curtains
+4_03.png,double door,—t tt double door,double door,double door,doors
+4_04.png,swing,awh f oOo. swing,swing,swing,swing
+4_05.png,tightrope,an | | tightrope,tightrope,tightrope,tightrope
+4_06.png,hot toast,ie FE hot toast,hot toast,hot toast,hot toast
+4_07.png,open book,open book,book open,open book,open book
+4_08.png,elevator,Ce § elevator,elevator,elevator,elevator
+4_09.png,bridge,bridge,bridge,bridge,bridge
+4_10.png,zipper,zipper,zipper,zipper,zipper
+4_11.png,battery,gs 4} gs = battery,battery,battery,battery
+4_12.png,pause,pause,Pause,pause,pause
+4_13.png,jail,jail,jail,jail,jail
+4_14.png,skis,eNO skis,skis,skis,skis
+4_15.png,goalposts,goalposts,goalposts,goalposts,goalposts
+4_16.png,chopsticks,chopsticks,chopsticks,chopsticks,chopsticks
+4_17.png,light switch,light switch,light switch,light switch,light switch
+4_18.png,gift,gift .,gif+,gift,gift
+4_19.png,road,fr ti tN road,road,road,road
+4_20.png,waterfall,Ses A IKD waterfall,Waterfall,waterfall,waterfall
+4_21.png,stage,Cd stage,stage,stage,curtains
+4_22.png,towel rack,| PELE towel rack,towel rack,towel rack,towel rack
+4_23.png,measuring cup,——E 4 measuring cup,measuring cup,measuring cup,cup
+4_24.png,hospital,hospital,hospital,hospital,hospital
+4_25.png,magnet,2 ee magnet,magnet,magnet,magnet
+4_26.png,train tracks,rf VW train tracks,train tracks,train tracks,train tracks
+4_27.png,pants,pants,Pants,pants,pants
+4_28.png,slide,ee SS eed slide,slide,slide,slide
+4_29.png,harp,ou _4 bd harp,harp,harp,harp
+4_30.png,helipad,helipad,helipad,helipad,helipad
+4_31.png,table,u F * WU table,table,table,table
+4_32.png,rocket,ee rocket,rocket,rocket,rocket
+4_33.png,hourglass,cE hourglass,hourglass,hourglass,hourglass
+4_34.png,binoculars,binoculars,binoculars,binoculars,binoculars
+4_35.png,parking space,parking Space,parking Space,parking space,road
+4_36.png,cassette tape,cassette tape,cassette tape,cassette tape,cassette tape
+5_01.png,Ladder,Ladder,Ladder,Ladder,ladder
+5_02.png,Swing,Swing,Swing,Swing,swing
+5_03.png,Doorway,Doorway,Doorway,Doorway,door
+5_04.png,Goalposts,Goalposts,Goalposts,Goalposts,goalposts
+5_05.png,Hanging Sign,Hanging Sign,Sign Hanging,Hanging Sign,hanging sign
+5_06.png,Curtains,Unt CUA Curtains,Curtains,Curtains,curtains
+5_07.png,Telescope,roy i Telescope,Telescope,Telescope,telescope
+5_08.png,Parallel Bars,Parallel Bars,Parallel Bars,Parallel Bars,parallel bars
+5_09.png,Book,Book,Book,Book,open book
+5_10.png,Electric Gate,Electric Gate,Electric Gate,Electric Gate,gate
+5_11.png,Clothesline,Clothesline,Clothesline,Clothesline,clothesline
+5_12.png,"""Hurdle""",Hurdle,Hurdle,"""Hurdle""",hurdle
+5_13.png,Pause Button,a Pause Button,Pause Button,Pause Button,pause
+5_14.png,Castle Gate,oT i Castle Gate,Castle Gate,Castle Gate,castle
+5_15.png,Elevator,Elevator,Elevator,Elevator,elevator
+5_16.png,Picture Frame,"——, Picture Frame",Frame Picture,Picture Frame,picture frame
+5_17.png,Skis,an ip ae pe En 9 Skis,Skis,Skis,skis
+5_18.png,Vase,'\Y t Vase,)| Vase,Vase,vase
+5_19.png,Between,Between,Between,Between,between
+5_20.png,Traffic Lane,Traffic Lane,Traffic Lane,Traffic Lane,road
+5_21.png,Chopsticks,Chopsticks,Chopsticks,Chopsticks,chopsticks
+5_22.png,Tunnel,7 tt LN Tunnel,1 Tunnel,Tunnel,tunnel
+5_23.png,Battery,Battery,Battery,Battery,battery
+5_24.png,Slingshot,Slingshot,Slingshot,Slingshot,slingshot
+5_25.png,-,so.” *§ U,-,Letter U,letter h
+5_26.png,Vase with Fish,g 6 Vase with Fish,Vase with Fish,Vase with Fish,vase
+5_27.png,Magnet,Magnet,Magnet,Magnet,magnet
+5_28.png,Rabbit Ears,| | Rabbit Ears,Rabbit Ears,Rabbit Ears,rabbit face
+5_29.png,Candy Cane Poles,Candy Cane Poles,Candy Cane Poles,Candy Cane Poles,candy cane poles
+5_30.png,Slide,LE | \ Slide,Slide,Slide,slide
+5_31.png,Binoculars,s | Binoculars,Binoculars,Binoculars,binoculars
+5_32.png,Chimney with Smoke,uw ca Chimney with Smoke,Chimney with Smoke,Chimney with Smoke,chimney
+5_33.png,Door Handles,Door Handles,Door Handles,Door Handles,door handle
+5_34.png,Moustache Man,J | Moustache Man,Moustache Man,Moustache Man,face
+5_35.png,Road Boundaries,Road Boundaries,Road Boundaries,Road Boundaries,road
+5_36.png,Tuning Fork,Tuning Fork,Tuning Fork,Tuning Fork,tuning fork
+6_01.png,DOORWAY,DOORWAY,DOORWAY,DOORWAY,door
+6_02.png,LADDER,LADDER,LADDER,LADDER,ladder
+6_03.png,HAPPY FACE,HAPPY FACE,FACE HAPPY,HAPPY FACE,face
+6_04.png,FOOTBALL GOAL,FOOTBALL GOAL,FOOTBALL GOAL,FOOTBALL GOAL,goalposts
+6_05.png,SWING,v C SWING,Swing,SWING,swing
+6_06.png,CURTAINS,Lead ed CURTAINS,CURTAinS,CURTAINS,curtains
+6_07.png,BOOK,BOOK,Book,BOOK,book
+6_08.png,ELEVATOR,' NZ ' ELEVATOR,ELEVATOR,ELEVATOR,elevator
+6_09.png,CLOCK,CLOCK,CLOCK,CLOCK,clock
+6_10.png,TUNNEL,/——\ TUNNEL,TuNNEL,TUNNEL,tunnel
+6_11.png,FENCE GATE,FENCE GATE,FENCE GATE,FENCE GATE,gate
+6_12.png,BUTTERFLY,BUTTERFLY,BUTTERFLY,BUTTERFLY,butterfly
+6_13.png,PENCIL,PENCIL,PENCIL,PENCIL,pencil
+6_14.png,CHOPSTICKS,a a CHOPSTICKS,chopsticks,CHOPSTICKS,chopsticks
+6_15.png,HURDLE,HURDLE,HURDLE,HURDLE,hurdle
+6_16.png,CHEESE SLICER,CHEESE SLICER,CHEESE SLICER,CHEESE SLICER,cheese slicer
+6_17.png,PICNIC TABLE,PICNIC TABLE,Picnic TABLE,PICNIC TABLE,table
+6_18.png,TIRE SWING,TIRE SWING,Swing TiRE,TIRE SWING,tire swing
+6_19.png,BRIDGE,et et ti BRIDGE,BRIDGE,BRIDGE,bridge
+6_20.png,WISHING WELL,rrr WISHING WELL,wishing WELL,WISHING WELL,wishing well
+6_21.png,MUSIC PAUSE,MUSIC PAUSE,Music PAUSE,MUSIC PAUSE,pause
+6_22.png,BINOCULARS,BINOCULARS,-,BINOCULARS,binoculars
+6_23.png,SLIDING DOOR,SLIDING DOOR,SLiDiNG DOOR,SLIDING DOOR,doors
+6_24.png,CLOTHES HANGER,CLOTHES HANGER,CLOTHES HANGER,CLOTHES HANGER,clothesline
+6_25.png,RAILING,RAILING,RAILING,RAILING,railing
+6_26.png,ABACUS,ABACUS,ABAcUS,ABACUS,abacus
+6_27.png,PLANTED SEEDS,PLANTED SEEDS,SEEDS PLANTED,PLANTED SEEDS,planted seeds
+6_28.png,VAMPIRE TEETH,VAMPIRE TEETH,VAMPIRE TEETH,VAMPIRE TEETH,vampire teeth
+6_29.png,TELEPHONE BOOTH,TELEPHONE BOOTH,TELEPHONE,TELEPHONE BOOTH,telephone booth
+6_30.png,GIFT BOX,GIFT BOX,Box GIFT,GIFT BOX,gift
+6_31.png,MAGNET,“ —I '\. MAGNET,MAGNET,MAGNET,magnet
+6_32.png,SKI SLOPE,ZZ SKI SLOPE,Ski SLOPE,SKI SLOPE,ski slope
+6_33.png,BARBELL,BARBELL,BARBELL,BARBELL,barbell
+6_34.png,SUNRISE,SUNRISE,SUNRISE,SUNRISE,sunrise
+6_35.png,OPEN WINDOWS,OPEN WINDOWS,OPEN Windows,OPEN WINDOWS,window
+6_36.png,CASTLE GATE,' 4 t ' CASTLE GATE,CASTLE GATE,CASTLE GATE,castle
+7_01.png,Ladder to the Sky,Ladder to the Sky,Ladder to the Sky,Ladder to the Sky,ladder
+7_02.png,Swing Set,Swing Set,Swing Set,Swing Set,swing
+7_03.png,Football Goal,Football Goal,Football Goal,Football Goal,goalposts
+7_04.png,Twin Candles,at Twin Candles,Twin Candles,Twin Candles,candles
+7_05.png,Tightrope Walker,Tightrope Walker,Tightrope Walker,Tightrope Walker,tightrope walker
+7_06.png,Elevator,| | Elevator,Elevator,Elevator,elevator
+7_07.png,Weightlifting Bar,Weightlifting Bar,Weightlifting Bar,Weightlifting Bar,barbell
+7_08.png,Hammock,"MAT TANI, Hammock",Hammock,Hammock,hammock
+7_09.png,Guillotine,Guillotine,Guillotine,Guillotine,guillotine
+7_10.png,Ski Slopes Gate,Ski Slopes Gate,Slopes Ski Gate,Ski Slopes Gate,gate
+7_11.png,Garden Gate,Garden Gate,Garden Gate,Garden Gate,fence
+7_12.png,Stage Curtains,Stage Curtains,Stage Curtains,Stage Curtains,curtains
+7_13.png,Clothesline,Clothesline,Clothesline,Clothesline,clothesline
+7_14.png,Books on a Shelf,Books on a Shelf,Shelf Books on a,Books on a Shelf,bookend
+7_15.png,Doorway,Doorway,Doorway,Doorway,door
+7_16.png,Chopsticks,Chopsticks,Chopsticks,Chopsticks,chopsticks
+7_17.png,Open for Business,Open for Business,Open for Business,Open for Business,hanging sign
+7_18.png,Train Tracks,Train Tracks,Train Tracks,Train Tracks,train tracks
+7_19.png,Bicycle,Bicycle,Bicycle,Bicycle,bicycle
+7_20.png,Pull-Up Bar,Pull-Up Bar,Pull-Up Bar,Pull-Up Bar,parallel bars
+7_21.png,Tuning Fork,Tuning Fork,Tuning Fork,Tuning Fork,tuning fork
+7_22.png,Grandfather Clock,Grandfather Clock,Grandfather Clock,Grandfather Clock,grandfather clock
+7_23.png,Basketball Hoop,Basketball Hoop,Hoop Basketball,Basketball Hoop,basketball hoop
+7_24.png,Gift Box,Ce ee Gif+ Box,Gift Box,Gift Box,gift
+7_25.png,Desert Cactus,ee Desert Cactus,Desert Cactus,Desert Cactus,cactus
+7_26.png,Diving Board,Diving Board,Diving Board,Diving Board,diving board
+7_27.png,Closed Door,Closed Door,Closed Door,Closed Door,door
+7_28.png,Victory Banner,Victory Banner,Victory Banner,Victory Banner,victory banner
+7_29.png,Spiderweb,Spiderweb,Spiderweb,Spiderweb,spiderweb
+7_30.png,Bridge,Bridge,Bridge,Bridge,bridge
+7_31.png,Radio Antenna,_ lr} Radio Antenna,Radio Antenna,Radio Antenna,radio antenna
+7_32.png,Horse Corral,Horse Corral,Horse Corral,Horse Corral,horse corral
+7_33.png,Knitting Needles,Knitting Needles,Knitting Needles,Knitting Needles,knitting needles
+7_34.png,Volleyball Net,Volleyball Net,Volleyball Net,Volleyball Net,volleyball net
+7_35.png,Armoire,| | | Armoire,Armoire,Armoire,doors
+7_36.png,Finish Line,Finish Line,Finish Line,Finish Line,finish line
+8_01.png,Castle Gate,—__! Lees Castle Gate,Castle Gate,Castle Gate,castle
+8_02.png,Swing,We Wa Swin c),Swing,Swing,swing
+8_03.png,Ladder,Ladder,Ladder,Ladder,ladder
+8_04.png,Open Window,Open Window,Open Window,Open Window,window
+8_05.png,Double Doors,| a | Double Doors,Double Doors,Double Doors,doors
+8_06.png,Goal Post,Goal Post,Post Goal,Goal Post,goalposts
+8_07.png,Bookmarks,vy N a N Bookmarks,Bookmarks,Bookmarks,bookmark
+8_08.png,Pillars,— —_ Pillars,Pillars,Pillars,pillars
+8_09.png,Pencils,OOo WW Pencils,Pencils,Pencils,pencil
+8_10.png,Chopsticks,oa §& ' Chopsticks,Chopsticks,Chopsticks,chopsticks
+8_11.png,Slide,Lf Ub Ub Slide,Slide,Slide,slide
+8_12.png,Curtains,"LI ° ""bo Curtains",Curtains,Curtains,curtains
+8_13.png,Hurdle,Hurdle,Hurdle,Hurdle,hurdle
+8_14.png,Train Tracks,eo Us Train Tracks,Train Tracks,Train Tracks,train tracks
+8_15.png,Vase,ws Vase,Vase,Vase,vase
+8_16.png,Tuning Fork,NZ Tuning Fork,Tuning Fork,Tuning Fork,tuning fork
+8_17.png,Rabbit Ears,i a Rabbit Ears,Ears Rabbit,Rabbit Ears,rabbit face
+8_18.png,Pause Button,“ee Pause Button,Pause Button,Pause Button,pause
+8_19.png,Elevator,lt Elevator,Elevator,Elevator,elevator
+8_20.png,Hammock,Wi \ adn ALA Hammock,Hammock,Hammock,hammock
+8_21.png,Skis,reuwyd WU tf Skis,T U U + Skis,Skis,skis
+8_22.png,Battery,Battery,Battery,Battery,battery
+8_23.png,Bridge,Bridge,Bridge,Bridge,bridge
+8_24.png,Notebook,Ke) Notebook,Notebook,Notebook,notebook
+8_25.png,Witch Hat,Lee Witch Hat,Witch Hat,Witch Hat,witch hat
+8_26.png,Crutches,LU i) Crutches,Crutches,Crutches,crutches
+8_27.png,Guitar,7 Guitar,Guitar,Guitar,guitar
+8_28.png,Gift Box,es oe Gift Box,Gift Box,Gift Box,gift
+8_29.png,Binoculars,oT Binoculars,Binoculars,Binoculars,binoculars
+8_30.png,Salt & Pepper,—TZ_ Salt & Pepper,Pepper Salt &,Salt & Pepper,salt and pepper
+8_31.png,Penguin,a Vr. Pe Penguin,Penguin,Penguin,penguin
+8_32.png,Doorway,| Doorway,Doorway,Doorway,door
+8_33.png,Traffic Light,| Traffic Light,Traffic Light,Traffic Light,traffic light
+8_34.png,Organ Pipes,a a 2 Organ Pipes,Organ Pipes,Organ Pipes,organ pipes
+8_35.png,Clothes on Line,Clothes on Line,Clothes Line on,Clothes on Line,clothesline
+8_36.png,Swimming Pool,Swimming Pool,Swimming Pool,Swimming Pool,ladder
+9_01.png,Open Doors,Ll | Open Doors,Open Doors,Open Doors,doors
+9_02.png,Ladder,Ladder,Ladder,Ladder,ladder
+9_03.png,Swing,"NY Nl, Swing",Swing,Swing,swing
+9_04.png,Road,7 | XN Road,Road,Road,road
+9_05.png,Bridge,Bridge,Bridge,Bridge,bridge
+9_06.png,Goalpost,E—_ - Goalpost,Goalpost,Goalpost,goalposts
+9_07.png,Curtains,Curtains,Curtains,Curtains,curtains
+9_08.png,Book,GS Book,Book,Book,book
+9_09.png,Gift,L_ a | Gift,Gift,Gift,gift
+9_10.png,Window,Window,Window,Window,window
+9_11.png,Mirror,Mirror,Mirror,Mirror,mirror
+9_12.png,Dumbbell,Dumbbell,Dumbbell,Dumbbell,barbell
+9_13.png,Pause,Pause,Pause,Pause,pause
+9_14.png,Fishing,Fishing,Fishing,Fishing,fishing
+9_15.png,Letter H,Letter H,Letter H,Letter H,letter h
+9_16.png,Chair,U U Chair,Chair,Chair,chair
+9_17.png,Pool Ladder,Pool Ladder,Pool Ladder,Pool Ladder,ladder
+9_18.png,Tiger Face,HY Tiger Face,Face Tiger,Tiger Face,animal face
+9_19.png,Parallel Bars,Parallel Bars,Parallel Bars,Parallel Bars,parallel bars
+9_20.png,Train Door,Train Door,Train Door,Train Door,train door
+9_21.png,Binoculars,——_ ——— Binoculars,Binoculars,Binoculars,binoculars
+9_22.png,Slot Machine,5 Slot Machine,Slot Machine,Slot Machine,slot machine
+9_23.png,Sandwich,Sandwich,Sandwich,Sandwich,sandwich
+9_24.png,Jail Cell,Jail Cell,Jail Cell,Jail Cell,jail
+9_25.png,Drink Cup,_s Drink Cup,Cup Drink,Drink Cup,cup
+9_26.png,Cat in a Box,Cat ina Box,Box Cat in a,Cat in a Box,cat in a box
+9_27.png,Earmuffs,i] ' Earmuffs,Earmuffs,Earmuffs,earmuffs
+9_28.png,Tulip,Tulip,Tulip,Tulip,tulip
+9_29.png,Chopsticks,Chopsticks,Chopsticks,Chopsticks,chopsticks
+9_30.png,Battery,Battery,Battery,Battery,battery
+9_31.png,Clothespin,Clothespin,Clothespin,Clothespin,clothespin
+9_32.png,Microphone,—=—™7 Microphone,Microphone,Microphone,microphone
+9_33.png,Birthday Candle,Birthday Candle,Birthday Candle,Birthday Candle,candle
+9_34.png,Rocket,Rocket,Rocket,Rocket,rocket
+9_35.png,Sailboat,Sailboat,Sailboat,Sailboat,sailboat
+9_36.png,Jeans,a | Jeans,Jeans,Jeans,pants
