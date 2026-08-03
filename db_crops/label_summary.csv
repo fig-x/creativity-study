@@ -1,175 +1,294 @@
 label,category,Circle,Line
 "8 ball","(not found)",T,F
+"abacus","(not found)",F,T
 "alarm clock","clocks and other devices for measuring time",T,F
+"animal face","(not found)",T,T
 "apple","fruit",T,F
+"backpack","(not found)",F,T
 "balloon","balloon",T,F
+"barbell","(not found)",F,T
+"barrel","container",F,T
+"basket","container",F,T
 "basketball","balls",T,F
+"basketball hoop","(not found)",F,T
 "battery","(not found)",F,T
-"bear","animal or animal part",T,F
+"beatle","(not found)",F,T
+"bed","furniture",F,T
 "bee","insect",T,F
 "bell","music",T,F
+"between","(not found)",F,T
+"bicycle","(not found)",F,T
+"binoculars","(not found)",F,T
 "bird","bird or fowl",T,F
 "blackhole","",T,F
 "bomb","weapons or traps (not air weapons)",T,F
 "book","book",F,T
-"bookend","(not found)",F,T
-"bowling ball","(not found)",T,F
+"bookend","book",F,T
+"bookmark","(not found)",F,T
+"bowling ball","balls",T,F
+"box","(not found)",F,T
+"branch","(not found)",F,T
 "bridge","road and road system",F,T
+"brocolli","(not found)",F,T
 "bubble","(not found)",T,F
+"building","(not found)",F,T
+"building pipe","building materials or equipment",F,T
+"bush","(not found)",F,T
+"butterfly","insect",F,T
 "button","apparel",T,F
+"cactus","other plant (not tree not flower)",F,T
 "cake","food",T,F
 "camera lens","machine",T,F
-"can","",F,T
+"can","container",F,T
+"candle","light",F,T
+"candles","(not found)",F,T
 "candy","food",T,F
+"candy cane poles","(not found)",F,T
 "cannonball","air weapon",T,F
 "canyon","(not found)",F,T
+"castle","(not found)",F,T
 "cat","animal or animal part",T,F
+"cat in a box","(not found)",F,T
+"cat mouse","(not found)",T,F
+"chair","furniture",F,T
 "cheese","food",T,F
-"chessboard","",F,T
+"cheese slicer","(not found)",F,T
+"chessboard","(not found)",F,T
+"chimney","building part",F,T
 "chocolate","(not found)",T,F
 "chopsticks","(not found)",F,T
+"circle person","(not found)",T,F
 "climbing","(not found)",F,T
-"clock","clocks and other devices for measuring time",T,F
+"clock","clocks and other devices for measuring time",T,T
 "clothesline","pole and lines",F,T
+"clothespin","(not found)",F,T
+"coffee pot","household items (excluding furniture)",T,F
 "coil","",T,F
 "coin","money",T,F
-"comet","sky bodies",T,F
 "compass","compass",T,F
 "cookie","food",T,F
 "cricket wicket","(not found)",F,T
 "crown","accessories",T,F
+"crutches","(not found)",F,T
 "crystal ball","crystal ball",T,F
+"cube","geometric shape",F,T
 "cup","container",T,T
 "curtains","windows",F,T
+"cushion","(not found)",F,T
+"cyclops","(not found)",T,F
 "dia","animal or animal part",T,F
-"diving helmet","(not found)",T,F
+"diamond (decoration)","design or decoration",F,T
+"diving board","(not found)",F,T
+"diving helmet","water travel",T,F
 "dna","(not found)",F,T
 "donut","food",T,F
 "door","building part",F,T
 "door handle","(not found)",F,T
-"dreamcatcher","(not found)",T,F
-"drum","music",T,F
+"doors","(not found)",F,T
+"dreamcatcher","design or decoration",T,F
+"dress","apparel",F,T
+"drinking glass","(not found)",F,T
+"drum","music",T,T
+"ear","body or body part",F,T
 "earth","sky bodies",T,F
+"elephant","animal or animal part",F,T
 "elevator","building attachments and accessories",F,T
+"envelope","school and office supplies",F,T
 "eye","body or body part",T,F
 "eyeball","body or body part",T,F
-"face","body or body part",T,F
+"face","body or body part",T,T
 "fence","building attachments and accessories",F,T
 "ferris wheel","recreation and entertainment",T,F
+"finish line","(not found)",F,T
 "fish","fish and sea animals",T,F
+"fishing","(not found)",F,T
+"flag","symbols and signs",F,T
 "flower","flower",T,F
-"flowerpot","",F,T
+"flower pot","container",F,T
+"flowerpot","flower",F,T
+"foot","body or body part",F,T
 "football","balls",T,F
+"frankenstein","(not found)",F,T
 "fried egg","food",T,F
 "fruit slice","fruit",T,F
-"frying pan","household items (excluding furniture)",T,F
+"frying pan","household items (excluding furniture)",T,T
 "gate","building attachments and accessories",F,T
-"gear","(not found)",T,F
+"gear","gear",T,F
+"ghost","supernatural creatures",F,T
+"gift","package",F,T
 "glasses","accessories",T,F
 "globe","globe",T,F
-"goal post","sports (not ball)",F,T
+"globe/earth","(not found)",T,F
+"goalposts","(not found)",F,T
+"golf car","(not found)",F,T
+"grandfather clock","(not found)",F,T
+"guillotine","(not found)",F,T
+"guitar","music",F,T
 "hammock","(not found)",F,T
 "hanging lights","(not found)",T,F
 "hanging sign","(not found)",T,T
+"happy face","(not found)",F,T
+"harbor pilings","(not found)",F,T
+"harp","music",F,T
+"hat","apparel",F,T
+"helipad","(not found)",F,T
+"horse corral","(not found)",F,T
+"hospital","(not found)",F,T
+"hospital sign","(not found)",F,T
 "hot air balloon","(not found)",T,F
 "hourglass","clocks and other devices for measuring time",F,T
-"house","",F,T
+"house","building",F,T
 "hula hoop","(not found)",T,F
 "hurdle","(not found)",F,T
 "indecipherable","",T,F
+"index tabs","(not found)",F,T
 "jail","prison",F,T
 "jar","container",F,T
+"knitting needles","(not found)",F,T
 "ladder","household items (excluding furniture)",F,T
 "ladybug","insect",T,F
+"letter h","(not found)",F,T
 "letters of the alphabet","alphabet",F,T
 "life preserver","life preserver",T,F
 "light bulb","light",T,F
-"lily pad","(not found)",T,F
+"light switch","light",F,T
+"lily pad","other plant (not tree not flower)",T,F
+"log","tree",F,T
 "lollipop","food",T,F
 "magnet","science",F,T
 "magnifying glass","science",T,F
 "man","human beings",T,F
 "manhole cover","(not found)",T,F
 "martini glass","(not found)",F,T
+"mat","household items (excluding furniture)",F,T
+"maze","(not found)",F,T
 "medal","(not found)",T,F
+"metetor","(not found)",T,F
 "mickey","(not found)",T,F
-"mirror","(not found)",T,F
-"monster","supernatural creatures",T,F
+"milk carton","(not found)",F,T
+"mirror","(not found)",T,T
 "moon","sky bodies",T,F
 "mouse","animal or animal part",T,F
 "mouth","",T,F
+"mushroom","food",F,T
+"music pause","(not found)",F,T
+"musical note","music",F,T
 "nest","(not found)",T,F
 "notebook","school and office supplies",F,T
-"notepad","",F,T
+"notepad","(not found)",F,T
+"open book","book",F,T
 "orange","fruit",T,F
-"ornament","(not found)",T,F
+"organ pipes","(not found)",F,T
+"ornament","design or decoration",T,F
 "other animal face","animal or animal part",T,F
 "outlet","(not found)",F,T
 "pants","apparel",F,T
+"paper","school and office supplies",F,T
 "parallel bars","(not found)",F,T
+"pause","(not found)",F,T
 "peace sign","",T,F
 "pearl","design or decoration",T,F
+"pearl in shell","(not found)",T,F
 "peekaboo","(not found)",F,T
+"pencil","school and office supplies",F,T
 "pencil sharpener","school and office supplies",F,T
 "pendant","(not found)",T,F
-"person","human beings",T,F
 "petri dish","",T,F
+"phone","(not found)",F,T
 "picture frame","frame",F,T
+"pillars","(not found)",F,T
 "ping pong","(not found)",T,F
 "pirate eye patch","(not found)",T,F
+"pitcher","sports (not ball)",F,T
 "pizza","food",T,F
 "planet","sky bodies",T,F
 "plate","",T,F
-"pocket watch","(not found)",T,F
+"plug","(not found)",F,T
+"pocket watch","clocks and other devices for measuring time",T,F
 "porthole","water travel",T,F
+"present","(not found)",F,T
+"prison bars","(not found)",F,T
 "rabbit ears","(not found)",F,T
+"radio antenna","(not found)",F,T
+"railing","(not found)",F,T
+"railroad tracks","surface transportation",F,T
+"railway","(not found)",F,T
 "rainbow","weather and seasons",T,F
 "record","(not found)",T,F
+"rectangle","geometric shape",F,T
+"refrigerator","household items (excluding furniture)",F,T
 "ring","(not found)",T,F
 "road","road and road system",F,T
-"rocket","",F,T
+"robot","machine",F,T
+"rocket","space",F,T
 "rugby ball","(not found)",T,F
+"sachet","(not found)",F,T
 "sailboat","water travel",T,F
+"saloon doors","(not found)",F,T
+"salt and pepper","(not found)",F,T
 "sandwich","food",F,T
 "satellite","(not found)",T,F
 "school bell","(not found)",T,F
 "scroll","(not found)",F,T
 "sea mine","(not found)",T,F
 "ship wheel","(not found)",T,F
+"ski slope gate","(not found)",F,T
 "skis","(not found)",F,T
 "slide","recreation and entertainment",F,T
+"slingshot","weapons or traps (not air weapons)",F,T
 "slinky","",T,F
+"slot machine","(not found)",F,T
 "smiley face","body or body part",T,F
 "snail","animal or animal part",T,F
-"snow ball","(not found)",T,F
 "snow globe","(not found)",T,F
 "snowman","balls",T,F
 "speech bubble","(not found)",T,F
-"steering wheel","(not found)",T,F
-"stethoscope","(not found)",T,F
+"spiderweb","insect",F,T
+"square","geometric shape",F,T
+"stage","recreation and entertainment",F,T
+"steering wheel","automobile accessories",T,F
+"stethoscope","medicine",T,F
+"stump","(not found)",F,T
 "submarine","water travel",T,F
 "sun","sky bodies",T,F
 "swing","recreation and entertainment",F,T
+"table","furniture",F,T
 "tambourine","(not found)",T,F
 "target","target",T,F
+"tea cup","household items (excluding furniture)",T,F
 "teapot","household items (excluding furniture)",T,F
+"telephone booth","(not found)",F,T
 "tennis ball","balls",T,F
+"tent","shelter (not buildings)",F,T
 "thumbtack","",T,F
+"tightrope","(not found)",F,T
 "tightrope walker","(not found)",F,T
 "tire","automobile accessories",T,F
-"tire swing","(not found)",T,F
+"tobacco pipe","tobacco",F,T
 "toilet seat","(not found)",T,F
 "towel rack","(not found)",F,T
+"tra","(not found)",F,T
+"traffic light","(not found)",F,T
+"train door","(not found)",F,T
+"train tracks","(not found)",F,T
+"trash can","container",F,T
+"tree","tree",F,T
+"tree trunk","(not found)",F,T
 "tuning fork","sound and sound systems",F,T
+"tunnel","(not found)",F,T
 "turtle","animal or animal part",T,F
 "ufo","(not found)",T,F
 "undecipherable","",F,T
 "vase","household items (excluding furniture)",F,T
+"victory banner","(not found)",F,T
 "volleyball","balls",T,F
-"volleyball/basketball","(not found)",T,F
+"volleyball net","(not found)",F,T
 "washing machine","machine",T,F
-"watering can","",F,T
+"watering can","(not found)",F,T
 "wheel","automobile accessories",T,F
 "window","windows",T,T
+"wishing well","(not found)",F,T
+"witch hat","(not found)",F,T
 "wreath","design or decoration",T,F
 "yin yang","",T,F
+"zipper","(not found)",F,T
