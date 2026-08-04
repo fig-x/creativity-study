@@ -28,6 +28,34 @@
     "week": "week1"
   },
   {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/5f3bea0ce3bf58978b8978a6_week1_0_competition.png",
+    "prolificId": "5f3bea0ce3bf58978b8978a6",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/5f3bea0ce3bf58978b8978a6_week1_1_abyss.png",
+    "prolificId": "5f3bea0ce3bf58978b8978a6",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/5f3bea0ce3bf58978b8978a6_week1_2_accident.png",
+    "prolificId": "5f3bea0ce3bf58978b8978a6",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/5f3bea0ce3bf58978b8978a6_week1_3_vision.png",
+    "prolificId": "5f3bea0ce3bf58978b8978a6",
+    "week": "week1"
+  },
+  {
     "word": "Portal",
     "source": "participant",
     "path": "metaphor_drawings/PORTAL/612aad0cb69fa8ecd2f6edd8_week1_0_portal.png",
@@ -53,6 +81,34 @@
     "source": "participant",
     "path": "metaphor_drawings/ABYSS/612aad0cb69fa8ecd2f6edd8_week1_4_abyss.png",
     "prolificId": "612aad0cb69fa8ecd2f6edd8",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/66880186d4635804ab560862_week1_0_accident.png",
+    "prolificId": "66880186d4635804ab560862",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/66880186d4635804ab560862_week1_1_vision.png",
+    "prolificId": "66880186d4635804ab560862",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/66880186d4635804ab560862_week1_2_servant.png",
+    "prolificId": "66880186d4635804ab560862",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/66880186d4635804ab560862_week1_3_contamination.png",
+    "prolificId": "66880186d4635804ab560862",
     "week": "week1"
   },
   {
@@ -221,6 +277,62 @@
     "source": "participant",
     "path": "metaphor_drawings/PORTAL/69aeee44187fdda005ab835b_week1_4_portal.png",
     "prolificId": "69aeee44187fdda005ab835b",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/69f23d475d7d045f5cb57993_week1_0_accident.png",
+    "prolificId": "69f23d475d7d045f5cb57993",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/69f23d475d7d045f5cb57993_week1_1_desire.png",
+    "prolificId": "69f23d475d7d045f5cb57993",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/69f23d475d7d045f5cb57993_week1_2_servant.png",
+    "prolificId": "69f23d475d7d045f5cb57993",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/69f23d475d7d045f5cb57993_week1_3_portal.png",
+    "prolificId": "69f23d475d7d045f5cb57993",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/6a17ef7a42d9430a6ce702b3_week1_0_vision.png",
+    "prolificId": "6a17ef7a42d9430a6ce702b3",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/6a17ef7a42d9430a6ce702b3_week1_1_servant.png",
+    "prolificId": "6a17ef7a42d9430a6ce702b3",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/6a17ef7a42d9430a6ce702b3_week1_2_contamination.png",
+    "prolificId": "6a17ef7a42d9430a6ce702b3",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/6a17ef7a42d9430a6ce702b3_week1_3_accident.png",
+    "prolificId": "6a17ef7a42d9430a6ce702b3",
     "week": "week1"
   },
   {
