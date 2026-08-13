@@ -1,1038 +1,5756 @@
 [
   {
-    "word": "Vision",
+    "word": "Energy",
     "source": "participant",
-    "path": "metaphor_drawings/VISION/5b94fffdaa1729000192a770_week1_0_vision.png",
-    "prolificId": "5b94fffdaa1729000192a770",
+    "path": "metaphor_drawings/ENERGY/P590_week1_0_energy.png",
+    "pid": "P590",
     "week": "week1"
   },
   {
-    "word": "Aversion",
+    "word": "Business",
     "source": "participant",
-    "path": "metaphor_drawings/AVERSION/5b94fffdaa1729000192a770_week1_1_aversion.png",
-    "prolificId": "5b94fffdaa1729000192a770",
-    "week": "week1"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/5b94fffdaa1729000192a770_week1_2_servant.png",
-    "prolificId": "5b94fffdaa1729000192a770",
-    "week": "week1"
-  },
-  {
-    "word": "Struggle",
-    "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/5b94fffdaa1729000192a770_week1_4_struggle.png",
-    "prolificId": "5b94fffdaa1729000192a770",
-    "week": "week1"
-  },
-  {
-    "word": "Protection",
-    "source": "participant",
-    "path": "metaphor_drawings/PROTECTION/5eaf3e142627076426921b1b_week1_0_protection.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week1"
-  },
-  {
-    "word": "Aversion",
-    "source": "participant",
-    "path": "metaphor_drawings/AVERSION/5eaf3e142627076426921b1b_week1_1_aversion.png",
-    "prolificId": "5eaf3e142627076426921b1b",
+    "path": "metaphor_drawings/BUSINESS/P590_week1_1_business.png",
+    "pid": "P590",
     "week": "week1"
   },
   {
     "word": "Journey",
     "source": "participant",
-    "path": "metaphor_drawings/JOURNEY/5eaf3e142627076426921b1b_week1_2_journey.png",
-    "prolificId": "5eaf3e142627076426921b1b",
+    "path": "metaphor_drawings/JOURNEY/P590_week1_2_journey.png",
+    "pid": "P590",
     "week": "week1"
   },
   {
-    "word": "Accident",
+    "word": "Protection",
     "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/5eaf3e142627076426921b1b_week1_3_accident.png",
-    "prolificId": "5eaf3e142627076426921b1b",
+    "path": "metaphor_drawings/PROTECTION/P590_week1_3_protection.png",
+    "pid": "P590",
     "week": "week1"
   },
   {
     "word": "Magic",
     "source": "participant",
-    "path": "metaphor_drawings/MAGIC/5eaf3e142627076426921b1b_week1_5_magic.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/5eaf3e142627076426921b1b_week1_6_vision.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week1"
-  },
-  {
-    "word": "Competition",
-    "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/5f3bea0ce3bf58978b8978a6_week1_0_competition.png",
-    "prolificId": "5f3bea0ce3bf58978b8978a6",
-    "week": "week1"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/5f3bea0ce3bf58978b8978a6_week1_1_abyss.png",
-    "prolificId": "5f3bea0ce3bf58978b8978a6",
+    "path": "metaphor_drawings/MAGIC/P264_week1_0_magic.png",
+    "pid": "P264",
     "week": "week1"
   },
   {
     "word": "Accident",
     "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/5f3bea0ce3bf58978b8978a6_week1_2_accident.png",
-    "prolificId": "5f3bea0ce3bf58978b8978a6",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/5f3bea0ce3bf58978b8978a6_week1_3_vision.png",
-    "prolificId": "5f3bea0ce3bf58978b8978a6",
-    "week": "week1"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/612aad0cb69fa8ecd2f6edd8_week1_0_portal.png",
-    "prolificId": "612aad0cb69fa8ecd2f6edd8",
-    "week": "week1"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/612aad0cb69fa8ecd2f6edd8_week1_1_business.png",
-    "prolificId": "612aad0cb69fa8ecd2f6edd8",
-    "week": "week1"
-  },
-  {
-    "word": "Struggle",
-    "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/612aad0cb69fa8ecd2f6edd8_week1_2_struggle.png",
-    "prolificId": "612aad0cb69fa8ecd2f6edd8",
-    "week": "week1"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/612aad0cb69fa8ecd2f6edd8_week1_4_abyss.png",
-    "prolificId": "612aad0cb69fa8ecd2f6edd8",
-    "week": "week1"
-  },
-  {
-    "word": "Accident",
-    "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/66880186d4635804ab560862_week1_0_accident.png",
-    "prolificId": "66880186d4635804ab560862",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/66880186d4635804ab560862_week1_1_vision.png",
-    "prolificId": "66880186d4635804ab560862",
+    "path": "metaphor_drawings/ACCIDENT/P264_week1_1_accident.png",
+    "pid": "P264",
     "week": "week1"
   },
   {
     "word": "Servant",
     "source": "participant",
-    "path": "metaphor_drawings/SERVANT/66880186d4635804ab560862_week1_2_servant.png",
-    "prolificId": "66880186d4635804ab560862",
+    "path": "metaphor_drawings/SERVANT/P264_week1_2_servant.png",
+    "pid": "P264",
     "week": "week1"
   },
   {
-    "word": "Contamination",
+    "word": "Energy",
     "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/66880186d4635804ab560862_week1_3_contamination.png",
-    "prolificId": "66880186d4635804ab560862",
-    "week": "week1"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/66ed3470848a6d95128ef46e_week1_0_business.png",
-    "prolificId": "66ed3470848a6d95128ef46e",
-    "week": "week1"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/66ed3470848a6d95128ef46e_week1_1_abyss.png",
-    "prolificId": "66ed3470848a6d95128ef46e",
+    "path": "metaphor_drawings/ENERGY/P264_week1_3_energy.png",
+    "pid": "P264",
     "week": "week1"
   },
   {
     "word": "Portal",
     "source": "participant",
-    "path": "metaphor_drawings/PORTAL/66ed3470848a6d95128ef46e_week1_2_portal.png",
-    "prolificId": "66ed3470848a6d95128ef46e",
+    "path": "metaphor_drawings/PORTAL/P591_week1_0_portal.png",
+    "pid": "P591",
     "week": "week1"
   },
   {
-    "word": "Contamination",
+    "word": "Control",
     "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/66ed3470848a6d95128ef46e_week1_4_contamination.png",
-    "prolificId": "66ed3470848a6d95128ef46e",
-    "week": "week1"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/697c22b0d791500eab3ba84f_week1_0_servant.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
+    "path": "metaphor_drawings/CONTROL/P591_week1_1_control.png",
+    "pid": "P591",
     "week": "week1"
   },
   {
     "word": "Disease",
     "source": "participant",
-    "path": "metaphor_drawings/DISEASE/697c22b0d791500eab3ba84f_week1_1_disease.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week1"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/697c22b0d791500eab3ba84f_week1_2_abyss.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week1"
-  },
-  {
-    "word": "Aversion",
-    "source": "participant",
-    "path": "metaphor_drawings/AVERSION/697c22b0d791500eab3ba84f_week1_4_aversion.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week1"
-  },
-  {
-    "word": "Competition",
-    "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/697c22b0d791500eab3ba84f_week1_5_competition.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week1"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/697c22b0d791500eab3ba84f_week1_6_contamination.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week1"
-  },
-  {
-    "word": "Desire",
-    "source": "participant",
-    "path": "metaphor_drawings/DESIRE/69807567eb81121725943cb6_week1_0_desire.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week1"
-  },
-  {
-    "word": "Journey",
-    "source": "participant",
-    "path": "metaphor_drawings/JOURNEY/69807567eb81121725943cb6_week1_1_journey.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week1"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/69807567eb81121725943cb6_week1_2_servant.png",
-    "prolificId": "69807567eb81121725943cb6",
+    "path": "metaphor_drawings/DISEASE/P591_week1_2_disease.png",
+    "pid": "P591",
     "week": "week1"
   },
   {
     "word": "Accident",
     "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/69807567eb81121725943cb6_week1_3_accident.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week1"
-  },
-  {
-    "word": "Magic",
-    "source": "participant",
-    "path": "metaphor_drawings/MAGIC/69807567eb81121725943cb6_week1_4_magic.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week1"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/69807567eb81121725943cb6_week1_6_abyss.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week1"
-  },
-  {
-    "word": "Darkness",
-    "source": "participant",
-    "path": "metaphor_drawings/DARKNESS/698078075d3326e1b30bd1c3_week1_0_darkness.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week1"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/698078075d3326e1b30bd1c3_week1_1_portal.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week1"
-  },
-  {
-    "word": "Accident",
-    "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/698078075d3326e1b30bd1c3_week1_2_accident.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week1"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/698078075d3326e1b30bd1c3_week1_3_contamination.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week1"
-  },
-  {
-    "word": "Struggle",
-    "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/698078075d3326e1b30bd1c3_week1_5_struggle.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week1"
-  },
-  {
-    "word": "Competition",
-    "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/698078075d3326e1b30bd1c3_week1_6_competition.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week1"
-  },
-  {
-    "word": "Darkness",
-    "source": "participant",
-    "path": "metaphor_drawings/DARKNESS/69807c1bd32263ea499f148a_week1_0_darkness.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week1"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/69807c1bd32263ea499f148a_week1_1_business.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week1"
-  },
-  {
-    "word": "Control",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTROL/69807c1bd32263ea499f148a_week1_2_control.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week1"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/69807c1bd32263ea499f148a_week1_3_servant.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week1"
-  },
-  {
-    "word": "Energy",
-    "source": "participant",
-    "path": "metaphor_drawings/ENERGY/69807c1bd32263ea499f148a_week1_5_energy.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week1"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/69807c1bd32263ea499f148a_week1_6_abyss.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week1"
-  },
-  {
-    "word": "Competition",
-    "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/6980aaf81e9e55110e09a0be_week1_0_competition.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week1"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/6980aaf81e9e55110e09a0be_week1_1_business.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week1"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/6980aaf81e9e55110e09a0be_week1_2_contamination.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week1"
-  },
-  {
-    "word": "Control",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTROL/6980aaf81e9e55110e09a0be_week1_3_control.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week1"
-  },
-  {
-    "word": "Aversion",
-    "source": "participant",
-    "path": "metaphor_drawings/AVERSION/6980aaf81e9e55110e09a0be_week1_4_aversion.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/6980aaf81e9e55110e09a0be_week1_6_vision.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week1"
-  },
-  {
-    "word": "Darkness",
-    "source": "participant",
-    "path": "metaphor_drawings/DARKNESS/6980af677f354d61464c3d0e_week1_0_darkness.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week1"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/6980af677f354d61464c3d0e_week1_1_portal.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week1"
-  },
-  {
-    "word": "Struggle",
-    "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/6980af677f354d61464c3d0e_week1_2_struggle.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week1"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/6980af677f354d61464c3d0e_week1_4_abyss.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week1"
-  },
-  {
-    "word": "Aversion",
-    "source": "participant",
-    "path": "metaphor_drawings/AVERSION/6980af677f354d61464c3d0e_week1_5_aversion.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/6980af677f354d61464c3d0e_week1_6_vision.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week1"
-  },
-  {
-    "word": "Control",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTROL/698255449bd7328c5ea958d9_week1_0_control.png",
-    "prolificId": "698255449bd7328c5ea958d9",
-    "week": "week1"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/698255449bd7328c5ea958d9_week1_1_contamination.png",
-    "prolificId": "698255449bd7328c5ea958d9",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/698255449bd7328c5ea958d9_week1_2_vision.png",
-    "prolificId": "698255449bd7328c5ea958d9",
-    "week": "week1"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/698255449bd7328c5ea958d9_week1_4_business.png",
-    "prolificId": "698255449bd7328c5ea958d9",
-    "week": "week1"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/698350e995dad954ab02fd5d_week1_0_contamination.png",
-    "prolificId": "698350e995dad954ab02fd5d",
+    "path": "metaphor_drawings/ACCIDENT/P591_week1_3_accident.png",
+    "pid": "P591",
     "week": "week1"
   },
   {
     "word": "Disease",
     "source": "participant",
-    "path": "metaphor_drawings/DISEASE/698350e995dad954ab02fd5d_week1_1_disease.png",
-    "prolificId": "698350e995dad954ab02fd5d",
-    "week": "week1"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/698350e995dad954ab02fd5d_week1_2_business.png",
-    "prolificId": "698350e995dad954ab02fd5d",
+    "path": "metaphor_drawings/DISEASE/P420_week1_0_disease.png",
+    "pid": "P420",
     "week": "week1"
   },
   {
     "word": "Aversion",
     "source": "participant",
-    "path": "metaphor_drawings/AVERSION/698350e995dad954ab02fd5d_week1_4_aversion.png",
-    "prolificId": "698350e995dad954ab02fd5d",
+    "path": "metaphor_drawings/AVERSION/P420_week1_1_aversion.png",
+    "pid": "P420",
     "week": "week1"
   },
   {
-    "word": "Business",
+    "word": "Control",
     "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/698e5461d72a0b9a133b379a_week1_0_business.png",
-    "prolificId": "698e5461d72a0b9a133b379a",
+    "path": "metaphor_drawings/CONTROL/P420_week1_2_control.png",
+    "pid": "P420",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P420_week1_3_competition.png",
+    "pid": "P420",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P596_week1_0_competition.png",
+    "pid": "P596",
     "week": "week1"
   },
   {
     "word": "Struggle",
     "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/698e5461d72a0b9a133b379a_week1_1_struggle.png",
-    "prolificId": "698e5461d72a0b9a133b379a",
+    "path": "metaphor_drawings/STRUGGLE/P596_week1_1_struggle.png",
+    "pid": "P596",
     "week": "week1"
   },
   {
-    "word": "Aversion",
+    "word": "Energy",
     "source": "participant",
-    "path": "metaphor_drawings/AVERSION/698e5461d72a0b9a133b379a_week1_2_aversion.png",
-    "prolificId": "698e5461d72a0b9a133b379a",
+    "path": "metaphor_drawings/ENERGY/P596_week1_2_energy.png",
+    "pid": "P596",
     "week": "week1"
   },
   {
-    "word": "Magic",
+    "word": "Business",
     "source": "participant",
-    "path": "metaphor_drawings/MAGIC/698e5461d72a0b9a133b379a_week1_4_magic.png",
-    "prolificId": "698e5461d72a0b9a133b379a",
+    "path": "metaphor_drawings/BUSINESS/P596_week1_3_business.png",
+    "pid": "P596",
     "week": "week1"
   },
   {
-    "word": "Desire",
+    "word": "Protection",
     "source": "participant",
-    "path": "metaphor_drawings/DESIRE/69ab62b5d67a8a365b4422dc_week1_0_desire.png",
-    "prolificId": "69ab62b5d67a8a365b4422dc",
-    "week": "week1"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/69ab62b5d67a8a365b4422dc_week1_1_portal.png",
-    "prolificId": "69ab62b5d67a8a365b4422dc",
+    "path": "metaphor_drawings/PROTECTION/P336_week1_0_protection.png",
+    "pid": "P336",
     "week": "week1"
   },
   {
     "word": "Disease",
     "source": "participant",
-    "path": "metaphor_drawings/DISEASE/69ab62b5d67a8a365b4422dc_week1_2_disease.png",
-    "prolificId": "69ab62b5d67a8a365b4422dc",
+    "path": "metaphor_drawings/DISEASE/P336_week1_1_disease.png",
+    "pid": "P336",
     "week": "week1"
   },
   {
-    "word": "Control",
+    "word": "Abyss",
     "source": "participant",
-    "path": "metaphor_drawings/CONTROL/69ab62b5d67a8a365b4422dc_week1_4_control.png",
-    "prolificId": "69ab62b5d67a8a365b4422dc",
-    "week": "week1"
-  },
-  {
-    "word": "Accident",
-    "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/69aeee44187fdda005ab835b_week1_0_accident.png",
-    "prolificId": "69aeee44187fdda005ab835b",
-    "week": "week1"
-  },
-  {
-    "word": "Energy",
-    "source": "participant",
-    "path": "metaphor_drawings/ENERGY/69aeee44187fdda005ab835b_week1_1_energy.png",
-    "prolificId": "69aeee44187fdda005ab835b",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/69aeee44187fdda005ab835b_week1_2_vision.png",
-    "prolificId": "69aeee44187fdda005ab835b",
-    "week": "week1"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/69aeee44187fdda005ab835b_week1_4_portal.png",
-    "prolificId": "69aeee44187fdda005ab835b",
-    "week": "week1"
-  },
-  {
-    "word": "Accident",
-    "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/69f23d475d7d045f5cb57993_week1_0_accident.png",
-    "prolificId": "69f23d475d7d045f5cb57993",
-    "week": "week1"
-  },
-  {
-    "word": "Desire",
-    "source": "participant",
-    "path": "metaphor_drawings/DESIRE/69f23d475d7d045f5cb57993_week1_1_desire.png",
-    "prolificId": "69f23d475d7d045f5cb57993",
-    "week": "week1"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/69f23d475d7d045f5cb57993_week1_2_servant.png",
-    "prolificId": "69f23d475d7d045f5cb57993",
-    "week": "week1"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/69f23d475d7d045f5cb57993_week1_3_portal.png",
-    "prolificId": "69f23d475d7d045f5cb57993",
-    "week": "week1"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/6a17ef7a42d9430a6ce702b3_week1_0_vision.png",
-    "prolificId": "6a17ef7a42d9430a6ce702b3",
-    "week": "week1"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/6a17ef7a42d9430a6ce702b3_week1_1_servant.png",
-    "prolificId": "6a17ef7a42d9430a6ce702b3",
-    "week": "week1"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/6a17ef7a42d9430a6ce702b3_week1_2_contamination.png",
-    "prolificId": "6a17ef7a42d9430a6ce702b3",
-    "week": "week1"
-  },
-  {
-    "word": "Accident",
-    "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/6a17ef7a42d9430a6ce702b3_week1_3_accident.png",
-    "prolificId": "6a17ef7a42d9430a6ce702b3",
+    "path": "metaphor_drawings/ABYSS/P336_week1_2_abyss.png",
+    "pid": "P336",
     "week": "week1"
   },
   {
     "word": "Darkness",
     "source": "participant",
-    "path": "metaphor_drawings/DARKNESS/6a33b09ff82320e683ac7afa_week1_0_darkness.png",
-    "prolificId": "6a33b09ff82320e683ac7afa",
-    "week": "week1"
-  },
-  {
-    "word": "Protection",
-    "source": "participant",
-    "path": "metaphor_drawings/PROTECTION/6a33b09ff82320e683ac7afa_week1_1_protection.png",
-    "prolificId": "6a33b09ff82320e683ac7afa",
-    "week": "week1"
-  },
-  {
-    "word": "Energy",
-    "source": "participant",
-    "path": "metaphor_drawings/ENERGY/6a33b09ff82320e683ac7afa_week1_2_energy.png",
-    "prolificId": "6a33b09ff82320e683ac7afa",
+    "path": "metaphor_drawings/DARKNESS/P336_week1_3_darkness.png",
+    "pid": "P336",
     "week": "week1"
   },
   {
     "word": "Competition",
     "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/6a33b09ff82320e683ac7afa_week1_4_competition.png",
-    "prolificId": "6a33b09ff82320e683ac7afa",
+    "path": "metaphor_drawings/COMPETITION/P266_week1_0_competition.png",
+    "pid": "P266",
     "week": "week1"
-  },
-  {
-    "word": "Energy",
-    "source": "participant",
-    "path": "metaphor_drawings/ENERGY/6a3bca9db9b914cd457a8931_week1_0_energy.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week1"
-  },
-  {
-    "word": "Protection",
-    "source": "participant",
-    "path": "metaphor_drawings/PROTECTION/6a3bca9db9b914cd457a8931_week1_1_protection.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week1"
-  },
-  {
-    "word": "Struggle",
-    "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/6a3bca9db9b914cd457a8931_week1_2_struggle.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week1"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/6a3bca9db9b914cd457a8931_week1_4_portal.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week1"
-  },
-  {
-    "word": "Journey",
-    "source": "participant",
-    "path": "metaphor_drawings/JOURNEY/6a3bca9db9b914cd457a8931_week1_5_journey.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week1"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/6a3bca9db9b914cd457a8931_week1_6_business.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week1"
-  },
-  {
-    "word": "Protection",
-    "source": "participant",
-    "path": "metaphor_drawings/PROTECTION/5eaf3e142627076426921b1b_week2_0_protection.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week2"
-  },
-  {
-    "word": "Aversion",
-    "source": "participant",
-    "path": "metaphor_drawings/AVERSION/5eaf3e142627076426921b1b_week2_1_aversion.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week2"
-  },
-  {
-    "word": "Journey",
-    "source": "participant",
-    "path": "metaphor_drawings/JOURNEY/5eaf3e142627076426921b1b_week2_2_journey.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week2"
   },
   {
     "word": "Accident",
     "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/5eaf3e142627076426921b1b_week2_3_accident.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week2"
+    "path": "metaphor_drawings/ACCIDENT/P266_week1_1_accident.png",
+    "pid": "P266",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P266_week1_2_abyss.png",
+    "pid": "P266",
+    "week": "week1"
   },
   {
     "word": "Magic",
     "source": "participant",
-    "path": "metaphor_drawings/MAGIC/5eaf3e142627076426921b1b_week2_5_magic.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week2"
+    "path": "metaphor_drawings/MAGIC/P266_week1_3_magic.png",
+    "pid": "P266",
+    "week": "week1"
   },
   {
-    "word": "Vision",
+    "word": "Journey",
     "source": "participant",
-    "path": "metaphor_drawings/VISION/5eaf3e142627076426921b1b_week2_6_vision.png",
-    "prolificId": "5eaf3e142627076426921b1b",
-    "week": "week2"
+    "path": "metaphor_drawings/JOURNEY/P598_week1_0_journey.png",
+    "pid": "P598",
+    "week": "week1"
   },
   {
-    "word": "Servant",
+    "word": "Desire",
     "source": "participant",
-    "path": "metaphor_drawings/SERVANT/697c22b0d791500eab3ba84f_week2_0_servant.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week2"
+    "path": "metaphor_drawings/DESIRE/P598_week1_1_desire.png",
+    "pid": "P598",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P598_week1_2_control.png",
+    "pid": "P598",
+    "week": "week1"
   },
   {
     "word": "Disease",
     "source": "participant",
-    "path": "metaphor_drawings/DISEASE/697c22b0d791500eab3ba84f_week2_1_disease.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week2"
+    "path": "metaphor_drawings/DISEASE/P598_week1_3_disease.png",
+    "pid": "P598",
+    "week": "week1"
   },
   {
-    "word": "Abyss",
+    "word": "Energy",
     "source": "participant",
-    "path": "metaphor_drawings/ABYSS/697c22b0d791500eab3ba84f_week2_2_abyss.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week2"
+    "path": "metaphor_drawings/ENERGY/P599_week1_0_energy.png",
+    "pid": "P599",
+    "week": "week1"
   },
   {
-    "word": "Aversion",
+    "word": "Disease",
     "source": "participant",
-    "path": "metaphor_drawings/AVERSION/697c22b0d791500eab3ba84f_week2_4_aversion.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week2"
-  },
-  {
-    "word": "Competition",
-    "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/697c22b0d791500eab3ba84f_week2_5_competition.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week2"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/697c22b0d791500eab3ba84f_week2_6_contamination.png",
-    "prolificId": "697c22b0d791500eab3ba84f",
-    "week": "week2"
-  },
-  {
-    "word": "Desire",
-    "source": "participant",
-    "path": "metaphor_drawings/DESIRE/69807567eb81121725943cb6_week2_0_desire.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week2"
+    "path": "metaphor_drawings/DISEASE/P599_week1_1_disease.png",
+    "pid": "P599",
+    "week": "week1"
   },
   {
     "word": "Journey",
     "source": "participant",
-    "path": "metaphor_drawings/JOURNEY/69807567eb81121725943cb6_week2_1_journey.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week2"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/69807567eb81121725943cb6_week2_2_servant.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week2"
-  },
-  {
-    "word": "Accident",
-    "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/69807567eb81121725943cb6_week2_3_accident.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week2"
-  },
-  {
-    "word": "Magic",
-    "source": "participant",
-    "path": "metaphor_drawings/MAGIC/69807567eb81121725943cb6_week2_4_magic.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week2"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/69807567eb81121725943cb6_week2_6_abyss.png",
-    "prolificId": "69807567eb81121725943cb6",
-    "week": "week2"
-  },
-  {
-    "word": "Darkness",
-    "source": "participant",
-    "path": "metaphor_drawings/DARKNESS/698078075d3326e1b30bd1c3_week2_0_darkness.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week2"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/698078075d3326e1b30bd1c3_week2_1_portal.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week2"
-  },
-  {
-    "word": "Accident",
-    "source": "participant",
-    "path": "metaphor_drawings/ACCIDENT/698078075d3326e1b30bd1c3_week2_2_accident.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week2"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/698078075d3326e1b30bd1c3_week2_3_contamination.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week2"
-  },
-  {
-    "word": "Struggle",
-    "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/698078075d3326e1b30bd1c3_week2_5_struggle.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week2"
-  },
-  {
-    "word": "Competition",
-    "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/698078075d3326e1b30bd1c3_week2_6_competition.png",
-    "prolificId": "698078075d3326e1b30bd1c3",
-    "week": "week2"
-  },
-  {
-    "word": "Darkness",
-    "source": "participant",
-    "path": "metaphor_drawings/DARKNESS/69807c1bd32263ea499f148a_week2_0_darkness.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week2"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/69807c1bd32263ea499f148a_week2_1_business.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week2"
-  },
-  {
-    "word": "Control",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTROL/69807c1bd32263ea499f148a_week2_2_control.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week2"
-  },
-  {
-    "word": "Servant",
-    "source": "participant",
-    "path": "metaphor_drawings/SERVANT/69807c1bd32263ea499f148a_week2_3_servant.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week2"
-  },
-  {
-    "word": "Energy",
-    "source": "participant",
-    "path": "metaphor_drawings/ENERGY/69807c1bd32263ea499f148a_week2_5_energy.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week2"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/69807c1bd32263ea499f148a_week2_6_abyss.png",
-    "prolificId": "69807c1bd32263ea499f148a",
-    "week": "week2"
-  },
-  {
-    "word": "Competition",
-    "source": "participant",
-    "path": "metaphor_drawings/COMPETITION/6980aaf81e9e55110e09a0be_week2_0_competition.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week2"
-  },
-  {
-    "word": "Business",
-    "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/6980aaf81e9e55110e09a0be_week2_1_business.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week2"
-  },
-  {
-    "word": "Contamination",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTAMINATION/6980aaf81e9e55110e09a0be_week2_2_contamination.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week2"
-  },
-  {
-    "word": "Control",
-    "source": "participant",
-    "path": "metaphor_drawings/CONTROL/6980aaf81e9e55110e09a0be_week2_3_control.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week2"
-  },
-  {
-    "word": "Aversion",
-    "source": "participant",
-    "path": "metaphor_drawings/AVERSION/6980aaf81e9e55110e09a0be_week2_4_aversion.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week2"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/6980aaf81e9e55110e09a0be_week2_6_vision.png",
-    "prolificId": "6980aaf81e9e55110e09a0be",
-    "week": "week2"
-  },
-  {
-    "word": "Darkness",
-    "source": "participant",
-    "path": "metaphor_drawings/DARKNESS/6980af677f354d61464c3d0e_week2_0_darkness.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week2"
-  },
-  {
-    "word": "Portal",
-    "source": "participant",
-    "path": "metaphor_drawings/PORTAL/6980af677f354d61464c3d0e_week2_1_portal.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week2"
-  },
-  {
-    "word": "Struggle",
-    "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/6980af677f354d61464c3d0e_week2_2_struggle.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week2"
-  },
-  {
-    "word": "Abyss",
-    "source": "participant",
-    "path": "metaphor_drawings/ABYSS/6980af677f354d61464c3d0e_week2_4_abyss.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week2"
-  },
-  {
-    "word": "Aversion",
-    "source": "participant",
-    "path": "metaphor_drawings/AVERSION/6980af677f354d61464c3d0e_week2_5_aversion.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week2"
-  },
-  {
-    "word": "Vision",
-    "source": "participant",
-    "path": "metaphor_drawings/VISION/6980af677f354d61464c3d0e_week2_6_vision.png",
-    "prolificId": "6980af677f354d61464c3d0e",
-    "week": "week2"
-  },
-  {
-    "word": "Energy",
-    "source": "participant",
-    "path": "metaphor_drawings/ENERGY/6a3bca9db9b914cd457a8931_week2_0_energy.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week2"
+    "path": "metaphor_drawings/JOURNEY/P599_week1_2_journey.png",
+    "pid": "P599",
+    "week": "week1"
   },
   {
     "word": "Protection",
     "source": "participant",
-    "path": "metaphor_drawings/PROTECTION/6a3bca9db9b914cd457a8931_week2_1_protection.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week2"
+    "path": "metaphor_drawings/PROTECTION/P599_week1_3_protection.png",
+    "pid": "P599",
+    "week": "week1"
   },
   {
-    "word": "Struggle",
+    "word": "Magic",
     "source": "participant",
-    "path": "metaphor_drawings/STRUGGLE/6a3bca9db9b914cd457a8931_week2_2_struggle.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week2"
+    "path": "metaphor_drawings/MAGIC/P486_week1_0_magic.png",
+    "pid": "P486",
+    "week": "week1"
   },
   {
-    "word": "Portal",
+    "word": "Protection",
     "source": "participant",
-    "path": "metaphor_drawings/PORTAL/6a3bca9db9b914cd457a8931_week2_4_portal.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week2"
-  },
-  {
-    "word": "Journey",
-    "source": "participant",
-    "path": "metaphor_drawings/JOURNEY/6a3bca9db9b914cd457a8931_week2_5_journey.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week2"
+    "path": "metaphor_drawings/PROTECTION/P486_week1_1_protection.png",
+    "pid": "P486",
+    "week": "week1"
   },
   {
     "word": "Business",
     "source": "participant",
-    "path": "metaphor_drawings/BUSINESS/6a3bca9db9b914cd457a8931_week2_6_business.png",
-    "prolificId": "6a3bca9db9b914cd457a8931",
-    "week": "week2"
+    "path": "metaphor_drawings/BUSINESS/P486_week1_2_business.png",
+    "pid": "P486",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P486_week1_3_contamination.png",
+    "pid": "P486",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P550_week1_0_competition.png",
+    "pid": "P550",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P550_week1_1_disease.png",
+    "pid": "P550",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P550_week1_2_protection.png",
+    "pid": "P550",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P550_week1_3_abyss.png",
+    "pid": "P550",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P551_week1_0_business.png",
+    "pid": "P551",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P551_week1_1_contamination.png",
+    "pid": "P551",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P551_week1_2_abyss.png",
+    "pid": "P551",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P551_week1_3_portal.png",
+    "pid": "P551",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P600_week1_0_contamination.png",
+    "pid": "P600",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P600_week1_1_disease.png",
+    "pid": "P600",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P600_week1_2_journey.png",
+    "pid": "P600",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P600_week1_3_struggle.png",
+    "pid": "P600",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P267_week1_0_darkness.png",
+    "pid": "P267",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P267_week1_1_servant.png",
+    "pid": "P267",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P267_week1_2_energy.png",
+    "pid": "P267",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P267_week1_3_control.png",
+    "pid": "P267",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P337_week1_0_desire.png",
+    "pid": "P337",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P337_week1_1_competition.png",
+    "pid": "P337",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P337_week1_2_accident.png",
+    "pid": "P337",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P337_week1_3_magic.png",
+    "pid": "P337",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P303_week1_0_magic.png",
+    "pid": "P303",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P303_week1_1_control.png",
+    "pid": "P303",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P303_week1_2_portal.png",
+    "pid": "P303",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P303_week1_3_contamination.png",
+    "pid": "P303",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P422_week1_0_disease.png",
+    "pid": "P422",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P422_week1_1_control.png",
+    "pid": "P422",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P422_week1_2_aversion.png",
+    "pid": "P422",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P422_week1_3_business.png",
+    "pid": "P422",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P488_week1_0_struggle.png",
+    "pid": "P488",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P488_week1_1_portal.png",
+    "pid": "P488",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P488_week1_2_energy.png",
+    "pid": "P488",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P488_week1_3_journey.png",
+    "pid": "P488",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P489_week1_0_desire.png",
+    "pid": "P489",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P489_week1_1_business.png",
+    "pid": "P489",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P489_week1_2_contamination.png",
+    "pid": "P489",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P489_week1_3_magic.png",
+    "pid": "P489",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P490_week1_0_struggle.png",
+    "pid": "P490",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P490_week1_1_vision.png",
+    "pid": "P490",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P490_week1_2_desire.png",
+    "pid": "P490",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P490_week1_3_journey.png",
+    "pid": "P490",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P423_week1_0_struggle.png",
+    "pid": "P423",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P423_week1_1_disease.png",
+    "pid": "P423",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P423_week1_2_protection.png",
+    "pid": "P423",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P423_week1_3_portal.png",
+    "pid": "P423",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P372_week1_0_abyss.png",
+    "pid": "P372",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P372_week1_1_competition.png",
+    "pid": "P372",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P372_week1_2_energy.png",
+    "pid": "P372",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P372_week1_3_portal.png",
+    "pid": "P372",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P426_week1_0_energy.png",
+    "pid": "P426",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P426_week1_1_competition.png",
+    "pid": "P426",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P426_week1_2_journey.png",
+    "pid": "P426",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P426_week1_3_aversion.png",
+    "pid": "P426",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P338_week1_0_servant.png",
+    "pid": "P338",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P338_week1_1_protection.png",
+    "pid": "P338",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P338_week1_2_competition.png",
+    "pid": "P338",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P338_week1_3_contamination.png",
+    "pid": "P338",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P427_week1_0_contamination.png",
+    "pid": "P427",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P427_week1_1_magic.png",
+    "pid": "P427",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P427_week1_2_struggle.png",
+    "pid": "P427",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P427_week1_3_darkness.png",
+    "pid": "P427",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P491_week1_0_contamination.png",
+    "pid": "P491",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P491_week1_1_aversion.png",
+    "pid": "P491",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P491_week1_2_disease.png",
+    "pid": "P491",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P491_week1_3_magic.png",
+    "pid": "P491",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P492_week1_0_energy.png",
+    "pid": "P492",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P492_week1_1_aversion.png",
+    "pid": "P492",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P492_week1_2_journey.png",
+    "pid": "P492",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P492_week1_3_business.png",
+    "pid": "P492",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P493_week1_0_disease.png",
+    "pid": "P493",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P493_week1_1_darkness.png",
+    "pid": "P493",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P493_week1_2_energy.png",
+    "pid": "P493",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P493_week1_3_control.png",
+    "pid": "P493",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P374_week1_0_portal.png",
+    "pid": "P374",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P374_week1_1_abyss.png",
+    "pid": "P374",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P374_week1_2_energy.png",
+    "pid": "P374",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P374_week1_3_magic.png",
+    "pid": "P374",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P375_week1_0_struggle.png",
+    "pid": "P375",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P375_week1_1_disease.png",
+    "pid": "P375",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P375_week1_2_abyss.png",
+    "pid": "P375",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P375_week1_3_business.png",
+    "pid": "P375",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P428_week1_0_servant.png",
+    "pid": "P428",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P428_week1_1_accident.png",
+    "pid": "P428",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P428_week1_2_protection.png",
+    "pid": "P428",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P428_week1_3_competition.png",
+    "pid": "P428",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P606_week1_0_disease.png",
+    "pid": "P606",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P606_week1_1_abyss.png",
+    "pid": "P606",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P606_week1_2_contamination.png",
+    "pid": "P606",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P606_week1_3_business.png",
+    "pid": "P606",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P556_week1_0_protection.png",
+    "pid": "P556",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P556_week1_1_abyss.png",
+    "pid": "P556",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P556_week1_2_vision.png",
+    "pid": "P556",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P556_week1_3_journey.png",
+    "pid": "P556",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P497_week1_0_vision.png",
+    "pid": "P497",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P497_week1_1_energy.png",
+    "pid": "P497",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P497_week1_2_portal.png",
+    "pid": "P497",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P497_week1_3_abyss.png",
+    "pid": "P497",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P377_week1_0_portal.png",
+    "pid": "P377",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P377_week1_1_disease.png",
+    "pid": "P377",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P377_week1_2_struggle.png",
+    "pid": "P377",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P377_week1_3_aversion.png",
+    "pid": "P377",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P607_week1_0_journey.png",
+    "pid": "P607",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P607_week1_1_desire.png",
+    "pid": "P607",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P607_week1_2_protection.png",
+    "pid": "P607",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P607_week1_3_servant.png",
+    "pid": "P607",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P341_week1_0_protection.png",
+    "pid": "P341",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P341_week1_1_magic.png",
+    "pid": "P341",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P341_week1_2_aversion.png",
+    "pid": "P341",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P341_week1_3_darkness.png",
+    "pid": "P341",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P558_week1_0_darkness.png",
+    "pid": "P558",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P558_week1_1_control.png",
+    "pid": "P558",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P558_week1_2_desire.png",
+    "pid": "P558",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P558_week1_3_magic.png",
+    "pid": "P558",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P498_week1_0_desire.png",
+    "pid": "P498",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P498_week1_1_servant.png",
+    "pid": "P498",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P498_week1_2_business.png",
+    "pid": "P498",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P498_week1_3_aversion.png",
+    "pid": "P498",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P260_week1_0_protection.png",
+    "pid": "P260",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P260_week1_1_servant.png",
+    "pid": "P260",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P260_week1_2_business.png",
+    "pid": "P260",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P260_week1_3_struggle.png",
+    "pid": "P260",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P499_week1_0_competition.png",
+    "pid": "P499",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P500_week1_0_abyss.png",
+    "pid": "P500",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P500_week1_1_contamination.png",
+    "pid": "P500",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P500_week1_2_servant.png",
+    "pid": "P500",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P500_week1_3_disease.png",
+    "pid": "P500",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P379_week1_0_abyss.png",
+    "pid": "P379",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P379_week1_1_portal.png",
+    "pid": "P379",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P379_week1_2_energy.png",
+    "pid": "P379",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P379_week1_3_competition.png",
+    "pid": "P379",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P501_week1_0_darkness.png",
+    "pid": "P501",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P501_week1_1_contamination.png",
+    "pid": "P501",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P501_week1_2_journey.png",
+    "pid": "P501",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P501_week1_3_accident.png",
+    "pid": "P501",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P503_week1_0_business.png",
+    "pid": "P503",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P503_week1_1_disease.png",
+    "pid": "P503",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P503_week1_2_protection.png",
+    "pid": "P503",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P503_week1_3_energy.png",
+    "pid": "P503",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P559_week1_0_magic.png",
+    "pid": "P559",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P559_week1_1_accident.png",
+    "pid": "P559",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P559_week1_2_journey.png",
+    "pid": "P559",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P559_week1_3_contamination.png",
+    "pid": "P559",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P435_week1_0_disease.png",
+    "pid": "P435",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P435_week1_1_energy.png",
+    "pid": "P435",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P435_week1_2_control.png",
+    "pid": "P435",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P435_week1_3_portal.png",
+    "pid": "P435",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P274_week1_0_struggle.png",
+    "pid": "P274",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P274_week1_1_energy.png",
+    "pid": "P274",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P274_week1_2_servant.png",
+    "pid": "P274",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P274_week1_3_competition.png",
+    "pid": "P274",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P436_week1_0_accident.png",
+    "pid": "P436",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P436_week1_1_servant.png",
+    "pid": "P436",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P436_week1_2_disease.png",
+    "pid": "P436",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P436_week1_3_desire.png",
+    "pid": "P436",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P240_week1_0_servant.png",
+    "pid": "P240",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P240_week1_1_business.png",
+    "pid": "P240",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P240_week1_2_abyss.png",
+    "pid": "P240",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P240_week1_3_aversion.png",
+    "pid": "P240",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P560_week1_0_control.png",
+    "pid": "P560",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P560_week1_1_energy.png",
+    "pid": "P560",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P560_week1_2_servant.png",
+    "pid": "P560",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P560_week1_3_magic.png",
+    "pid": "P560",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P611_week1_0_servant.png",
+    "pid": "P611",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P611_week1_1_aversion.png",
+    "pid": "P611",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P611_week1_2_magic.png",
+    "pid": "P611",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P611_week1_3_protection.png",
+    "pid": "P611",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P437_week1_0_control.png",
+    "pid": "P437",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P437_week1_1_magic.png",
+    "pid": "P437",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P437_week1_2_journey.png",
+    "pid": "P437",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P437_week1_3_desire.png",
+    "pid": "P437",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P438_week1_0_aversion.png",
+    "pid": "P438",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P438_week1_1_accident.png",
+    "pid": "P438",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P438_week1_2_competition.png",
+    "pid": "P438",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P438_week1_3_magic.png",
+    "pid": "P438",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P241_week1_0_darkness.png",
+    "pid": "P241",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P241_week1_1_business.png",
+    "pid": "P241",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P241_week1_2_energy.png",
+    "pid": "P241",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P241_week1_3_aversion.png",
+    "pid": "P241",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P439_week1_0_magic.png",
+    "pid": "P439",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P439_week1_1_aversion.png",
+    "pid": "P439",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P439_week1_2_competition.png",
+    "pid": "P439",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P439_week1_3_control.png",
+    "pid": "P439",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P506_week1_0_aversion.png",
+    "pid": "P506",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P506_week1_1_desire.png",
+    "pid": "P506",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P506_week1_2_competition.png",
+    "pid": "P506",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P506_week1_3_journey.png",
+    "pid": "P506",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P561_week1_0_portal.png",
+    "pid": "P561",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P561_week1_1_business.png",
+    "pid": "P561",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P561_week1_2_desire.png",
+    "pid": "P561",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P561_week1_3_aversion.png",
+    "pid": "P561",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P440_week1_0_vision.png",
+    "pid": "P440",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P440_week1_1_contamination.png",
+    "pid": "P440",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P440_week1_2_portal.png",
+    "pid": "P440",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P440_week1_3_struggle.png",
+    "pid": "P440",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P442_week1_0_accident.png",
+    "pid": "P442",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P442_week1_1_vision.png",
+    "pid": "P442",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P442_week1_2_abyss.png",
+    "pid": "P442",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P442_week1_3_magic.png",
+    "pid": "P442",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P562_week1_0_abyss.png",
+    "pid": "P562",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P562_week1_1_struggle.png",
+    "pid": "P562",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P562_week1_2_business.png",
+    "pid": "P562",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P562_week1_3_servant.png",
+    "pid": "P562",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P344_week1_0_competition.png",
+    "pid": "P344",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P344_week1_1_desire.png",
+    "pid": "P344",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P344_week1_2_contamination.png",
+    "pid": "P344",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P344_week1_3_disease.png",
+    "pid": "P344",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P444_week1_0_protection.png",
+    "pid": "P444",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P444_week1_1_journey.png",
+    "pid": "P444",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P444_week1_2_portal.png",
+    "pid": "P444",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P444_week1_3_control.png",
+    "pid": "P444",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P613_week1_0_servant.png",
+    "pid": "P613",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P613_week1_1_struggle.png",
+    "pid": "P613",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P613_week1_2_protection.png",
+    "pid": "P613",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P613_week1_3_business.png",
+    "pid": "P613",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P563_week1_0_disease.png",
+    "pid": "P563",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P563_week1_1_abyss.png",
+    "pid": "P563",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P563_week1_2_energy.png",
+    "pid": "P563",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P563_week1_3_darkness.png",
+    "pid": "P563",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P509_week1_0_aversion.png",
+    "pid": "P509",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P509_week1_1_business.png",
+    "pid": "P509",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P509_week1_2_accident.png",
+    "pid": "P509",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P509_week1_3_portal.png",
+    "pid": "P509",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P614_week1_0_control.png",
+    "pid": "P614",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P614_week1_1_magic.png",
+    "pid": "P614",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P614_week1_2_abyss.png",
+    "pid": "P614",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P614_week1_3_darkness.png",
+    "pid": "P614",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P446_week1_0_energy.png",
+    "pid": "P446",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P446_week1_1_vision.png",
+    "pid": "P446",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P446_week1_2_journey.png",
+    "pid": "P446",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P446_week1_3_protection.png",
+    "pid": "P446",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P564_week1_0_accident.png",
+    "pid": "P564",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P564_week1_1_vision.png",
+    "pid": "P564",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P564_week1_2_darkness.png",
+    "pid": "P564",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P564_week1_3_energy.png",
+    "pid": "P564",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P512_week1_0_magic.png",
+    "pid": "P512",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P512_week1_1_control.png",
+    "pid": "P512",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P512_week1_2_abyss.png",
+    "pid": "P512",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P512_week1_3_darkness.png",
+    "pid": "P512",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P447_week1_0_vision.png",
+    "pid": "P447",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P447_week1_1_aversion.png",
+    "pid": "P447",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P447_week1_2_journey.png",
+    "pid": "P447",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P447_week1_3_accident.png",
+    "pid": "P447",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P615_week1_0_control.png",
+    "pid": "P615",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P615_week1_1_journey.png",
+    "pid": "P615",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P615_week1_2_vision.png",
+    "pid": "P615",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P615_week1_3_contamination.png",
+    "pid": "P615",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P515_week1_0_accident.png",
+    "pid": "P515",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P515_week1_1_competition.png",
+    "pid": "P515",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P515_week1_2_protection.png",
+    "pid": "P515",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P515_week1_3_vision.png",
+    "pid": "P515",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P516_week1_0_control.png",
+    "pid": "P516",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P516_week1_1_darkness.png",
+    "pid": "P516",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P516_week1_2_struggle.png",
+    "pid": "P516",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P516_week1_3_business.png",
+    "pid": "P516",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P565_week1_0_protection.png",
+    "pid": "P565",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P565_week1_1_aversion.png",
+    "pid": "P565",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P565_week1_2_journey.png",
+    "pid": "P565",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P565_week1_3_darkness.png",
+    "pid": "P565",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P518_week1_0_aversion.png",
+    "pid": "P518",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P518_week1_1_journey.png",
+    "pid": "P518",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P518_week1_2_competition.png",
+    "pid": "P518",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P518_week1_3_struggle.png",
+    "pid": "P518",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P566_week1_0_disease.png",
+    "pid": "P566",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P566_week1_1_accident.png",
+    "pid": "P566",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P566_week1_2_abyss.png",
+    "pid": "P566",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P566_week1_3_competition.png",
+    "pid": "P566",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P383_week1_0_accident.png",
+    "pid": "P383",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P383_week1_1_abyss.png",
+    "pid": "P383",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P383_week1_2_magic.png",
+    "pid": "P383",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P383_week1_3_journey.png",
+    "pid": "P383",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P448_week1_0_vision.png",
+    "pid": "P448",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P448_week1_1_magic.png",
+    "pid": "P448",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P448_week1_2_contamination.png",
+    "pid": "P448",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P448_week1_3_accident.png",
+    "pid": "P448",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P334_week1_0_servant.png",
+    "pid": "P334",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P334_week1_1_energy.png",
+    "pid": "P334",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P334_week1_2_business.png",
+    "pid": "P334",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P334_week1_3_desire.png",
+    "pid": "P334",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P305_week1_0_competition.png",
+    "pid": "P305",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P305_week1_1_energy.png",
+    "pid": "P305",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P305_week1_2_abyss.png",
+    "pid": "P305",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P305_week1_3_vision.png",
+    "pid": "P305",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P520_week1_0_abyss.png",
+    "pid": "P520",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P520_week1_1_disease.png",
+    "pid": "P520",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P520_week1_2_energy.png",
+    "pid": "P520",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P520_week1_3_magic.png",
+    "pid": "P520",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P521_week1_0_contamination.png",
+    "pid": "P521",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P521_week1_1_accident.png",
+    "pid": "P521",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P521_week1_2_competition.png",
+    "pid": "P521",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P521_week1_3_servant.png",
+    "pid": "P521",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P522_week1_0_journey.png",
+    "pid": "P522",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P522_week1_1_competition.png",
+    "pid": "P522",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P522_week1_2_energy.png",
+    "pid": "P522",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P522_week1_3_accident.png",
+    "pid": "P522",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P616_week1_0_protection.png",
+    "pid": "P616",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P616_week1_1_contamination.png",
+    "pid": "P616",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P616_week1_2_competition.png",
+    "pid": "P616",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P616_week1_3_disease.png",
+    "pid": "P616",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P452_week1_0_servant.png",
+    "pid": "P452",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P452_week1_1_contamination.png",
+    "pid": "P452",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P452_week1_2_struggle.png",
+    "pid": "P452",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P452_week1_3_competition.png",
+    "pid": "P452",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P523_week1_0_disease.png",
+    "pid": "P523",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P523_week1_1_desire.png",
+    "pid": "P523",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P523_week1_2_darkness.png",
+    "pid": "P523",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P523_week1_3_aversion.png",
+    "pid": "P523",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P384_week1_0_servant.png",
+    "pid": "P384",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P384_week1_1_portal.png",
+    "pid": "P384",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P384_week1_2_protection.png",
+    "pid": "P384",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P384_week1_3_accident.png",
+    "pid": "P384",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P453_week1_0_servant.png",
+    "pid": "P453",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P453_week1_1_struggle.png",
+    "pid": "P453",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P453_week1_2_protection.png",
+    "pid": "P453",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P453_week1_3_darkness.png",
+    "pid": "P453",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P567_week1_0_darkness.png",
+    "pid": "P567",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P567_week1_1_energy.png",
+    "pid": "P567",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P567_week1_2_accident.png",
+    "pid": "P567",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P567_week1_3_servant.png",
+    "pid": "P567",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P525_week1_0_darkness.png",
+    "pid": "P525",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P525_week1_1_magic.png",
+    "pid": "P525",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P525_week1_2_control.png",
+    "pid": "P525",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P525_week1_3_struggle.png",
+    "pid": "P525",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P454_week1_0_journey.png",
+    "pid": "P454",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P454_week1_1_control.png",
+    "pid": "P454",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P454_week1_2_portal.png",
+    "pid": "P454",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P454_week1_3_desire.png",
+    "pid": "P454",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P346_week1_0_journey.png",
+    "pid": "P346",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P346_week1_1_abyss.png",
+    "pid": "P346",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P346_week1_2_contamination.png",
+    "pid": "P346",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P346_week1_3_business.png",
+    "pid": "P346",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P385_week1_0_darkness.png",
+    "pid": "P385",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P385_week1_1_control.png",
+    "pid": "P385",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P385_week1_2_disease.png",
+    "pid": "P385",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P385_week1_3_struggle.png",
+    "pid": "P385",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P243_week1_0_contamination.png",
+    "pid": "P243",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P243_week1_1_abyss.png",
+    "pid": "P243",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P243_week1_2_portal.png",
+    "pid": "P243",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P243_week1_3_darkness.png",
+    "pid": "P243",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P386_week1_0_aversion.png",
+    "pid": "P386",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P386_week1_1_portal.png",
+    "pid": "P386",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P386_week1_2_competition.png",
+    "pid": "P386",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P386_week1_3_protection.png",
+    "pid": "P386",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P457_week1_0_desire.png",
+    "pid": "P457",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P457_week1_1_protection.png",
+    "pid": "P457",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P457_week1_2_business.png",
+    "pid": "P457",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P457_week1_3_journey.png",
+    "pid": "P457",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P387_week1_0_energy.png",
+    "pid": "P387",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P387_week1_1_vision.png",
+    "pid": "P387",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P387_week1_2_abyss.png",
+    "pid": "P387",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P387_week1_3_business.png",
+    "pid": "P387",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P527_week1_0_portal.png",
+    "pid": "P527",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P527_week1_1_aversion.png",
+    "pid": "P527",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P527_week1_2_contamination.png",
+    "pid": "P527",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P527_week1_3_servant.png",
+    "pid": "P527",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P528_week1_0_disease.png",
+    "pid": "P528",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P528_week1_1_contamination.png",
+    "pid": "P528",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P528_week1_2_portal.png",
+    "pid": "P528",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P528_week1_3_aversion.png",
+    "pid": "P528",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P347_week1_0_magic.png",
+    "pid": "P347",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P347_week1_1_protection.png",
+    "pid": "P347",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P347_week1_2_energy.png",
+    "pid": "P347",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P347_week1_3_portal.png",
+    "pid": "P347",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P459_week1_0_portal.png",
+    "pid": "P459",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P459_week1_1_control.png",
+    "pid": "P459",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P459_week1_2_magic.png",
+    "pid": "P459",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P459_week1_3_protection.png",
+    "pid": "P459",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P617_week1_0_disease.png",
+    "pid": "P617",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P617_week1_1_accident.png",
+    "pid": "P617",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P617_week1_2_magic.png",
+    "pid": "P617",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P617_week1_3_energy.png",
+    "pid": "P617",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P569_week1_0_struggle.png",
+    "pid": "P569",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P569_week1_1_competition.png",
+    "pid": "P569",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P569_week1_2_portal.png",
+    "pid": "P569",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P569_week1_3_aversion.png",
+    "pid": "P569",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P570_week1_0_business.png",
+    "pid": "P570",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P570_week1_1_contamination.png",
+    "pid": "P570",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P570_week1_2_struggle.png",
+    "pid": "P570",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P570_week1_3_journey.png",
+    "pid": "P570",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P388_week1_0_vision.png",
+    "pid": "P388",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P388_week1_1_aversion.png",
+    "pid": "P388",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P388_week1_2_darkness.png",
+    "pid": "P388",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P388_week1_3_energy.png",
+    "pid": "P388",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P571_week1_0_contamination.png",
+    "pid": "P571",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P571_week1_1_aversion.png",
+    "pid": "P571",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P571_week1_2_journey.png",
+    "pid": "P571",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P571_week1_3_magic.png",
+    "pid": "P571",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P280_week1_0_disease.png",
+    "pid": "P280",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P280_week1_1_accident.png",
+    "pid": "P280",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P280_week1_2_business.png",
+    "pid": "P280",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P280_week1_3_desire.png",
+    "pid": "P280",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P307_week1_0_disease.png",
+    "pid": "P307",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P307_week1_1_accident.png",
+    "pid": "P307",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P307_week1_2_control.png",
+    "pid": "P307",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P307_week1_3_vision.png",
+    "pid": "P307",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P572_week1_0_vision.png",
+    "pid": "P572",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P572_week1_1_control.png",
+    "pid": "P572",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P572_week1_2_accident.png",
+    "pid": "P572",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P572_week1_3_competition.png",
+    "pid": "P572",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P244_week1_0_desire.png",
+    "pid": "P244",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P244_week1_1_journey.png",
+    "pid": "P244",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P244_week1_2_aversion.png",
+    "pid": "P244",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P244_week1_3_servant.png",
+    "pid": "P244",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P620_week1_0_control.png",
+    "pid": "P620",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P620_week1_1_servant.png",
+    "pid": "P620",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P620_week1_2_contamination.png",
+    "pid": "P620",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P620_week1_3_magic.png",
+    "pid": "P620",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P390_week1_0_disease.png",
+    "pid": "P390",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P390_week1_1_journey.png",
+    "pid": "P390",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P390_week1_2_struggle.png",
+    "pid": "P390",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P390_week1_3_accident.png",
+    "pid": "P390",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P462_week1_0_contamination.png",
+    "pid": "P462",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P462_week1_1_vision.png",
+    "pid": "P462",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P462_week1_2_accident.png",
+    "pid": "P462",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P462_week1_3_competition.png",
+    "pid": "P462",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P309_week1_0_journey.png",
+    "pid": "P309",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P309_week1_1_contamination.png",
+    "pid": "P309",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P309_week1_2_business.png",
+    "pid": "P309",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P309_week1_3_accident.png",
+    "pid": "P309",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P624_week1_0_contamination.png",
+    "pid": "P624",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P624_week1_1_magic.png",
+    "pid": "P624",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P624_week1_2_accident.png",
+    "pid": "P624",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P624_week1_3_servant.png",
+    "pid": "P624",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P576_week1_0_abyss.png",
+    "pid": "P576",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P576_week1_1_business.png",
+    "pid": "P576",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P576_week1_2_servant.png",
+    "pid": "P576",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P576_week1_3_accident.png",
+    "pid": "P576",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P247_week1_0_servant.png",
+    "pid": "P247",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P247_week1_1_vision.png",
+    "pid": "P247",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P247_week1_2_abyss.png",
+    "pid": "P247",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P247_week1_3_desire.png",
+    "pid": "P247",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P248_week1_0_disease.png",
+    "pid": "P248",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P248_week1_1_protection.png",
+    "pid": "P248",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P248_week1_2_accident.png",
+    "pid": "P248",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P248_week1_3_servant.png",
+    "pid": "P248",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P349_week1_0_contamination.png",
+    "pid": "P349",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P349_week1_1_energy.png",
+    "pid": "P349",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P349_week1_2_servant.png",
+    "pid": "P349",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P349_week1_3_darkness.png",
+    "pid": "P349",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P311_week1_0_magic.png",
+    "pid": "P311",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P311_week1_1_control.png",
+    "pid": "P311",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P311_week1_2_aversion.png",
+    "pid": "P311",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P311_week1_3_business.png",
+    "pid": "P311",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P393_week1_0_accident.png",
+    "pid": "P393",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P393_week1_1_servant.png",
+    "pid": "P393",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P393_week1_2_protection.png",
+    "pid": "P393",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P393_week1_3_vision.png",
+    "pid": "P393",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P351_week1_0_control.png",
+    "pid": "P351",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P351_week1_1_disease.png",
+    "pid": "P351",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P351_week1_2_darkness.png",
+    "pid": "P351",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P351_week1_3_abyss.png",
+    "pid": "P351",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P352_week1_0_disease.png",
+    "pid": "P352",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P352_week1_1_business.png",
+    "pid": "P352",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P352_week1_2_aversion.png",
+    "pid": "P352",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P352_week1_3_abyss.png",
+    "pid": "P352",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P353_week1_0_protection.png",
+    "pid": "P353",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P353_week1_1_servant.png",
+    "pid": "P353",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P353_week1_2_accident.png",
+    "pid": "P353",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P353_week1_3_vision.png",
+    "pid": "P353",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P396_week1_0_accident.png",
+    "pid": "P396",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P396_week1_1_struggle.png",
+    "pid": "P396",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P396_week1_2_portal.png",
+    "pid": "P396",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P396_week1_3_servant.png",
+    "pid": "P396",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P625_week1_0_aversion.png",
+    "pid": "P625",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P625_week1_1_disease.png",
+    "pid": "P625",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P625_week1_2_competition.png",
+    "pid": "P625",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P625_week1_3_control.png",
+    "pid": "P625",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P249_week1_0_competition.png",
+    "pid": "P249",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P249_week1_1_protection.png",
+    "pid": "P249",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P249_week1_2_aversion.png",
+    "pid": "P249",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P249_week1_3_business.png",
+    "pid": "P249",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P579_week1_0_disease.png",
+    "pid": "P579",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P579_week1_1_struggle.png",
+    "pid": "P579",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P579_week1_2_control.png",
+    "pid": "P579",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P579_week1_3_vision.png",
+    "pid": "P579",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P398_week1_0_magic.png",
+    "pid": "P398",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P398_week1_1_abyss.png",
+    "pid": "P398",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P398_week1_2_contamination.png",
+    "pid": "P398",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P398_week1_3_journey.png",
+    "pid": "P398",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P313_week1_0_protection.png",
+    "pid": "P313",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P313_week1_1_competition.png",
+    "pid": "P313",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P313_week1_2_energy.png",
+    "pid": "P313",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P313_week1_3_portal.png",
+    "pid": "P313",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P354_week1_0_abyss.png",
+    "pid": "P354",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P354_week1_1_struggle.png",
+    "pid": "P354",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P354_week1_2_magic.png",
+    "pid": "P354",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P354_week1_3_darkness.png",
+    "pid": "P354",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P464_week1_0_competition.png",
+    "pid": "P464",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P464_week1_1_magic.png",
+    "pid": "P464",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P464_week1_2_struggle.png",
+    "pid": "P464",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P464_week1_3_desire.png",
+    "pid": "P464",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P626_week1_0_portal.png",
+    "pid": "P626",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P626_week1_1_energy.png",
+    "pid": "P626",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P626_week1_2_abyss.png",
+    "pid": "P626",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P626_week1_3_disease.png",
+    "pid": "P626",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P399_week1_0_struggle.png",
+    "pid": "P399",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P399_week1_1_magic.png",
+    "pid": "P399",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P399_week1_2_business.png",
+    "pid": "P399",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P399_week1_3_aversion.png",
+    "pid": "P399",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P466_week1_0_disease.png",
+    "pid": "P466",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P466_week1_1_servant.png",
+    "pid": "P466",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P466_week1_2_accident.png",
+    "pid": "P466",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P466_week1_3_contamination.png",
+    "pid": "P466",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P467_week1_0_competition.png",
+    "pid": "P467",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P467_week1_1_abyss.png",
+    "pid": "P467",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P467_week1_2_protection.png",
+    "pid": "P467",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P467_week1_3_vision.png",
+    "pid": "P467",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P627_week1_0_protection.png",
+    "pid": "P627",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P627_week1_1_struggle.png",
+    "pid": "P627",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P627_week1_2_journey.png",
+    "pid": "P627",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P627_week1_3_disease.png",
+    "pid": "P627",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P355_week1_0_struggle.png",
+    "pid": "P355",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P355_week1_1_contamination.png",
+    "pid": "P355",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P355_week1_2_servant.png",
+    "pid": "P355",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P355_week1_3_magic.png",
+    "pid": "P355",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P581_week1_0_business.png",
+    "pid": "P581",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P581_week1_1_control.png",
+    "pid": "P581",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P581_week1_2_protection.png",
+    "pid": "P581",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P581_week1_3_vision.png",
+    "pid": "P581",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P335_week1_0_portal.png",
+    "pid": "P335",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P335_week1_1_accident.png",
+    "pid": "P335",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P335_week1_2_desire.png",
+    "pid": "P335",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P335_week1_3_business.png",
+    "pid": "P335",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P533_week1_0_portal.png",
+    "pid": "P533",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P533_week1_1_journey.png",
+    "pid": "P533",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P533_week1_2_struggle.png",
+    "pid": "P533",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P533_week1_3_desire.png",
+    "pid": "P533",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P582_week1_0_protection.png",
+    "pid": "P582",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P582_week1_1_competition.png",
+    "pid": "P582",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P582_week1_2_accident.png",
+    "pid": "P582",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P582_week1_3_business.png",
+    "pid": "P582",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P285_week1_0_contamination.png",
+    "pid": "P285",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P285_week1_1_journey.png",
+    "pid": "P285",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P285_week1_2_control.png",
+    "pid": "P285",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P285_week1_3_business.png",
+    "pid": "P285",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P357_week1_0_vision.png",
+    "pid": "P357",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P357_week1_1_protection.png",
+    "pid": "P357",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P357_week1_2_portal.png",
+    "pid": "P357",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P357_week1_3_contamination.png",
+    "pid": "P357",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P629_week1_0_accident.png",
+    "pid": "P629",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P629_week1_1_business.png",
+    "pid": "P629",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P629_week1_2_competition.png",
+    "pid": "P629",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P629_week1_3_control.png",
+    "pid": "P629",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P317_week1_0_energy.png",
+    "pid": "P317",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P317_week1_1_desire.png",
+    "pid": "P317",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P317_week1_2_journey.png",
+    "pid": "P317",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P317_week1_3_magic.png",
+    "pid": "P317",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P534_week1_0_servant.png",
+    "pid": "P534",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P534_week1_1_portal.png",
+    "pid": "P534",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P534_week1_2_aversion.png",
+    "pid": "P534",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P534_week1_3_contamination.png",
+    "pid": "P534",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P535_week1_0_darkness.png",
+    "pid": "P535",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P535_week1_1_abyss.png",
+    "pid": "P535",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P535_week1_2_desire.png",
+    "pid": "P535",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P535_week1_3_magic.png",
+    "pid": "P535",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P318_week1_0_accident.png",
+    "pid": "P318",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P318_week1_1_darkness.png",
+    "pid": "P318",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P318_week1_2_aversion.png",
+    "pid": "P318",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P318_week1_3_journey.png",
+    "pid": "P318",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P319_week1_0_control.png",
+    "pid": "P319",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P319_week1_1_disease.png",
+    "pid": "P319",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P319_week1_2_journey.png",
+    "pid": "P319",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P319_week1_3_aversion.png",
+    "pid": "P319",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P400_week1_0_accident.png",
+    "pid": "P400",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P400_week1_1_protection.png",
+    "pid": "P400",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P400_week1_2_darkness.png",
+    "pid": "P400",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P400_week1_3_journey.png",
+    "pid": "P400",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P401_week1_0_aversion.png",
+    "pid": "P401",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P401_week1_1_magic.png",
+    "pid": "P401",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P401_week1_2_disease.png",
+    "pid": "P401",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P401_week1_3_contamination.png",
+    "pid": "P401",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P252_week1_0_business.png",
+    "pid": "P252",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P252_week1_1_darkness.png",
+    "pid": "P252",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P252_week1_2_contamination.png",
+    "pid": "P252",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P252_week1_3_control.png",
+    "pid": "P252",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P359_week1_0_portal.png",
+    "pid": "P359",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P359_week1_1_protection.png",
+    "pid": "P359",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P359_week1_2_struggle.png",
+    "pid": "P359",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P359_week1_3_journey.png",
+    "pid": "P359",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P536_week1_0_disease.png",
+    "pid": "P536",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P536_week1_1_accident.png",
+    "pid": "P536",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P536_week1_2_journey.png",
+    "pid": "P536",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P536_week1_3_contamination.png",
+    "pid": "P536",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P474_week1_0_portal.png",
+    "pid": "P474",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P474_week1_1_control.png",
+    "pid": "P474",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P474_week1_2_vision.png",
+    "pid": "P474",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P474_week1_3_aversion.png",
+    "pid": "P474",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P322_week1_1_struggle.png",
+    "pid": "P322",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P322_week1_2_contamination.png",
+    "pid": "P322",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P322_week1_3_darkness.png",
+    "pid": "P322",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P475_week1_0_desire.png",
+    "pid": "P475",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P475_week1_1_competition.png",
+    "pid": "P475",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P475_week1_2_struggle.png",
+    "pid": "P475",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P475_week1_3_journey.png",
+    "pid": "P475",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P360_week1_0_servant.png",
+    "pid": "P360",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P360_week1_1_abyss.png",
+    "pid": "P360",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P360_week1_2_competition.png",
+    "pid": "P360",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P360_week1_3_contamination.png",
+    "pid": "P360",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P406_week1_0_servant.png",
+    "pid": "P406",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P406_week1_1_accident.png",
+    "pid": "P406",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P406_week1_2_magic.png",
+    "pid": "P406",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P406_week1_3_aversion.png",
+    "pid": "P406",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P636_week1_0_vision.png",
+    "pid": "P636",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P636_week1_1_competition.png",
+    "pid": "P636",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P636_week1_2_struggle.png",
+    "pid": "P636",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P636_week1_3_contamination.png",
+    "pid": "P636",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P537_week1_0_struggle.png",
+    "pid": "P537",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P537_week1_1_business.png",
+    "pid": "P537",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P537_week1_2_aversion.png",
+    "pid": "P537",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P537_week1_3_journey.png",
+    "pid": "P537",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P287_week1_0_business.png",
+    "pid": "P287",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P287_week1_1_journey.png",
+    "pid": "P287",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P287_week1_2_protection.png",
+    "pid": "P287",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P287_week1_3_accident.png",
+    "pid": "P287",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P584_week1_0_energy.png",
+    "pid": "P584",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P584_week1_1_abyss.png",
+    "pid": "P584",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P584_week1_2_darkness.png",
+    "pid": "P584",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P584_week1_3_vision.png",
+    "pid": "P584",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P478_week1_0_desire.png",
+    "pid": "P478",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P478_week1_1_struggle.png",
+    "pid": "P478",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P478_week1_2_servant.png",
+    "pid": "P478",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P478_week1_3_darkness.png",
+    "pid": "P478",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P639_week1_0_disease.png",
+    "pid": "P639",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P639_week1_1_contamination.png",
+    "pid": "P639",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P639_week1_2_abyss.png",
+    "pid": "P639",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P639_week1_3_servant.png",
+    "pid": "P639",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P289_week1_0_control.png",
+    "pid": "P289",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P289_week1_1_aversion.png",
+    "pid": "P289",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P289_week1_2_darkness.png",
+    "pid": "P289",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P289_week1_3_magic.png",
+    "pid": "P289",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P362_week1_0_energy.png",
+    "pid": "P362",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P362_week1_1_magic.png",
+    "pid": "P362",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P362_week1_2_portal.png",
+    "pid": "P362",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P362_week1_3_contamination.png",
+    "pid": "P362",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P363_week1_0_darkness.png",
+    "pid": "P363",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P363_week1_1_desire.png",
+    "pid": "P363",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P363_week1_2_vision.png",
+    "pid": "P363",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P363_week1_3_control.png",
+    "pid": "P363",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P641_week1_0_energy.png",
+    "pid": "P641",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P641_week1_1_aversion.png",
+    "pid": "P641",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P641_week1_2_magic.png",
+    "pid": "P641",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P641_week1_3_vision.png",
+    "pid": "P641",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P409_week1_0_darkness.png",
+    "pid": "P409",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P409_week1_1_aversion.png",
+    "pid": "P409",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P409_week1_2_energy.png",
+    "pid": "P409",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P409_week1_3_disease.png",
+    "pid": "P409",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P410_week1_0_struggle.png",
+    "pid": "P410",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P410_week1_1_accident.png",
+    "pid": "P410",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P410_week1_2_journey.png",
+    "pid": "P410",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P410_week1_3_vision.png",
+    "pid": "P410",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P262_week1_0_desire.png",
+    "pid": "P262",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P262_week1_1_magic.png",
+    "pid": "P262",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P262_week1_2_darkness.png",
+    "pid": "P262",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P262_week1_3_aversion.png",
+    "pid": "P262",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P541_week1_0_accident.png",
+    "pid": "P541",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P541_week1_1_magic.png",
+    "pid": "P541",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P541_week1_2_abyss.png",
+    "pid": "P541",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P541_week1_3_vision.png",
+    "pid": "P541",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P326_week1_0_portal.png",
+    "pid": "P326",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P326_week1_1_struggle.png",
+    "pid": "P326",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P326_week1_2_magic.png",
+    "pid": "P326",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P326_week1_3_contamination.png",
+    "pid": "P326",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P290_week1_0_struggle.png",
+    "pid": "P290",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P290_week1_1_disease.png",
+    "pid": "P290",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P290_week1_2_journey.png",
+    "pid": "P290",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P290_week1_3_abyss.png",
+    "pid": "P290",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P479_week1_0_journey.png",
+    "pid": "P479",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P479_week1_1_contamination.png",
+    "pid": "P479",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P479_week1_2_protection.png",
+    "pid": "P479",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P479_week1_3_competition.png",
+    "pid": "P479",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P647_week1_0_desire.png",
+    "pid": "P647",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P647_week1_1_contamination.png",
+    "pid": "P647",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P647_week1_2_disease.png",
+    "pid": "P647",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P647_week1_3_darkness.png",
+    "pid": "P647",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P651_week1_0_vision.png",
+    "pid": "P651",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P651_week1_1_protection.png",
+    "pid": "P651",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P651_week1_2_servant.png",
+    "pid": "P651",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P651_week1_3_energy.png",
+    "pid": "P651",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P652_week1_0_contamination.png",
+    "pid": "P652",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P652_week1_1_accident.png",
+    "pid": "P652",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P652_week1_2_portal.png",
+    "pid": "P652",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P652_week1_3_journey.png",
+    "pid": "P652",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P653_week1_1_struggle.png",
+    "pid": "P653",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P653_week1_2_servant.png",
+    "pid": "P653",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P653_week1_3_darkness.png",
+    "pid": "P653",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P655_week1_0_vision.png",
+    "pid": "P655",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P655_week1_1_abyss.png",
+    "pid": "P655",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P655_week1_2_servant.png",
+    "pid": "P655",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P655_week1_3_contamination.png",
+    "pid": "P655",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P657_week1_0_contamination.png",
+    "pid": "P657",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P657_week1_1_accident.png",
+    "pid": "P657",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P657_week1_2_darkness.png",
+    "pid": "P657",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P657_week1_3_magic.png",
+    "pid": "P657",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P257_week1_0_darkness.png",
+    "pid": "P257",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P257_week1_1_aversion.png",
+    "pid": "P257",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P257_week1_2_magic.png",
+    "pid": "P257",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P257_week1_3_accident.png",
+    "pid": "P257",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P364_week1_0_darkness.png",
+    "pid": "P364",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P364_week1_1_aversion.png",
+    "pid": "P364",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P364_week1_2_struggle.png",
+    "pid": "P364",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P364_week1_3_disease.png",
+    "pid": "P364",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P543_week1_0_darkness.png",
+    "pid": "P543",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P543_week1_1_control.png",
+    "pid": "P543",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P543_week1_2_magic.png",
+    "pid": "P543",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P543_week1_3_struggle.png",
+    "pid": "P543",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P414_week1_0_magic.png",
+    "pid": "P414",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P414_week1_1_portal.png",
+    "pid": "P414",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P414_week1_2_energy.png",
+    "pid": "P414",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P414_week1_3_contamination.png",
+    "pid": "P414",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P661_week1_0_desire.png",
+    "pid": "P661",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P661_week1_1_competition.png",
+    "pid": "P661",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P661_week1_2_business.png",
+    "pid": "P661",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P661_week1_3_struggle.png",
+    "pid": "P661",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P545_week1_0_portal.png",
+    "pid": "P545",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P545_week1_1_magic.png",
+    "pid": "P545",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P545_week1_2_protection.png",
+    "pid": "P545",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P545_week1_3_aversion.png",
+    "pid": "P545",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P662_week1_0_portal.png",
+    "pid": "P662",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P662_week1_1_struggle.png",
+    "pid": "P662",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P662_week1_2_disease.png",
+    "pid": "P662",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P662_week1_3_control.png",
+    "pid": "P662",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P587_week1_0_portal.png",
+    "pid": "P587",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P587_week1_1_struggle.png",
+    "pid": "P587",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P587_week1_2_abyss.png",
+    "pid": "P587",
+    "week": "week1"
+  },
+  {
+    "word": "Competition",
+    "source": "participant",
+    "path": "metaphor_drawings/COMPETITION/P587_week1_3_competition.png",
+    "pid": "P587",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P663_week1_0_disease.png",
+    "pid": "P663",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P663_week1_1_accident.png",
+    "pid": "P663",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P663_week1_2_portal.png",
+    "pid": "P663",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P663_week1_3_abyss.png",
+    "pid": "P663",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P547_week1_1_portal.png",
+    "pid": "P547",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P547_week1_2_disease.png",
+    "pid": "P547",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P547_week1_3_desire.png",
+    "pid": "P547",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P365_week1_0_disease.png",
+    "pid": "P365",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P365_week1_1_protection.png",
+    "pid": "P365",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P365_week1_2_journey.png",
+    "pid": "P365",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P365_week1_3_aversion.png",
+    "pid": "P365",
+    "week": "week1"
+  },
+  {
+    "word": "Struggle",
+    "source": "participant",
+    "path": "metaphor_drawings/STRUGGLE/P330_week1_0_struggle.png",
+    "pid": "P330",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P330_week1_1_vision.png",
+    "pid": "P330",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P330_week1_2_energy.png",
+    "pid": "P330",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P330_week1_3_journey.png",
+    "pid": "P330",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P483_week1_0_portal.png",
+    "pid": "P483",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P483_week1_1_desire.png",
+    "pid": "P483",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P483_week1_2_magic.png",
+    "pid": "P483",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P483_week1_3_aversion.png",
+    "pid": "P483",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P415_week1_0_control.png",
+    "pid": "P415",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P415_week1_1_portal.png",
+    "pid": "P415",
+    "week": "week1"
+  },
+  {
+    "word": "Aversion",
+    "source": "participant",
+    "path": "metaphor_drawings/AVERSION/P415_week1_2_aversion.png",
+    "pid": "P415",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P415_week1_3_disease.png",
+    "pid": "P415",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P297_week1_0_disease.png",
+    "pid": "P297",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P297_week1_1_desire.png",
+    "pid": "P297",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P297_week1_2_control.png",
+    "pid": "P297",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P297_week1_3_darkness.png",
+    "pid": "P297",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P665_week1_0_magic.png",
+    "pid": "P665",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P665_week1_1_servant.png",
+    "pid": "P665",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P665_week1_2_energy.png",
+    "pid": "P665",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P665_week1_3_control.png",
+    "pid": "P665",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P368_week1_0_desire.png",
+    "pid": "P368",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P368_week1_1_portal.png",
+    "pid": "P368",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P368_week1_2_darkness.png",
+    "pid": "P368",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P368_week1_3_abyss.png",
+    "pid": "P368",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P549_week1_0_servant.png",
+    "pid": "P549",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P549_week1_1_desire.png",
+    "pid": "P549",
+    "week": "week1"
+  },
+  {
+    "word": "Energy",
+    "source": "participant",
+    "path": "metaphor_drawings/ENERGY/P549_week1_2_energy.png",
+    "pid": "P549",
+    "week": "week1"
+  },
+  {
+    "word": "Portal",
+    "source": "participant",
+    "path": "metaphor_drawings/PORTAL/P549_week1_3_portal.png",
+    "pid": "P549",
+    "week": "week1"
+  },
+  {
+    "word": "Control",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTROL/P417_week1_0_control.png",
+    "pid": "P417",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P417_week1_1_disease.png",
+    "pid": "P417",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P417_week1_2_desire.png",
+    "pid": "P417",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P417_week1_3_vision.png",
+    "pid": "P417",
+    "week": "week1"
+  },
+  {
+    "word": "Disease",
+    "source": "participant",
+    "path": "metaphor_drawings/DISEASE/P299_week1_0_disease.png",
+    "pid": "P299",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P299_week1_1_contamination.png",
+    "pid": "P299",
+    "week": "week1"
+  },
+  {
+    "word": "Servant",
+    "source": "participant",
+    "path": "metaphor_drawings/SERVANT/P299_week1_2_servant.png",
+    "pid": "P299",
+    "week": "week1"
+  },
+  {
+    "word": "Protection",
+    "source": "participant",
+    "path": "metaphor_drawings/PROTECTION/P299_week1_3_protection.png",
+    "pid": "P299",
+    "week": "week1"
+  },
+  {
+    "word": "Business",
+    "source": "participant",
+    "path": "metaphor_drawings/BUSINESS/P667_week1_0_business.png",
+    "pid": "P667",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P667_week1_1_desire.png",
+    "pid": "P667",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P667_week1_2_magic.png",
+    "pid": "P667",
+    "week": "week1"
+  },
+  {
+    "word": "Accident",
+    "source": "participant",
+    "path": "metaphor_drawings/ACCIDENT/P667_week1_3_accident.png",
+    "pid": "P667",
+    "week": "week1"
+  },
+  {
+    "word": "Darkness",
+    "source": "participant",
+    "path": "metaphor_drawings/DARKNESS/P669_week1_0_darkness.png",
+    "pid": "P669",
+    "week": "week1"
+  },
+  {
+    "word": "Contamination",
+    "source": "participant",
+    "path": "metaphor_drawings/CONTAMINATION/P669_week1_1_contamination.png",
+    "pid": "P669",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P669_week1_2_abyss.png",
+    "pid": "P669",
+    "week": "week1"
+  },
+  {
+    "word": "Journey",
+    "source": "participant",
+    "path": "metaphor_drawings/JOURNEY/P669_week1_3_journey.png",
+    "pid": "P669",
+    "week": "week1"
+  },
+  {
+    "word": "Vision",
+    "source": "participant",
+    "path": "metaphor_drawings/VISION/P670_week1_0_vision.png",
+    "pid": "P670",
+    "week": "week1"
+  },
+  {
+    "word": "Abyss",
+    "source": "participant",
+    "path": "metaphor_drawings/ABYSS/P670_week1_1_abyss.png",
+    "pid": "P670",
+    "week": "week1"
+  },
+  {
+    "word": "Magic",
+    "source": "participant",
+    "path": "metaphor_drawings/MAGIC/P670_week1_2_magic.png",
+    "pid": "P670",
+    "week": "week1"
+  },
+  {
+    "word": "Desire",
+    "source": "participant",
+    "path": "metaphor_drawings/DESIRE/P670_week1_3_desire.png",
+    "pid": "P670",
+    "week": "week1"
   }
 ]
