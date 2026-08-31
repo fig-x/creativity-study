@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metaphor Rating Check</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f5; color: #333; padding: 16px; }
+  h1 { font-size: 18px; margin-bottom: 8px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px; padding: 10px; background: #fff; border-radius: 8px; border: 1px solid #e0e0e0; }
+  .controls label { font-size: 12px; color: #666; }
+  .controls select, .controls input { font-size: 12px; padding: 4px 8px; border: 1px solid #ccc; border-radius: 4px; }
+  .stats { font-size: 11px; color: #888; margin-left: auto; }
+  .stats span { margin-left: 8px; }
+  .stats .green { color: #16a34a; }
+  .stats .amber { color: #d97706; }
+  .stats .red { color: #dc2626; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+  .card { background: #fff; border-radius: 8px; border: 1px solid #e0e0e0; overflow: hidden; }
+  .card img { width: 100%; aspect-ratio: 1; object-fit: contain; background: #fafafa; cursor: pointer; }
+  .card .info { padding: 8px 10px; font-size: 11px; }
+  .card .word { font-weight: 700; font-size: 13px; text-transform: capitalize; color: #b45309; }
+  .card .pid { color: #999; font-size: 10px; }
+  .card .ratings { margin-top: 4px; }
+  .card .rating-row { display: flex; gap: 4px; align-items: center; margin-top: 2px; font-size: 10px; color: #666; }
+  .card .rating-row .label { width: 80px; text-align: right; color: #999; }
+  .card .rating-row .bar-bg { flex: 1; height: 10px; background: #f0f0f0; border-radius: 3px; position: relative; }
+  .card .rating-row .bar { height: 100%; border-radius: 3px; }
+  .card .rating-row .val { width: 20px; text-align: center; font-weight: 600; }
+  .card .avg { font-size: 11px; margin-top: 6px; padding-top: 4px; border-top: 1px solid #f0f0f0; color: #555; }
+  .card .avg span { font-weight: 600; }
+  .card .n-ratings { font-size: 10px; color: #aaa; }
+  .bar-accuracy { background: #3b82f6; }
+  .bar-precision { background: #8b5cf6; }
+  .bar-creativity { background: #f59e0b; }
+  .bar-weirdness { background: #ef4444; }
+  .lightbox { position: fixed; inset: 0; z-index: 100; background: rgba(0,0,0,0.7); display: flex; align-items: center; justify-content: center; cursor: pointer; }
+  .lightbox img { max-width: 85vw; max-height: 85vh; object-fit: contain; border-radius: 8px; }
+  .empty { text-align: center; color: #999; padding: 40px; font-size: 14px; }
+  .sort-btn { font-size: 11px; padding: 3px 8px; border: 1px solid #ccc; border-radius: 4px; background: #fff; cursor: pointer; }
+  .sort-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; }
+</style>
+</head>
+<body>
+
+<h1>Metaphor Rating Check</h1>
+
+<div class="controls">
+  <label>Week:
+    <select id="weekFilter">
+      <option value="all">All</option>
+      <option value="week1">Week 1</option>
+      <option value="week2" selected>Week 2</option>
+    </select>
+  </label>
+  <label>Source:
+    <select id="sourceFilter">
+      <option value="all">All</option>
+      <option value="participant">Participant</option>
+      <option value="ai_simple">AI Simple</option>
+      <option value="ai_many">AI Many</option>
+    </select>
+  </label>
+  <label>Word:
+    <select id="wordFilter"><option value="all">All</option></select>
+  </label>
+  <label>PID:
+    <input id="pidFilter" type="text" placeholder="Filter by PID..." style="width:80px">
+  </label>
+  <label>Sort:
+    <button class="sort-btn active" data-sort="word">Word</button>
+    <button class="sort-btn" data-sort="creativity">Creativity</button>
+    <button class="sort-btn" data-sort="weirdness">Weirdness</button>
+    <button class="sort-btn" data-sort="n">N ratings</button>
+  </label>
+  <div class="stats" id="stats"></div>
+</div>
+
+<div class="grid" id="grid"></div>
+<div id="lightbox" class="lightbox" style="display:none"><img id="lightboxImg"></div>
+
+<script>
+const BASE = location.pathname.replace(/check_rating\/?.*/, '');
+let allRatings = [];
+let imageMap = {}; // path -> { word, source, pid, week, ratings: [...] }
+let currentSort = 'word';
+let sortAsc = true;
+
+async function loadData() {
+  // Try local copy first, then scripts/data path
+  let csv = null;
+  for (const path of ['metaphor_ratings.csv', BASE + 'check_rating/metaphor_ratings.csv', '../../scripts/data/metaphor_ratings.csv']) {
+    try {
+      const res = await fetch(path);
+      if (res.ok) { csv = await res.text(); break; }
+    } catch {}
+  }
+  if (!csv) { document.getElementById('grid').innerHTML = '<div class="empty">Cannot load metaphor_ratings.csv. Copy it to check_rating/metaphor_ratings.csv</div>'; return; }
+  allRatings = parseCSV(csv);
+  buildImageMap();
+  populateWordFilter();
+  render();
+}
+
+function parseCSV(text) {
+  const lines = text.trim().split('\n');
+  const headers = lines[0].split(',');
+  return lines.slice(1).map(line => {
+    const vals = line.split(',');
+    const obj = {};
+    headers.forEach((h, i) => obj[h.trim()] = vals[i]?.trim() || '');
+    return obj;
+  });
+}
+
+function buildImageMap() {
+  imageMap = {};
+  // First pass: build image entries
+  for (const r of allRatings) {
+    const key = r.path;
+    if (!imageMap[key]) {
+      imageMap[key] = {
+        word: r.word, source: r.source, pid: r.pid, week: r.week,
+        condition: r.condition || '', path: r.path, ratings: []
+      };
+    }
+    imageMap[key].ratings.push({
+      rid: r.rid,
+      wordAccuracy: +r.wordAccuracy,
+      wordPrecision: +r.wordPrecision,
+      creativity: +r.creativity,
+      weirdness: +r.weirdness,
+    });
+  }
+  // Second pass: collect all words per participant+week
+  const pidWords = {}; // "pid|week" -> Set of words
+  for (const img of Object.values(imageMap)) {
+    if (img.source !== 'participant') continue;
+    const key = `${img.pid}|${img.week}`;
+    if (!pidWords[key]) pidWords[key] = new Set();
+    pidWords[key].add(img.word);
+  }
+  // Attach to each image
+  for (const img of Object.values(imageMap)) {
+    if (img.source !== 'participant') continue;
+    const key = `${img.pid}|${img.week}`;
+    img.allWords = [...(pidWords[key] || [])].sort();
+  }
+}
+
+function populateWordFilter() {
+  const words = [...new Set(allRatings.map(r => r.word))].sort();
+  const sel = document.getElementById('wordFilter');
+  for (const w of words) {
+    const opt = document.createElement('option');
+    opt.value = w; opt.textContent = w;
+    sel.appendChild(opt);
+  }
+}
+
+function avg(arr, key) {
+  const vals = arr.map(r => r[key]).filter(v => !isNaN(v));
+  return vals.length ? vals.reduce((a, b) => a + b, 0) / vals.length : 0;
+}
+
+function render() {
+  const weekF = document.getElementById('weekFilter').value;
+  const sourceF = document.getElementById('sourceFilter').value;
+  const wordF = document.getElementById('wordFilter').value;
+  const pidF = document.getElementById('pidFilter').value.toLowerCase();
+
+  let items = Object.values(imageMap).filter(img => {
+    if (weekF !== 'all' && img.week !== weekF) return false;
+    if (sourceF !== 'all' && img.source !== sourceF) return false;
+    if (wordF !== 'all' && img.word.toLowerCase() !== wordF.toLowerCase()) return false;
+    if (pidF && !img.pid.toLowerCase().includes(pidF)) return false;
+    return true;
+  });
+
+  // Sort
+  const dir = sortAsc ? 1 : -1;
+  if (currentSort === 'word') {
+    items.sort((a, b) => dir * a.word.localeCompare(b.word) || a.pid.localeCompare(b.pid));
+  } else if (currentSort === 'n') {
+    items.sort((a, b) => dir * (a.ratings.length - b.ratings.length));
+  } else {
+    items.sort((a, b) => dir * (avg(a.ratings, currentSort) - avg(b.ratings, currentSort)));
+  }
+
+  // Stats
+  const totalImages = items.length;
+  const totalRatings = items.reduce((s, i) => s + i.ratings.length, 0);
+  const with3 = items.filter(i => i.ratings.length >= 3).length;
+  const with0 = items.filter(i => i.ratings.length === 0).length;
+  document.getElementById('stats').innerHTML =
+    `${totalImages} images, ${totalRatings} ratings` +
+    `<span class="green">${with3} with 3+</span>` +
+    `<span class="amber">${totalImages - with3 - with0} partial</span>` +
+    `<span class="red">${with0} unrated</span>`;
+
+  // Render
+  const grid = document.getElementById('grid');
+  if (items.length === 0) { grid.innerHTML = '<div class="empty">No matching images</div>'; return; }
+
+  grid.innerHTML = items.map(img => {
+    const n = img.ratings.length;
+    const a = { wordAccuracy: avg(img.ratings, 'wordAccuracy'), wordPrecision: avg(img.ratings, 'wordPrecision'), creativity: avg(img.ratings, 'creativity'), weirdness: avg(img.ratings, 'weirdness') };
+    const imgSrc = BASE + img.path;
+
+    function bar(label, key, cls) {
+      const v = a[key];
+      const pct = (v / 10) * 100;
+      return `<div class="rating-row">
+        <span class="label">${label}</span>
+        <div class="bar-bg"><div class="bar ${cls}" style="width:${pct}%"></div></div>
+        <span class="val">${v.toFixed(1)}</span>
+      </div>`;
+    }
+
+    return `<div class="card">
+      <img src="${imgSrc}" onclick="showLightbox('${imgSrc}')" onerror="this.style.display='none'">
+      <div class="info">
+        <div class="word">${img.word}</div>
+        <div class="pid">${img.pid} | ${img.week} | ${img.source}${img.condition ? ' | ' + img.condition.replace('draw-','') : ''} <span class="n-ratings">(${n} rating${n !== 1 ? 's' : ''})</span></div>
+        ${img.allWords ? `<div class="pid" style="margin-top:2px">${img.allWords.map(w => w === img.word ? '<b style="color:#b45309">' + w + '</b>' : w).join(', ')}</div>` : ''}
+        ${n > 0 ? `<div class="ratings">
+          ${bar('Accuracy', 'wordAccuracy', 'bar-accuracy')}
+          ${bar('Precision', 'wordPrecision', 'bar-precision')}
+          ${bar('Creativity', 'creativity', 'bar-creativity')}
+          ${bar('Weirdness', 'weirdness', 'bar-weirdness')}
+        </div>` : '<div class="avg" style="color:#ccc">No ratings yet</div>'}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function showLightbox(src) {
+  document.getElementById('lightboxImg').src = src;
+  document.getElementById('lightbox').style.display = 'flex';
+}
+document.getElementById('lightbox').onclick = () => document.getElementById('lightbox').style.display = 'none';
+
+// Filters
+document.getElementById('weekFilter').onchange = render;
+document.getElementById('sourceFilter').onchange = render;
+document.getElementById('wordFilter').onchange = render;
+document.getElementById('pidFilter').oninput = render;
+
+// Sort buttons
+document.querySelectorAll('.sort-btn').forEach(btn => {
+  btn.onclick = () => {
+    const s = btn.dataset.sort;
+    if (currentSort === s) sortAsc = !sortAsc;
+    else { currentSort = s; sortAsc = s === 'word' ? true : false; }
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    btn.textContent = btn.dataset.sort.charAt(0).toUpperCase() + btn.dataset.sort.slice(1) + (currentSort === s ? (sortAsc ? ' \u25B2' : ' \u25BC') : '');
+    render();
+  };
+});
+
+loadData();
+</script>
+</body>
+</html>

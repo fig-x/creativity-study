@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Description Check</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f5; color: #333; padding: 16px; }
+  h1 { font-size: 18px; margin-bottom: 8px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px; padding: 10px; background: #fff; border-radius: 8px; border: 1px solid #e0e0e0; }
+  .controls label { font-size: 12px; color: #666; }
+  .controls select, .controls input { font-size: 12px; padding: 4px 8px; border: 1px solid #ccc; border-radius: 4px; }
+  .stats { font-size: 11px; color: #888; margin-left: auto; }
+  .stats span { margin-left: 8px; }
+  .stats .green { color: #16a34a; }
+  .stats .amber { color: #d97706; }
+  .stats .red { color: #dc2626; }
+  .filter-btn { font-size: 11px; padding: 4px 10px; border: 1px solid #ccc; border-radius: 4px; background: #fff; cursor: pointer; }
+  .filter-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; }
+  .filter-btn.active-green { background: #16a34a; color: #fff; border-color: #16a34a; }
+  .filter-btn.active-amber { background: #d97706; color: #fff; border-color: #d97706; }
+  .filter-btn.active-red { background: #dc2626; color: #fff; border-color: #dc2626; }
+  .sort-btn { font-size: 11px; padding: 3px 8px; border: 1px solid #ccc; border-radius: 4px; background: #fff; cursor: pointer; }
+  .sort-btn.active { background: #3b82f6; color: #fff; border-color: #3b82f6; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+  .card { background: #fff; border-radius: 8px; border: 1px solid #e0e0e0; overflow: hidden; }
+  .card.recogn-clear { border-left: 3px solid #16a34a; }
+  .card.recogn-uncertain { border-left: 3px solid #d97706; }
+  .card.recogn-none { border-left: 3px solid #dc2626; }
+  .card img { width: 100%; aspect-ratio: 1; object-fit: contain; background: #fafafa; cursor: pointer; }
+  .card .info { padding: 8px 10px; font-size: 11px; }
+  .card .word { font-weight: 700; font-size: 13px; text-transform: capitalize; color: #b45309; }
+  .card .meta { color: #999; font-size: 10px; margin-top: 2px; }
+  .card .desc { margin-top: 6px; font-size: 12px; color: #444; line-height: 1.4; }
+  .card .visible-text { margin-top: 4px; font-size: 10px; color: #888; font-style: italic; }
+  .card .recogn-badge { display: inline-block; font-size: 10px; font-weight: 600; padding: 1px 6px; border-radius: 3px; margin-top: 4px; }
+  .badge-clear { background: #dcfce7; color: #16a34a; }
+  .badge-uncertain { background: #fef3c7; color: #d97706; }
+  .badge-none { background: #fee2e2; color: #dc2626; }
+  .badge-unknown { background: #f3f4f6; color: #999; }
+  .lightbox { position: fixed; inset: 0; z-index: 100; background: rgba(0,0,0,0.7); display: flex; align-items: center; justify-content: center; cursor: pointer; }
+  .lightbox img { max-width: 85vw; max-height: 85vh; object-fit: contain; border-radius: 8px; }
+  .empty { text-align: center; color: #999; padding: 40px; font-size: 14px; }
+</style>
+</head>
+<body>
+
+<h1>Description Check</h1>
+
+<div class="controls">
+  <label>Source:
+    <select id="sourceFilter">
+      <option value="participant">Participant</option>
+      <option value="all">All</option>
+      <option value="ai_simple">AI Simple</option>
+      <option value="ai_many">AI Many</option>
+    </select>
+  </label>
+  <label>Week:
+    <select id="weekFilter">
+      <option value="all">All</option>
+      <option value="week1">Week 1</option>
+      <option value="week2">Week 2</option>
+    </select>
+  </label>
+  <label>Word:
+    <select id="wordFilter"><option value="all">All</option></select>
+  </label>
+  <label>PID:
+    <input id="pidFilter" type="text" placeholder="Filter..." style="width:70px">
+  </label>
+  <label>Recognizability:</label>
+  <button class="filter-btn active" data-recogn="all" onclick="setRecognFilter('all')">All</button>
+  <button class="filter-btn" data-recogn="clear" onclick="setRecognFilter('clear')">Clear</button>
+  <button class="filter-btn" data-recogn="uncertain" onclick="setRecognFilter('uncertain')">Uncertain</button>
+  <button class="filter-btn" data-recogn="none" onclick="setRecognFilter('none')">None</button>
+  <label>Sort:</label>
+  <button class="sort-btn active" data-sort="word" onclick="setSort('word')">Word</button>
+  <button class="sort-btn" data-sort="recogn" onclick="setSort('recogn')">Recogn.</button>
+  <button class="sort-btn" data-sort="pid" onclick="setSort('pid')">PID</button>
+  <label>Search desc:
+    <input id="descSearch" type="text" placeholder="Search..." style="width:100px">
+  </label>
+  <div class="stats" id="stats"></div>
+</div>
+
+<div class="grid" id="grid"></div>
+<div id="lightbox" class="lightbox" style="display:none"><img id="lightboxImg"></div>
+
+<script>
+const BASE = location.pathname.replace(/check_rating\/?.*/, '');
+let allRows = [];
+let manifest = []; // from manifest.json
+let manifestMap = {}; // "prolificId:week:trialIndex" -> manifest path
+let recognFilter = 'all';
+let currentSort = 'word';
+let sortAsc = true;
+
+async function loadData() {
+  // Load CSV
+  let csv = null;
+  for (const p of ['image_descriptions.csv', BASE + 'check_rating/image_descriptions.csv']) {
+    try { const r = await fetch(p); if (r.ok) { csv = await r.text(); break; } } catch {}
+  }
+  if (!csv) { document.getElementById('grid').innerHTML = '<div class="empty">Cannot load image_descriptions.csv</div>'; return; }
+  allRows = parseCSV(csv);
+
+  // Load manifest for image path lookup
+  try {
+    const mRes = await fetch(BASE + 'metaphor_drawings/manifest.json');
+    if (mRes.ok) manifest = await mRes.json();
+  } catch {}
+  // Build lookup by pid+week+word (manifest uses anonymous pid)
+  for (const entry of manifest) {
+    const key = (entry.pid || '') + ':' + (entry.week || '') + ':' + (entry.word || '').toLowerCase();
+    manifestMap[key] = entry.path;
+  }
+
+  populateWordFilter();
+  render();
+}
+
+function parseCSV(text) {
+  const lines = text.trim().split('\n');
+  const headers = lines[0].split(',');
+  return lines.slice(1).map(line => {
+    // Handle commas in quoted fields
+    const vals = [];
+    let current = '', inQuote = false;
+    for (let i = 0; i < line.length; i++) {
+      const ch = line[i];
+      if (ch === '"') { inQuote = !inQuote; }
+      else if (ch === ',' && !inQuote) { vals.push(current); current = ''; }
+      else { current += ch; }
+    }
+    vals.push(current);
+    const obj = {};
+    headers.forEach((h, i) => obj[h.trim()] = (vals[i] || '').trim());
+    return obj;
+  });
+}
+
+function populateWordFilter() {
+  const words = [...new Set(allRows.map(r => r.word))].sort();
+  const sel = document.getElementById('wordFilter');
+  for (const w of words) {
+    const opt = document.createElement('option');
+    opt.value = w; opt.textContent = w;
+    sel.appendChild(opt);
+  }
+}
+
+function normalizeRecogn(r) {
+  r = (r || '').toLowerCase().trim();
+  if (r === 'clear' || r === 'uncertain' || r === 'none') return r;
+  if (!r) return '(empty)';
+  return '(malformed)';
+}
+
+function imagePath(row) {
+  const source = row.source;
+  if (source === 'participant') {
+    // Try manifest lookup by pid + week + word
+    const key = (row.pid || '') + ':' + (row.week || '') + ':' + (row.word || '').toLowerCase();
+    if (manifestMap[key]) return BASE + manifestMap[key];
+    // Fallback: extract wordIndex from image_path (e.g. .../metaphor/0_vision.png -> 0)
+    const imgPath = row.image_path || '';
+    const idxMatch = imgPath.match(/metaphor\/(\d+)_/);
+    const wordIdx = idxMatch ? idxMatch[1] : row.trialIndex;
+    const word = (row.word || '').toUpperCase();
+    const wordLower = (row.word || '').toLowerCase();
+    const week = row.week;
+    // Try prolificId first (older files), then pid (newer)
+    const prolific = row.prolificId;
+    const pid = row.pid;
+    return BASE + 'metaphor_drawings/' + word + '/' + prolific + '_' + week + '_' + wordIdx + '_' + wordLower + '.png';
+  }
+  // AI images
+  const path = row.image_path || '';
+  const match = path.match(/word(?:_many)?_images\/.+/);
+  if (match) return BASE + match[0];
+  return '';
+}
+
+function setRecognFilter(v) {
+  recognFilter = v;
+  document.querySelectorAll('.filter-btn').forEach(b => {
+    const bv = b.dataset.recogn;
+    b.className = 'filter-btn' + (bv === v ?
+      (v === 'clear' ? ' active-green' : v === 'uncertain' ? ' active-amber' : v === 'none' ? ' active-red' : ' active') : '');
+  });
+  render();
+}
+
+function setSort(s) {
+  if (currentSort === s) sortAsc = !sortAsc;
+  else { currentSort = s; sortAsc = true; }
+  document.querySelectorAll('.sort-btn').forEach(b => {
+    b.className = 'sort-btn' + (b.dataset.sort === s ? ' active' : '');
+    if (b.dataset.sort === s) b.textContent = s.charAt(0).toUpperCase() + s.slice(1) + (sortAsc ? ' \u25B2' : ' \u25BC');
+    else b.textContent = b.dataset.sort.charAt(0).toUpperCase() + b.dataset.sort.slice(1);
+  });
+  render();
+}
+
+function render() {
+  const sourceF = document.getElementById('sourceFilter').value;
+  const weekF = document.getElementById('weekFilter').value;
+  const wordF = document.getElementById('wordFilter').value;
+  const pidF = document.getElementById('pidFilter').value.toLowerCase();
+  const descF = document.getElementById('descSearch').value.toLowerCase();
+
+  let items = allRows.filter(r => {
+    if (sourceF !== 'all' && r.source !== sourceF) return false;
+    if (weekF !== 'all' && r.week !== weekF) return false;
+    if (wordF !== 'all' && r.word.toLowerCase() !== wordF.toLowerCase()) return false;
+    if (pidF && !(r.pid || '').toLowerCase().includes(pidF) && !(r.prolificId || '').toLowerCase().includes(pidF)) return false;
+    const recogn = normalizeRecogn(r.recognizability);
+    if (recognFilter !== 'all' && recogn !== recognFilter) return false;
+    if (descF && !(r.description || '').toLowerCase().includes(descF)) return false;
+    return true;
+  });
+
+  // Sort
+  const dir = sortAsc ? 1 : -1;
+  const recognOrder = { clear: 0, uncertain: 1, none: 2, '(empty)': 3, '(malformed)': 4 };
+  if (currentSort === 'word') items.sort((a, b) => dir * a.word.localeCompare(b.word) || a.pid.localeCompare(b.pid));
+  else if (currentSort === 'pid') items.sort((a, b) => dir * (a.pid || '').localeCompare(b.pid || ''));
+  else if (currentSort === 'recogn') items.sort((a, b) => dir * ((recognOrder[normalizeRecogn(a.recognizability)] || 9) - (recognOrder[normalizeRecogn(b.recognizability)] || 9)));
+
+  // Stats
+  const total = items.length;
+  const byClear = items.filter(i => normalizeRecogn(i.recognizability) === 'clear').length;
+  const byUncertain = items.filter(i => normalizeRecogn(i.recognizability) === 'uncertain').length;
+  const byNone = items.filter(i => normalizeRecogn(i.recognizability) === 'none').length;
+  const byOther = total - byClear - byUncertain - byNone;
+  document.getElementById('stats').innerHTML =
+    `${total} images` +
+    `<span class="green">${byClear} clear</span>` +
+    `<span class="amber">${byUncertain} uncertain</span>` +
+    `<span class="red">${byNone} none</span>` +
+    (byOther > 0 ? `<span>${byOther} other</span>` : '');
+
+  const grid = document.getElementById('grid');
+  if (items.length === 0) { grid.innerHTML = '<div class="empty">No matching images</div>'; return; }
+
+  grid.innerHTML = items.map(row => {
+    const recogn = normalizeRecogn(row.recognizability);
+    const badgeClass = recogn === 'clear' ? 'badge-clear' : recogn === 'uncertain' ? 'badge-uncertain' : recogn === 'none' ? 'badge-none' : 'badge-unknown';
+    const cardClass = recogn === 'clear' ? 'recogn-clear' : recogn === 'uncertain' ? 'recogn-uncertain' : recogn === 'none' ? 'recogn-none' : '';
+    const imgSrc = imagePath(row);
+    const desc = row.description || '(no description)';
+    const visText = row.visible_text || '';
+
+    return `<div class="card ${cardClass}">
+      ${imgSrc ? `<img src="${imgSrc}" onclick="showLightbox('${imgSrc.replace(/'/g, "\\'")}')" onerror="this.style.opacity='0.15'">` : ''}
+      <div class="info">
+        <div class="word">${row.word}</div>
+        <div class="meta">${row.pid} | ${row.week} | ${row.condition || row.source}${row.source !== 'participant' ? ' | ' + row.source : ''}</div>
+        <div class="desc">${desc}</div>
+        ${visText ? `<div class="visible-text">Text: "${visText}"</div>` : ''}
+        <span class="recogn-badge ${badgeClass}">${recogn}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function showLightbox(src) {
+  document.getElementById('lightboxImg').src = src;
+  document.getElementById('lightbox').style.display = 'flex';
+}
+document.getElementById('lightbox').onclick = () => document.getElementById('lightbox').style.display = 'none';
+
+document.getElementById('sourceFilter').onchange = render;
+document.getElementById('weekFilter').onchange = render;
+document.getElementById('wordFilter').onchange = render;
+document.getElementById('pidFilter').oninput = render;
+document.getElementById('descSearch').oninput = render;
+
+loadData();
+</script>
+</body>
+</html>
